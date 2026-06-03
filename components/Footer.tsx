@@ -35,7 +35,7 @@ export default function Footer() {
 
         {/* Bottom */}
         <div className="footer-bottom">
-          <span>정원엽 — Annotator © {new Date().getFullYear()}</span>
+          <span>Annotator © {new Date().getFullYear()}</span>
           <span>Seoul, Korea</span>
         </div>
       </div>

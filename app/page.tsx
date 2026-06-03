@@ -9,83 +9,68 @@ export default function Home() {
   return (
     <>
       {/* ── HERO ── */}
-      <section className="hero">
-        <div className="hero-inner">
-          <div className="hero-tags fade-in">
-            <span className="role-pill">기자</span>
-            <span style={{ fontSize: '0.75rem', color: 'var(--color-label-subtle)' }}>→</span>
-            <span className="role-pill">PR전략가</span>
-            <span style={{ fontSize: '0.75rem', color: 'var(--color-label-subtle)' }}>→</span>
-            <span className="role-pill active">AI빌더</span>
-          </div>
+      <section style={{ background: 'var(--color-bg)', borderBottom: '1px solid var(--color-separator)', padding: '64px 24px 56px' }}>
+        <div style={{ maxWidth: '640px', margin: '0 auto 0 max(24px, calc((100vw - 960px) / 2))' }}>
 
-          <h1 className="hero-title fade-in delay-1">
-            언어와 코드로<br />
-            조직의 소통을 설계합니다.
+          <h1 className="fade-in" style={{
+            fontSize: '1rem', fontWeight: 700, letterSpacing: '0.06em',
+            textTransform: 'uppercase', color: 'var(--color-label-subtle)',
+            marginBottom: '32px',
+          }}>
+            Annotator
           </h1>
 
-          <p className="hero-desc fade-in delay-2">
-            중앙일보 기자 12년 · 오늘의집 커뮤니케이션 팀장 · GS칼텍스 PR2팀장.<br />
-            AI로 팀 프로세스를 바꾸고, 데이터로 PR 스토리를 만들고,
-            필요한 도구는 직접 만든다.
-          </p>
-
-          <div className="hero-actions fade-in delay-2">
-            <Link href="/portfolio" className="btn-primary">포트폴리오 보기</Link>
-            <Link href="/blog" className="btn-secondary">글 읽기</Link>
+          <div className="fade-in delay-1" style={{ marginBottom: '32px' }}>
+            <p style={{ fontSize: '1.125rem', lineHeight: 1.8, color: 'var(--color-label-muted)', marginBottom: '20px' }}>
+              기업과 세상의 소통 방식에 오래 관심을 가져왔다.
+              중앙일보에서 12년 취재하다 기업 PR로 왔고,
+              지금은 GS칼텍스에서 커뮤니케이션을 맡고 있다.
+            </p>
+            <div style={{
+              borderLeft: '2px solid var(--color-separator)',
+              paddingLeft: '20px',
+              marginBottom: '20px',
+            }}>
+              <p style={{ fontSize: '0.8125rem', fontWeight: 600, letterSpacing: '0.08em', textTransform: 'uppercase', color: 'var(--color-label-subtle)', marginBottom: '10px' }}>
+                요즘 생각하는 것들
+              </p>
+              <div style={{ display: 'flex', flexDirection: 'column', gap: '6px' }}>
+                {[
+                  'AI가 이 일을 어떻게 바꾸는가',
+                  '데이터로 어떤 이야기를 만들 수 있는가',
+                  '기자 출신 PR의 관점',
+                ].map((t) => (
+                  <span key={t} style={{ fontSize: '1rem', color: 'var(--color-label-muted)', lineHeight: 1.6 }}>
+                    {t}
+                  </span>
+                ))}
+              </div>
+            </div>
+            <p style={{ fontSize: '1.125rem', lineHeight: 1.8, color: 'var(--color-label-muted)' }}>
+              그 생각들을 가끔 여기에 쓴다.
+            </p>
           </div>
 
-          <div className="stats-row fade-in delay-3">
-            <div className="stat-item">
-              <span className="stat-num">12년</span>
-              <span className="stat-label">저널리즘 경력</span>
-            </div>
-            <div className="stat-item">
-              <span className="stat-num">2개사</span>
-              <span className="stat-label">커뮤니케이션 팀장</span>
-            </div>
-            <div className="stat-item">
-              <span className="stat-num">5+</span>
-              <span className="stat-label">AI 도구 구축</span>
-            </div>
-            <div className="stat-item">
-              <span className="stat-num">9인</span>
-              <span className="stat-label">현재 팀 규모</span>
-            </div>
+          <div className="fade-in delay-2" style={{ display: 'flex', gap: '20px', flexWrap: 'wrap', alignItems: 'center' }}>
+            <a href="mailto:no1.annotator@gmail.com" style={{ fontSize: '0.875rem', color: 'var(--color-label)', fontWeight: 600, borderBottom: '1px solid var(--color-separator)', paddingBottom: '2px' }}>
+              no1.annotator@gmail.com
+            </a>
+            <a href="https://www.linkedin.com/in/wonyeob-jung-4583754b" target="_blank" rel="noopener" style={{ fontSize: '0.875rem', color: 'var(--color-label-subtle)' }}>
+              LinkedIn ↗
+            </a>
+            <a href="https://github.com/annotator-coder" target="_blank" rel="noopener" style={{ fontSize: '0.875rem', color: 'var(--color-label-subtle)' }}>
+              GitHub ↗
+            </a>
           </div>
-        </div>
-      </section>
 
-      {/* ── FEATURED WORK ── */}
-      <section style={{ background: 'var(--color-bg-secondary)', borderBottom: '1px solid var(--color-separator)' }}>
-        <div className="section-wrap">
-          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'baseline', marginBottom: '24px' }}>
-            <p className="section-label" style={{ marginBottom: 0 }}>Featured Work</p>
-            <Link href="/portfolio" className="btn-ghost" style={{ fontSize: '0.8125rem' }}>
-              전체 보기 →
-            </Link>
-          </div>
-          <div className="cards-grid">
-            {featuredProjects.map((p) => (
-              <Link key={p.slug} href={`/portfolio/${p.slug}`} className="project-card">
-                <span className="pill">{p.category}</span>
-                <h3 className="project-card-title">{p.title}</h3>
-                <p className="project-card-desc">{p.tagline}</p>
-                <div className="project-card-footer">
-                  <span className="project-card-year">{p.year}</span>
-                  <span className="project-card-arrow">케이스 스터디 →</span>
-                </div>
-              </Link>
-            ))}
-          </div>
         </div>
       </section>
 
       {/* ── RECENT WRITING ── */}
       <section style={{ background: 'var(--color-bg)', borderBottom: '1px solid var(--color-separator)' }}>
-        <div className="section-wrap">
+        <div className="section-wrap" style={{ paddingTop: '48px' }}>
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'baseline', marginBottom: '24px' }}>
-            <p className="section-label" style={{ marginBottom: 0 }}>Recent Writing</p>
+            <p className="section-label" style={{ marginBottom: 0 }}>최근에 쓴 글</p>
             <Link href="/blog" className="btn-ghost" style={{ fontSize: '0.8125rem' }}>
               전체 보기 →
             </Link>
@@ -111,20 +96,27 @@ export default function Home() {
         </div>
       </section>
 
-      {/* ── ABOUT TEASER ── */}
-      <section style={{ background: 'var(--color-bg-secondary)' }}>
-        <div className="section-wrap" style={{ paddingTop: '56px', paddingBottom: '56px' }}>
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr auto', gap: '48px', alignItems: 'center' }}>
-            <div>
-              <p className="section-label">About</p>
-              <p style={{ fontSize: 'clamp(1.125rem, 2vw, 1.375rem)', fontWeight: 700, letterSpacing: '-0.02em', lineHeight: 1.4, maxWidth: '600px' }}>
-                기자는 세상을 기록하고, PR은 조직의 언어를 설계한다.
-                두 직업의 교차점에서 지금 하는 일들을 만들었다.
-              </p>
-            </div>
-            <Link href="/about" className="btn-secondary" style={{ whiteSpace: 'nowrap' }}>
-              더 읽기 →
+      {/* ── RECENT WORK ── */}
+      <section style={{ background: 'var(--color-bg-secondary)', borderBottom: '1px solid var(--color-separator)' }}>
+        <div className="section-wrap" style={{ paddingTop: '48px' }}>
+          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'baseline', marginBottom: '24px' }}>
+            <p className="section-label" style={{ marginBottom: 0 }}>최근 작업</p>
+            <Link href="/portfolio" className="btn-ghost" style={{ fontSize: '0.8125rem' }}>
+              전체 보기 →
             </Link>
+          </div>
+          <div className="cards-grid">
+            {featuredProjects.map((p) => (
+              <Link key={p.slug} href={`/portfolio/${p.slug}`} className="project-card">
+                <span className="pill">{p.category}</span>
+                <h3 className="project-card-title">{p.title}</h3>
+                <p className="project-card-desc">{p.tagline}</p>
+                <div className="project-card-footer">
+                  <span className="project-card-year">{p.year}</span>
+                  <span className="project-card-arrow">자세히 →</span>
+                </div>
+              </Link>
+            ))}
           </div>
         </div>
       </section>

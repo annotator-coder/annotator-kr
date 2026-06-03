@@ -15,7 +15,7 @@ export default function Nav() {
   return (
     <nav className="site-nav">
       <Link href="/" className="nav-logo">
-        정원엽
+        Annotator
       </Link>
       <div className="nav-links">
         {links.map(({ href, label }) => (
