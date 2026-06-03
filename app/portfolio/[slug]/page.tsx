@@ -1,0 +1,134 @@
+import type { Metadata } from 'next'
+import { notFound } from 'next/navigation'
+import Link from 'next/link'
+import { getProjectBySlug, projects } from '@/lib/portfolio'
+import { getPostBySlug } from '@/lib/blog'
+
+interface Props {
+  params: Promise<{ slug: string }>
+}
+
+export async function generateStaticParams() {
+  return projects.map((p) => ({ slug: p.slug }))
+}
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { slug } = await params
+  const project = getProjectBySlug(slug)
+  if (!project) return {}
+  return {
+    title: project.title,
+    description: project.tagline,
+  }
+}
+
+export default async function CaseStudy({ params }: Props) {
+  const { slug } = await params
+  const project = getProjectBySlug(slug)
+  if (!project) notFound()
+
+  const relatedPosts = project.relatedBlogSlugs
+    .map((s) => getPostBySlug(s))
+    .filter(Boolean)
+
+  return (
+    <>
+      {/* HERO */}
+      <div className="case-hero">
+        <div style={{ maxWidth: 'var(--max-w)', margin: '0 auto', padding: '0 24px' }}>
+          <Link
+            href="/portfolio"
+            style={{ fontSize: '0.8125rem', color: 'var(--color-label-subtle)', marginBottom: '24px', display: 'inline-flex', alignItems: 'center', gap: '6px' }}
+          >
+            ← Portfolio
+          </Link>
+          <div style={{ display: 'flex', gap: '8px', marginBottom: '16px', marginTop: '16px', flexWrap: 'wrap' }}>
+            <span className="pill">{project.category}</span>
+            <span className="pill">{project.year}</span>
+          </div>
+          <h1 style={{ fontSize: 'clamp(1.75rem, 4vw, 2.75rem)', fontWeight: 800, letterSpacing: '-0.03em', lineHeight: 1.1, marginBottom: '20px' }}>
+            {project.title}
+          </h1>
+          <p style={{ fontSize: '1.125rem', color: 'var(--color-label-muted)', lineHeight: 1.65, maxWidth: '600px', marginBottom: '28px' }}>
+            {project.description}
+          </p>
+          <div style={{ display: 'flex', gap: '12px', flexWrap: 'wrap' }}>
+            {project.href && (
+              <a href={project.href} target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ fontSize: '0.875rem', padding: '10px 20px' }}>
+                프로젝트 보기 ↗
+              </a>
+            )}
+          </div>
+        </div>
+      </div>
+
+      {/* PROBLEM */}
+      <div className="case-section">
+        <p className="case-section-title">문제 · Challenge</p>
+        <p className="case-body">{project.problem}</p>
+      </div>
+
+      {/* APPROACH */}
+      <div className="case-section">
+        <p className="case-section-title">접근 방식 · Approach</p>
+        <div className="case-list">
+          {project.approach.map((item, i) => (
+            <div key={i} className="case-list-item">
+              <div className="case-list-bullet">{i + 1}</div>
+              <span>{item}</span>
+            </div>
+          ))}
+        </div>
+      </div>
+
+      {/* OUTCOME */}
+      <div className="case-section">
+        <p className="case-section-title">결과 · Outcome</p>
+        <div className="case-list">
+          {project.outcome.map((item, i) => (
+            <div key={i} className="case-list-item">
+              <div className="case-list-bullet" style={{ background: 'rgba(0,122,255,0.1)', color: 'var(--color-primary)' }}>✓</div>
+              <span>{item}</span>
+            </div>
+          ))}
+        </div>
+      </div>
+
+      {/* RELATED BLOG POSTS */}
+      {relatedPosts.length > 0 && (
+        <div className="case-section">
+          <p className="case-section-title">이 경험에서 배운 것 · Insights</p>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: '12px', maxWidth: '680px' }}>
+            {relatedPosts.map((post) => post && (
+              <Link key={post.slug} href={`/blog/${post.slug}`} className="related-box">
+                <div>
+                  <p className="related-box-label">Blog Post</p>
+                  <p className="related-box-title">{post.title}</p>
+                </div>
+                <span className="related-box-arrow">→</span>
+              </Link>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {/* TAGS */}
+      <div className="case-section" style={{ borderBottom: '1px solid var(--color-separator)' }}>
+        <p className="case-section-title">Tags</p>
+        <div style={{ display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
+          {project.tags.map((tag) => (
+            <span key={tag} className="pill">{tag}</span>
+          ))}
+        </div>
+      </div>
+
+      {/* NAV */}
+      <div style={{ background: 'var(--color-bg-secondary)', padding: '32px 24px' }}>
+        <div style={{ maxWidth: 'var(--max-w)', margin: '0 auto', display: 'flex', justifyContent: 'space-between', flexWrap: 'wrap', gap: '12px' }}>
+          <Link href="/portfolio" className="btn-secondary">← 전체 포트폴리오</Link>
+          <Link href="/blog" className="btn-ghost">관련 글 읽기 →</Link>
+        </div>
+      </div>
+    </>
+  )
+}

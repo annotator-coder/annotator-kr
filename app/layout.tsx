@@ -1,37 +1,17 @@
 import type { Metadata } from 'next'
-import { Cormorant_Garamond, DM_Sans, DM_Mono } from 'next/font/google'
+import Nav from '@/components/Nav'
+import Footer from '@/components/Footer'
 import './globals.css'
 
-const cormorant = Cormorant_Garamond({
-  subsets: ['latin'],
-  weight: ['300', '400', '500', '600'],
-  style: ['normal', 'italic'],
-  variable: '--font-cormorant',
-  display: 'swap',
-})
-
-const dmSans = DM_Sans({
-  subsets: ['latin'],
-  weight: ['300', '400', '500'],
-  style: ['normal', 'italic'],
-  variable: '--font-dm-sans',
-  display: 'swap',
-})
-
-const dmMono = DM_Mono({
-  subsets: ['latin'],
-  weight: ['300', '400'],
-  variable: '--font-dm-mono',
-  display: 'swap',
-})
-
 export const metadata: Metadata = {
-  title: 'Annotator — 커뮤니케이션 전략 리더',
-  description:
-    '16년간 언어로 세상을 기록한 저널리스트에서, 기업의 전략적 소통을 이끄는 커뮤니케이션 리더로.',
+  title: {
+    default: '정원엽 — 커뮤니케이션 전략가 · AI 빌더',
+    template: '%s | 정원엽',
+  },
+  description: '기자 · PR전략가 · AI빌더. 언어와 코드로 조직의 소통을 설계합니다.',
   openGraph: {
-    title: 'Annotator — 커뮤니케이션 전략 리더',
-    description: 'Strategic Communications Leader · AI in Communications',
+    title: '정원엽 — 커뮤니케이션 전략가 · AI 빌더',
+    description: '기자 · PR전략가 · AI빌더',
     url: 'https://annotator.kr',
     siteName: 'Annotator',
   },
@@ -39,11 +19,18 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html
-      lang="ko"
-      className={`${cormorant.variable} ${dmSans.variable} ${dmMono.variable}`}
-    >
-      <body>{children}</body>
+    <html lang="ko">
+      <head>
+        <link
+          rel="stylesheet"
+          href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css"
+        />
+      </head>
+      <body>
+        <Nav />
+        <main>{children}</main>
+        <Footer />
+      </body>
     </html>
   )
 }
