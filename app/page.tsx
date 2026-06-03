@@ -13,9 +13,12 @@ export default function Home() {
         <div style={{ maxWidth: '640px', margin: '0 auto 0 max(24px, calc((100vw - 960px) / 2))' }}>
 
           <h1 className="fade-in" style={{
-            fontSize: '1rem', fontWeight: 700, letterSpacing: '0.06em',
-            textTransform: 'uppercase', color: 'var(--color-label-subtle)',
-            marginBottom: '32px',
+            fontSize: 'clamp(2.75rem, 8vw, 5.5rem)',
+            fontWeight: 800,
+            letterSpacing: '-0.035em',
+            lineHeight: 1.0,
+            color: 'var(--color-label)',
+            marginBottom: '36px',
           }}>
             Annotator
           </h1>
