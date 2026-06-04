@@ -3,29 +3,9 @@ import Link from 'next/link'
 
 export const metadata: Metadata = {
   title: 'About',
-  description: '기자에서 PR전략가, AI빌더로. 정원엽의 커리어 스토리와 가치관.',
+  description: 'Annotator — 언론에서 스타트업, 에너지기업으로. 변화를 향해 일하는 사람.',
 }
 
-const career = [
-  {
-    period: '2024.11 —',
-    company: 'GS칼텍스',
-    role: 'PR2팀 팀장',
-    note: '기업 커뮤니케이션 전략 수립 · CEO 메시지 관리 · 미디어 관계 · 9인 팀 리드. AI 기반 위기대응 시스템, 에너지 통계 대시보드 등 데이터·AI 도구 직접 구축.',
-  },
-  {
-    period: '2022.06 — 2024.11',
-    company: '오늘의집',
-    role: '커뮤니케이션 팀장',
-    note: '브랜드 커뮤니케이션 · 위기관리 PR · 스타트업 스케일업 시기 PR 전략. 유니콘 성장 과정에서의 언론 대응 및 브랜드 저널리즘 기획.',
-  },
-  {
-    period: '2010 — 2022.06',
-    company: '중앙일보',
-    role: '기자 · 12년',
-    note: '정치부, 테크부, 국제부. 데이터 저널리즘, 탐사보도. 복잡한 현실을 독자가 이해할 수 있는 언어로 번역하는 훈련.',
-  },
-]
 
 const values = [
   {
@@ -59,9 +39,12 @@ export default function About() {
       <div className="page-header">
         <div className="page-header-inner">
           <p className="page-header-label">About</p>
-          <h1 className="page-header-title">정원엽</h1>
+          <h1 className="page-header-title">Annotator</h1>
           <p className="page-header-desc">
-            기자, PR전략가, AI 빌더. 언어와 코드로 조직의 소통을 설계합니다.
+            과학을 좋아하던 아이는 국제정치와 협상을 전공하고 언론사에서 일했습니다.
+            언론에서 수많은 사람들을 만나고 경험하며 관찰자에서 실행하고 싶어졌고,
+            유니콘 스타트업에서 일하다 지금은 새로운 시대를 준비하는 에너지기업에서 일하고 있습니다.
+            호기심 많은 아들의 아빠로 늘 재미있는 모험을 찾고 있습니다.
           </p>
         </div>
       </div>
@@ -73,20 +56,16 @@ export default function About() {
             <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
               <p className="section-label">나의 이야기</p>
               <p style={{ fontSize: '1.125rem', lineHeight: 1.8, color: 'var(--color-label-muted)' }}>
-                16년간 언어로 세상을 기록했다. 중앙일보에서 정치, 기술, 국제 이슈를 취재하며
-                복잡한 현실을 독자가 이해할 수 있는 언어로 번역하는 일을 했다.
-                데이터 저널리즘을 익히고, 탐사보도를 하면서 "어떻게 하면 중요한 것을 명확하게 전달할 수 있는가"를
-                끊임없이 고민했다.
+                언론사에서 사회, 정치, 기술을 취재하며 복잡한 현실을 독자가 이해할 수 있는 언어로 전달하는 일을 했다.
+                개발자, 디자이너와 함께 협업하며 데이터 저널리즘과 인터랙티브 미디어를 연구했고,
+                새로운 미디어 매체를 만들고 유튜브에도 출연했다.
               </p>
               <p style={{ fontSize: '1.125rem', lineHeight: 1.8, color: 'var(--color-label-muted)' }}>
-                오늘의집에서 커뮤니케이션 팀장을 맡으면서 방향이 바뀌었다. 스타트업이 유니콘으로 성장하는 과정에서
-                브랜드의 언어를 설계하고, 위기를 관리하고, 미디어와 관계를 구축하는 일을 했다.
-                기자 출신의 강점은 "저쪽에서 어떻게 보이는가"를 알고 있다는 것이었다.
+                언론이 바뀌는 것을 기다리기 보다 콘텐츠와 커머스, 커뮤니티가 연결된 곳에서 역할을 하고 싶어
+                유니콘 스타트업으로 옮겼고 브랜드의 언어를 배우며 위기관리와 대내외 커뮤니케이션의 기술을 익혔다.
               </p>
               <p style={{ fontSize: '1.125rem', lineHeight: 1.8, color: 'var(--color-label-muted)' }}>
-                GS칼텍스 PR2팀장을 맡으면서 새로운 실험을 시작했다. 팀이 필요한 도구가 없으면 직접 만든다.
-                AI 위기대응 시스템, 에너지 통계 대시보드, 인터랙티브 데이터 시각화.
-                커뮤니케이션 전략가가 개발 도구를 직접 쓸 때 어떤 것들이 가능해지는지 탐구하고 있다.
+                새로운 도전을 위해 대기업에서 팀리드를 맡아 전략적 커뮤니케이션에 대한 고민을 이어가고 있다.
               </p>
             </div>
             <div style={{ display: 'flex', flexDirection: 'column', gap: '32px' }}>
@@ -135,27 +114,6 @@ export default function About() {
                 <p style={{ fontSize: '0.9375rem', color: 'var(--color-label-muted)', lineHeight: 1.65 }}>
                   {v.desc}
                 </p>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* CAREER */}
-      <section style={{ background: 'var(--color-bg)' }}>
-        <div className="section-wrap">
-          <p className="section-label">Career</p>
-          <div>
-            {career.map((item, i) => (
-              <div key={i} className="timeline-item">
-                <div>
-                  <div className="timeline-period">{item.period}</div>
-                  <div className="timeline-role">{item.role}</div>
-                </div>
-                <div>
-                  <div className="timeline-company">{item.company}</div>
-                  <div className="timeline-note">{item.note}</div>
-                </div>
               </div>
             ))}
           </div>

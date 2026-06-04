@@ -25,9 +25,8 @@ export default function Home() {
 
           <div className="fade-in delay-1" style={{ marginBottom: '32px' }}>
             <p style={{ fontSize: '1.125rem', lineHeight: 1.8, color: 'var(--color-label-muted)', marginBottom: '20px' }}>
-              기업과 세상의 소통 방식에 오래 관심을 가져왔다.
-              중앙일보에서 12년 취재하다 기업 PR로 왔고,
-              지금은 GS칼텍스에서 커뮤니케이션을 맡고 있다.
+              불완전함에 대해 고민하고, 변화에 촉각을 곤두세워 일한다.
+              현상유지(status quo)의 안정성 보다 변화(Change)에서 진보(Progress)가 일어난다고 믿는다.
             </p>
             <div style={{
               borderLeft: '2px solid var(--color-separator)',
@@ -39,9 +38,9 @@ export default function Home() {
               </p>
               <div style={{ display: 'flex', flexDirection: 'column', gap: '6px' }}>
                 {[
-                  'AI가 이 일을 어떻게 바꾸는가',
-                  '데이터로 어떤 이야기를 만들 수 있는가',
-                  '기자 출신 PR의 관점',
+                  'AI가 만드는 변화',
+                  '변화에 따라 진화할 수 있는 시스템',
+                  '일과 삶의 톱니바퀴',
                 ].map((t) => (
                   <span key={t} style={{ fontSize: '1rem', color: 'var(--color-label-muted)', lineHeight: 1.6 }}>
                     {t}

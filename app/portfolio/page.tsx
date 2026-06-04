@@ -14,7 +14,7 @@ export default function Portfolio() {
       <div className="page-header">
         <div className="page-header-inner">
           <p className="page-header-label">Portfolio</p>
-          <h1 className="page-header-title">만든 것들</h1>
+          <h1 className="page-header-title">Projects</h1>
           <p className="page-header-desc">
             AI 시스템, 데이터 시각화, PR 콘텐츠. 각 프로젝트의 문제, 접근 방식, 결과를 케이스 스터디로 정리했습니다.
           </p>

@@ -4,7 +4,7 @@ import { posts } from '@/lib/blog'
 
 export const metadata: Metadata = {
   title: 'Blog',
-  description: 'AI, PR 전략, 데이터 저널리즘, 커리어에 관한 글.',
+  description: '살면서, 일하면서, 여행하면서, 놀면서 느낀 것들.',
 }
 
 export default function Blog() {
@@ -18,10 +18,10 @@ export default function Blog() {
       <div className="page-header">
         <div className="page-header-inner">
           <p className="page-header-label">Blog</p>
-          <h1 className="page-header-title">글과 인사이트</h1>
+          <h1 className="page-header-title">Thought</h1>
           <p className="page-header-desc">
-            AI, PR 전략, 데이터 저널리즘, 커리어에 관한 생각을 씁니다.
-            각 글에는 관련 프로젝트 링크가 있습니다.
+            살면서, 일하면서, 여행하면서, 놀면서 느낀 것들을 글로 풀어 냅니다.
+            글에서 프로젝트로 연결된 것들은 링크로 연결해뒀습니다.
           </p>
         </div>
       </div>

@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 export const metadata: Metadata = {
   title: 'Contact',
-  description: '뉴스레터 구독 및 연락처.',
+  description: '협업 제안이나 질문은 편하게 연락주세요.',
 }
 
 export default function Contact() {
@@ -12,52 +12,13 @@ export default function Contact() {
       {/* HEADER */}
       <div className="page-header">
         <div className="page-header-inner">
-          <p className="page-header-label">Contact & Newsletter</p>
-          <h1 className="page-header-title">구독 · 연락</h1>
+          <p className="page-header-label">Contact</p>
+          <h1 className="page-header-title">연락</h1>
           <p className="page-header-desc">
-            커뮤니케이션, AI, 전략에 관한 인사이트를 격주로 보냅니다.
             협업 제안이나 질문도 편하게 연락주세요.
           </p>
         </div>
       </div>
-
-      {/* NEWSLETTER */}
-      <section style={{ background: 'var(--color-bg-secondary)', borderBottom: '1px solid var(--color-separator)' }}>
-        <div className="section-wrap">
-          <div style={{
-            background: 'var(--color-bg)',
-            border: '1px solid var(--color-separator)',
-            borderRadius: 'var(--radius-lg)',
-            padding: '40px',
-            maxWidth: '560px',
-          }}>
-            <p className="section-label">Newsletter</p>
-            <h2 style={{ fontSize: '1.5rem', fontWeight: 800, letterSpacing: '-0.025em', marginBottom: '12px', lineHeight: 1.25 }}>
-              격주 뉴스레터
-            </h2>
-            <p style={{ fontSize: '1.0625rem', color: 'var(--color-label-muted)', lineHeight: 1.65, marginBottom: '28px' }}>
-              AI가 커뮤니케이션을 어떻게 바꾸는가, 데이터로 PR 스토리를 만드는 법,
-              기자 출신 PR의 관점. 격주로 보냅니다.
-            </p>
-            <div style={{ display: 'flex', gap: '8px', marginBottom: '16px', flexWrap: 'wrap' }}>
-              <span className="pill">AI in Communications</span>
-              <span className="pill">데이터 저널리즘</span>
-              <span className="pill">전략 PR</span>
-              <span className="pill">커리어</span>
-            </div>
-            <a
-              href="mailto:no1.annotator@gmail.com?subject=뉴스레터 구독 신청"
-              className="btn-primary"
-              style={{ marginTop: '8px' }}
-            >
-              구독 신청 →
-            </a>
-            <p style={{ fontSize: '0.75rem', color: 'var(--color-label-subtle)', marginTop: '12px' }}>
-              이메일로 구독 신청을 보내주시면 다음 발행부터 받으실 수 있습니다.
-            </p>
-          </div>
-        </div>
-      </section>
 
       {/* CONTACT */}
       <section style={{ background: 'var(--color-bg)' }}>

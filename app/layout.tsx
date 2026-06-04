@@ -5,13 +5,13 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: {
-    default: '정원엽 — 커뮤니케이션 전략가 · AI 빌더',
-    template: '%s | 정원엽',
+    default: 'Annotator',
+    template: '%s | Annotator',
   },
-  description: '기자 · PR전략가 · AI빌더. 언어와 코드로 조직의 소통을 설계합니다.',
+  description: '불완전함에 대해 고민하고, 변화에 촉각을 곤두세워 일한다.',
   openGraph: {
-    title: '정원엽 — 커뮤니케이션 전략가 · AI 빌더',
-    description: '기자 · PR전략가 · AI빌더',
+    title: 'Annotator',
+    description: '불완전함에 대해 고민하고, 변화에 촉각을 곤두세워 일한다.',
     url: 'https://annotator.kr',
     siteName: 'Annotator',
   },

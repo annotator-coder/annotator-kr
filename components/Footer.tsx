@@ -4,17 +4,6 @@ export default function Footer() {
   return (
     <footer className="site-footer">
       <div className="footer-inner">
-        {/* Newsletter CTA */}
-        <div className="footer-newsletter">
-          <p className="footer-newsletter-label">Newsletter</p>
-          <h3 className="footer-newsletter-title">
-            커뮤니케이션, AI, 전략에 관한 인사이트를 격주로 보냅니다.
-          </h3>
-          <Link href="/contact" className="btn-primary footer-newsletter-btn">
-            구독하기 →
-          </Link>
-        </div>
-
         {/* Links */}
         <div className="footer-links">
           <div className="footer-col">
