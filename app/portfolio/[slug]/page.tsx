@@ -58,6 +58,11 @@ export default async function CaseStudy({ params }: Props) {
                 프로젝트 보기 ↗
               </a>
             )}
+            {project.links?.map((link) => (
+              <a key={link.url} href={link.url} target="_blank" rel="noopener noreferrer" className="btn-secondary" style={{ fontSize: '0.875rem', padding: '10px 20px' }}>
+                {link.label} ↗
+              </a>
+            ))}
           </div>
         </div>
       </div>
@@ -80,6 +85,29 @@ export default async function CaseStudy({ params }: Props) {
           ))}
         </div>
       </div>
+
+      {/* IMAGES */}
+      {project.images && project.images.length > 0 && (
+        <div className="case-section">
+          <p className="case-section-title">작업물 · Work</p>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: '24px', maxWidth: '720px' }}>
+            {project.images.map((img, i) => (
+              <figure key={i} style={{ margin: 0 }}>
+                <img
+                  src={img.src}
+                  alt={img.caption ?? ''}
+                  style={{ width: '100%', borderRadius: 'var(--radius-md)', border: '1px solid var(--color-separator)' }}
+                />
+                {img.caption && (
+                  <figcaption style={{ fontSize: '0.75rem', color: 'var(--color-label-subtle)', marginTop: '8px', lineHeight: 1.5 }}>
+                    {img.caption}
+                  </figcaption>
+                )}
+              </figure>
+            ))}
+          </div>
+        </div>
+      )}
 
       {/* OUTCOME */}
       <div className="case-section">

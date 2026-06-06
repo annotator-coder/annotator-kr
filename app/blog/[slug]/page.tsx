@@ -1,6 +1,8 @@
 import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import Link from 'next/link'
+import ReactMarkdown from 'react-markdown'
+import remarkGfm from 'remark-gfm'
 import { getPostBySlug, posts } from '@/lib/blog'
 import { getProjectBySlug } from '@/lib/portfolio'
 
@@ -22,37 +24,41 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 }
 
-function renderContent(content: string) {
-  const lines = content.split('\n')
-  const elements: React.ReactNode[] = []
-  let i = 0
-
-  while (i < lines.length) {
-    const line = lines[i]
-    if (line.startsWith('**') && line.endsWith('**') && !line.startsWith('**') === false) {
-      const inner = line.slice(2, -2)
-      elements.push(
-        <h3 key={i} style={{ fontSize: '1.125rem', fontWeight: 700, letterSpacing: '-0.02em', color: 'var(--color-label)', margin: '2em 0 0.5em' }}>
-          {inner}
-        </h3>
-      )
-    } else if (line.trim() === '') {
-      // skip empty
-    } else {
-      const parts = line.split(/\*\*(.+?)\*\*/g)
-      elements.push(
-        <p key={i} style={{ fontSize: '1.0625rem', lineHeight: 1.85, color: 'var(--color-label-muted)', margin: '0.75em 0' }}>
-          {parts.map((part, j) =>
-            j % 2 === 1
-              ? <strong key={j} style={{ color: 'var(--color-label)', fontWeight: 700 }}>{part}</strong>
-              : part
-          )}
-        </p>
-      )
-    }
-    i++
-  }
-  return elements
+const mdComponents = {
+  p: (props: React.HTMLAttributes<HTMLParagraphElement>) => (
+    <p style={{ fontSize: '1.0625rem', lineHeight: 1.85, color: 'var(--color-label-muted)', margin: '0.75em 0' }} {...props} />
+  ),
+  h2: (props: React.HTMLAttributes<HTMLHeadingElement>) => (
+    <h2 style={{ fontSize: '1.375rem', fontWeight: 700, letterSpacing: '-0.02em', color: 'var(--color-label)', margin: '2.5em 0 0.75em' }} {...props} />
+  ),
+  h3: (props: React.HTMLAttributes<HTMLHeadingElement>) => (
+    <h3 style={{ fontSize: '1.125rem', fontWeight: 700, letterSpacing: '-0.02em', color: 'var(--color-label)', margin: '2em 0 0.5em' }} {...props} />
+  ),
+  blockquote: (props: React.HTMLAttributes<HTMLElement>) => (
+    <blockquote style={{ borderLeft: '3px solid var(--color-separator)', paddingLeft: '1em', margin: '1.5em 0', color: 'var(--color-label-subtle)', fontStyle: 'italic' }} {...props} />
+  ),
+  strong: (props: React.HTMLAttributes<HTMLElement>) => (
+    <strong style={{ color: 'var(--color-label)', fontWeight: 700 }} {...props} />
+  ),
+  img: (props: React.ImgHTMLAttributes<HTMLImageElement>) => (
+    // eslint-disable-next-line @next/next/no-img-element
+    <img {...props} alt={props.alt ?? ''} style={{ maxWidth: '100%', borderRadius: '8px', margin: '1em 0', display: 'block' }} />
+  ),
+  a: (props: React.AnchorHTMLAttributes<HTMLAnchorElement>) => (
+    <a {...props} target="_blank" rel="noopener noreferrer" style={{ color: 'var(--color-primary)', textDecoration: 'underline' }} />
+  ),
+  ul: (props: React.HTMLAttributes<HTMLUListElement>) => (
+    <ul style={{ paddingLeft: '1.5em', margin: '0.75em 0', color: 'var(--color-label-muted)' }} {...props} />
+  ),
+  ol: (props: React.HTMLAttributes<HTMLOListElement>) => (
+    <ol style={{ paddingLeft: '1.5em', margin: '0.75em 0', color: 'var(--color-label-muted)' }} {...props} />
+  ),
+  li: (props: React.LiHTMLAttributes<HTMLLIElement>) => (
+    <li style={{ fontSize: '1.0625rem', lineHeight: 1.8, margin: '0.25em 0' }} {...props} />
+  ),
+  hr: () => (
+    <hr style={{ border: 'none', borderTop: '1px solid var(--color-separator)', margin: '2em 0' }} />
+  ),
 }
 
 export default async function BlogPost({ params }: Props) {
@@ -93,7 +99,20 @@ export default async function BlogPost({ params }: Props) {
       <section style={{ background: 'var(--color-bg)' }}>
         <div className="section-wrap" style={{ paddingTop: '48px', paddingBottom: '48px' }}>
           <div style={{ maxWidth: '660px' }}>
-            {renderContent(post.content)}
+            {post.sourceUrl && (
+              <div style={{ marginBottom: '32px', padding: '16px 20px', background: 'var(--color-bg-secondary)', borderRadius: 'var(--radius-md)', display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '12px', flexWrap: 'wrap' }}>
+                <span style={{ fontSize: '0.8125rem', color: 'var(--color-label-subtle)' }}>
+                  원문: {post.sourceUrl.includes('brunch.co.kr') ? 'Brunch' : 'Naver Blog'}
+                </span>
+                <a href={post.sourceUrl} target="_blank" rel="noopener noreferrer"
+                  style={{ fontSize: '0.8125rem', color: 'var(--color-primary)', fontWeight: 600, textDecoration: 'none' }}>
+                  원문 보기 →
+                </a>
+              </div>
+            )}
+            <ReactMarkdown remarkPlugins={[remarkGfm]} components={mdComponents}>
+              {post.content}
+            </ReactMarkdown>
           </div>
         </div>
       </section>
@@ -120,9 +139,8 @@ export default async function BlogPost({ params }: Props) {
 
       {/* NAV */}
       <div style={{ background: 'var(--color-bg)', borderTop: '1px solid var(--color-separator)', padding: '32px 24px' }}>
-        <div style={{ maxWidth: 'var(--max-w)', margin: '0 auto', display: 'flex', justifyContent: 'space-between', flexWrap: 'wrap', gap: '12px' }}>
+        <div style={{ maxWidth: 'var(--max-w)', margin: '0 auto' }}>
           <Link href="/blog" className="btn-secondary">← 전체 글 보기</Link>
-          <Link href="/contact" className="btn-ghost">뉴스레터 구독 →</Link>
         </div>
       </div>
     </>

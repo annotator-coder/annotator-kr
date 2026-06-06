@@ -48,9 +48,6 @@ export default function Home() {
                 ))}
               </div>
             </div>
-            <p style={{ fontSize: '1.125rem', lineHeight: 1.8, color: 'var(--color-label-muted)' }}>
-              그 생각들을 가끔 여기에 쓴다.
-            </p>
           </div>
 
           <div className="fade-in delay-2" style={{ display: 'flex', gap: '20px', flexWrap: 'wrap', alignItems: 'center' }}>
