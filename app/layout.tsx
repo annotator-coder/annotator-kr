@@ -35,10 +35,9 @@ export const metadata: Metadata = {
     follow: true,
     googleBot: { index: true, follow: true, 'max-image-preview': 'large' },
   },
-  // Google Search Console 인증 — 콘솔에서 발급받은 코드로 교체
-  // verification: {
-  //   google: 'YOUR_GOOGLE_VERIFICATION_CODE',
-  // },
+  verification: {
+    google: 'yRPBN7XlSpfWE5nK7AEP7pe2T-I8ArPVQAn1KJ2o4Ig',
+  },
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
