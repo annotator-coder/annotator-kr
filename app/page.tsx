@@ -1,6 +1,32 @@
+import type { Metadata } from 'next'
 import Link from 'next/link'
 import { getFeaturedProjects } from '@/lib/portfolio'
 import { getRecentPosts } from '@/lib/blog'
+import JsonLd from '@/components/JsonLd'
+
+export const metadata: Metadata = {
+  title: 'Annotator',
+  description: '11년 기자 출신 PR 리드. AI 도구를 직접 만들며 커뮤니케이션과 엔지니어링의 경계에서 일합니다.',
+  alternates: { canonical: 'https://annotator.kr' },
+}
+
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'Annotator',
+  url: 'https://annotator.kr',
+  description: '11년 기자 출신 PR 리드의 포트폴리오·블로그. AI 시스템, 데이터 시각화, PR 콘텐츠 케이스 스터디.',
+  author: {
+    '@type': 'Person',
+    name: 'Annotator',
+    url: 'https://annotator.kr/about',
+  },
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: 'https://annotator.kr/blog?q={search_term_string}',
+    'query-input': 'required name=search_term_string',
+  },
+}
 
 export default function Home() {
   const featuredProjects = getFeaturedProjects()
@@ -8,6 +34,7 @@ export default function Home() {
 
   return (
     <>
+      <JsonLd data={websiteSchema} />
       {/* ── HERO ── */}
       <section style={{ background: 'var(--color-bg)', borderBottom: '1px solid var(--color-separator)', padding: '64px 24px 56px' }}>
         <div style={{ maxWidth: '640px', margin: '0 auto 0 max(24px, calc((100vw - 960px) / 2))' }}>

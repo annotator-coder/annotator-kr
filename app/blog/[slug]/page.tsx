@@ -5,6 +5,7 @@ import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import { getPostBySlug, posts } from '@/lib/blog'
 import { getProjectBySlug } from '@/lib/portfolio'
+import JsonLd from '@/components/JsonLd'
 
 interface Props {
   params: Promise<{ slug: string }>
@@ -21,6 +22,22 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: post.title,
     description: post.excerpt,
+    alternates: { canonical: `https://annotator.kr/blog/${slug}` },
+    openGraph: {
+      title: post.title,
+      description: post.excerpt,
+      url: `https://annotator.kr/blog/${slug}`,
+      type: 'article',
+      publishedTime: post.date,
+      authors: ['https://annotator.kr/about'],
+      section: post.category,
+      locale: 'ko_KR',
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: post.title,
+      description: post.excerpt,
+    },
   }
 }
 
@@ -70,8 +87,31 @@ export default async function BlogPost({ params }: Props) {
     .map((s) => getProjectBySlug(s))
     .filter(Boolean)
 
+  const articleSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: post.title,
+    description: post.excerpt,
+    url: `https://annotator.kr/blog/${slug}`,
+    datePublished: post.date,
+    inLanguage: 'ko',
+    author: {
+      '@type': 'Person',
+      name: 'Annotator',
+      url: 'https://annotator.kr/about',
+    },
+    publisher: {
+      '@type': 'Person',
+      name: 'Annotator',
+      url: 'https://annotator.kr',
+    },
+    articleSection: post.category,
+    timeRequired: `PT${post.readingTime}M`,
+  }
+
   return (
     <>
+      <JsonLd data={articleSchema} />
       {/* HEADER */}
       <div className="page-header" style={{ borderBottom: '1px solid var(--color-separator)' }}>
         <div className="page-header-inner">

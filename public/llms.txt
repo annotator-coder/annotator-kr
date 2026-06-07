@@ -1,0 +1,37 @@
+# Annotator — annotator.kr
+
+> 11년 기자 출신 PR 리드의 포트폴리오·블로그. AI 시스템, 데이터 시각화, PR 콘텐츠 케이스 스터디.
+
+## Who
+
+저널리즘·PR·엔지니어링의 교차점에서 일하는 커뮤니케이터.
+중앙일보 기자로 11년(사회·정치·기술 분야), 유니콘 스타트업(오늘의집) PR, 현재 대기업 에너지 회사 PR 팀리드.
+AI 도구를 직접 만들고 코드를 짜는 스토리텔러.
+
+수상: 한국온라인저널리즘어워드 2연속 수상(2017-2018, 한국 최초), Google News Lab Fellowship 심사위원(2018).
+
+## Pages
+
+- /about — 커리어 배경, 가치관, 스킬셋
+- /portfolio — AI 자동화·데이터 시각화·PR 콘텐츠 케이스 스터디 30건+
+- /blog — 저널리즘·PR·커리어·에세이·여행 글 모음
+- /contact — 협업 제안·문의
+
+## Key Portfolio Work
+
+- 위기대응 AI 시스템: 이슈 탐지→대응 초안 자동화, 팀 대응 시간 1/3 단축 (Node.js, PM2)
+- 에너지 안보 인터랙티브 지도: D3.js, Vercel 배포
+- 에너지 통계 대시보드: 37개 지표 인터랙티브 시각화 (Chart.js)
+- AI 글쓰기 파트너: 13년 기자 경력 페르소나 학습 프롬프트 시스템 (Flask)
+- PR KPI 대시보드: 주간 보고 자동화 (Google Sheets 연동)
+- 판문점 3D 재현 인터랙티브 저널리즘
+
+## Blog Topics
+
+PR 커리어, AI in Communications, 데이터 저널리즘, 위기 커뮤니케이션 전략, 에세이(기자 생활·커리어 전환), 여행, 서평, 영화 리뷰
+
+## Contact
+
+Email: no1.annotator@gmail.com
+LinkedIn: https://www.linkedin.com/in/wonyeob-jung-4583754b
+GitHub: https://github.com/annotator-coder

@@ -1,9 +1,41 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import JsonLd from '@/components/JsonLd'
 
 export const metadata: Metadata = {
   title: 'About',
-  description: 'Journalist-turned-communicator who builds AI tools. 11 years covering tech policy, 3 years in product PR, now bridging storytelling and engineering.',
+  description: '11년 기자 출신 PR 리드. 중앙일보 기자, 오늘의집 PR, GS칼텍스 PR팀장. AI 도구를 직접 만들며 커뮤니케이션과 엔지니어링의 경계에서 일합니다.',
+  alternates: { canonical: 'https://annotator.kr/about' },
+  openGraph: {
+    title: 'About | Annotator',
+    description: '11년 기자 출신 PR 리드. AI 도구를 직접 만들며 커뮤니케이션과 엔지니어링의 경계에서 일합니다.',
+    url: 'https://annotator.kr/about',
+    type: 'profile',
+  },
+}
+
+const personSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Person',
+  name: 'Annotator',
+  url: 'https://annotator.kr',
+  description: '11년 기자 출신 PR 리드. 중앙일보 기자, 오늘의집 PR, GS칼텍스 PR팀장. AI 도구를 직접 만들며 커뮤니케이션과 엔지니어링의 경계에서 일한다.',
+  jobTitle: 'PR Lead',
+  email: 'no1.annotator@gmail.com',
+  sameAs: [
+    'https://www.linkedin.com/in/wonyeob-jung-4583754b',
+    'https://github.com/annotator-coder',
+  ],
+  knowsAbout: [
+    'AI in Communications', '위기 커뮤니케이션', 'CEO 메시지 관리',
+    '데이터 저널리즘', '전략 PR 기획', 'Prompt Engineering',
+    'JavaScript', 'TypeScript', 'Next.js',
+  ],
+  award: [
+    '한국온라인저널리즘어워드 2017 수상',
+    '한국온라인저널리즘어워드 2018 수상',
+    'Google News Lab Fellowship 심사위원 2018',
+  ],
 }
 
 
@@ -35,6 +67,7 @@ const skills = [
 export default function About() {
   return (
     <>
+      <JsonLd data={personSchema} />
       {/* HEADER */}
       <div className="page-header">
         <div className="page-header-inner">

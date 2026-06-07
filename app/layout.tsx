@@ -6,17 +6,34 @@ import Footer from '@/components/Footer'
 import './globals.css'
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://annotator.kr'),
   title: {
     default: 'Annotator',
     template: '%s | Annotator',
   },
-  description: '불완전함에 대해 고민하고, 변화에 촉각을 곤두세워 일한다.',
+  description: '11년 기자 출신 PR 리드. AI 도구를 직접 만들며 커뮤니케이션과 엔지니어링의 경계에서 일합니다.',
+  authors: [{ name: 'Annotator', url: 'https://annotator.kr/about' }],
+  creator: 'Annotator',
   openGraph: {
     title: 'Annotator',
-    description: '불완전함에 대해 고민하고, 변화에 촉각을 곤두세워 일한다.',
+    description: '11년 기자 출신 PR 리드. AI 도구를 직접 만들며 커뮤니케이션과 엔지니어링의 경계에서 일합니다.',
     url: 'https://annotator.kr',
     siteName: 'Annotator',
     type: 'website',
+    locale: 'ko_KR',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Annotator',
+    description: '11년 기자 출신 PR 리드. AI 도구를 직접 만들며 커뮤니케이션과 엔지니어링의 경계에서 일합니다.',
+  },
+  alternates: {
+    canonical: 'https://annotator.kr',
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: { index: true, follow: true, 'max-image-preview': 'large' },
   },
   // Google Search Console 인증 — 콘솔에서 발급받은 코드로 교체
   // verification: {

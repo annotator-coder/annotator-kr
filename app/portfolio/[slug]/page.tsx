@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation'
 import Link from 'next/link'
 import { getProjectBySlug, projects } from '@/lib/portfolio'
 import { getPostBySlug } from '@/lib/blog'
+import JsonLd from '@/components/JsonLd'
 
 interface Props {
   params: Promise<{ slug: string }>
@@ -19,6 +20,19 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: project.title,
     description: project.tagline,
+    alternates: { canonical: `https://annotator.kr/portfolio/${slug}` },
+    openGraph: {
+      title: project.title,
+      description: project.tagline,
+      url: `https://annotator.kr/portfolio/${slug}`,
+      type: 'article',
+      locale: 'ko_KR',
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: project.title,
+      description: project.tagline,
+    },
   }
 }
 
@@ -31,8 +45,26 @@ export default async function CaseStudy({ params }: Props) {
     .map((s) => getPostBySlug(s))
     .filter(Boolean)
 
+  const creativeWorkSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'CreativeWork',
+    name: project.title,
+    description: project.description,
+    url: `https://annotator.kr/portfolio/${slug}`,
+    creator: {
+      '@type': 'Person',
+      name: 'Annotator',
+      url: 'https://annotator.kr/about',
+    },
+    keywords: project.tags.join(', '),
+    genre: project.category,
+    dateCreated: project.year,
+    inLanguage: 'ko',
+  }
+
   return (
     <>
+      <JsonLd data={creativeWorkSchema} />
       {/* HERO */}
       <div className="case-hero">
         <div style={{ maxWidth: 'var(--max-w)', margin: '0 auto', padding: '0 24px' }}>
