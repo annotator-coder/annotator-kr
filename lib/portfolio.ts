@@ -428,7 +428,7 @@ export const projects: Project[] = [
     ],
     href: 'https://ohstory.io/',
     featured: false,
-    relatedBlogSlugs: ['ohouse-3c-synergy'],
+    relatedBlogSlugs: ['ohouse-3c-synergy', 'tmon-wemakeprice-crisis'],
   },
   {
     slug: 'lifestyle-trend-report',
