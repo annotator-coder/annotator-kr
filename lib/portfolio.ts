@@ -256,6 +256,57 @@ export const projects: Project[] = [
     relatedBlogSlugs: [],
   },
   {
+    slug: 'ai-blog-assistant',
+    title: 'AI 블로그 어시스턴트',
+    category: 'AI · 콘텐츠 자동화',
+    tags: ['AI', '프롬프트 엔지니어링', 'Flask', '페르소나 설계', '콘텐츠 자동화'],
+    year: '2026',
+    tagline: '13년 기자 경력을 AI에게 학습시켜 만든 나만의 글쓰기 파트너',
+    description:
+      '네이버 블로그·인스타그램·SNS 콘텐츠 전 과정을 자동화한 개인 AI 어시스턴트. 59편의 실제 글을 분석해 글쓰기 스타일·문장 패턴·카테고리별 구조를 v2.1 지침서로 정제하고, Flask 앱으로 구현했다.',
+    problem:
+      '블로그 글 한 편을 완성하는 데 자료 조사부터 사진 배치, SNS 파생 콘텐츠 작성까지 2~3시간이 걸렸다. AI를 쓰면 빨라지지만, 결과물의 톤이 내 글과 달랐다. "AI가 나처럼 쓰게" 만드는 것이 목표였다.',
+    approach: [
+      '1~3차 발행 샘플 59편 전수 분석 — 도입부 패턴, 문장 리듬, 카테고리별 구조 공식 추출',
+      'Louis 페르소나 설계: 기자 문체 + 아버지 시선 + PR 전문가의 진정성 기준 정의',
+      '자료조사 → 초안 → 사진 배치 → 네이버 포스팅 → SNS 파생 5단계 자동화 파이프라인',
+      'Flask 앱으로 구현, 카테고리(체험여행·교육·문화·서책·생각)별 구조 공식 적용',
+    ],
+    outcome: [
+      '블로그 1편 완성 시간 2~3시간 → 40분 이하',
+      '"AI가 쓴 것 같다"는 피드백 없음 — 기자 문체 특유의 두괄식·취재식 리서치 유지',
+      '5개 카테고리 × 포맷 공식으로 일관된 품질 유지',
+    ],
+    href: undefined,
+    featured: false,
+    relatedBlogSlugs: [],
+  },
+  {
+    slug: 'frog-jump',
+    title: '시안이의 개구리 점프',
+    category: '사이드 프로젝트 · 개발',
+    tags: ['게임', 'HTML Canvas', 'JavaScript', '사이드 프로젝트'],
+    year: '2026',
+    tagline: '아들을 위해 AI와 함께 직접 만든 브라우저 게임',
+    description:
+      '초등학생 아들 시안이가 "아빠, 게임 만들어줘"라고 했다. 코딩 몰라도 AI와 함께라면 가능하다는 것을 증명하려 만든 브라우저 게임. HTML Canvas + JavaScript, 모바일 터치 대응.',
+    problem:
+      '"아빠가 게임을 직접 만들어줬으면 좋겠어." 아들의 한 마디에서 시작했다. 게임 개발 경험은 없었지만, AI와 함께라면 어디까지 가능한지 실험해보고 싶었다.',
+    approach: [
+      'Claude와 함께 게임 메카닉 설계 — 점프 물리, 장애물 생성, 난이도 곡선',
+      'HTML Canvas + Vanilla JS로 구현, 모바일 터치·기울기 대응',
+      '아들이 좋아하는 개구리 캐릭터, 어두운 숲 배경, 골드 스코어 시스템 적용',
+      '개발 전 과정을 LinkedIn 5화 "아들을 위해 게임을 만들었다"의 소재로 기록',
+    ],
+    outcome: [
+      '아들의 첫 반응: "아빠 이거 진짜야?" — 목표 달성',
+      'AI 협업으로 게임 개발 비전공자도 완성된 프로덕트를 만들 수 있음을 증명',
+    ],
+    href: undefined,
+    featured: false,
+    relatedBlogSlugs: [],
+  },
+  {
     slug: 'ohouse-newsroom',
     title: '오늘의집 뉴스룸',
     category: '오운드 미디어 · 콘텐츠',
@@ -408,6 +459,33 @@ export const projects: Project[] = [
     relatedBlogSlugs: ['factpl-how-we-work'],
   },
   {
+    slug: 'factpl-futurebook',
+    title: '팩플 퓨처북: 90년대생 창업자가 온다',
+    category: '버티컬 미디어 · 단행본',
+    tags: ['단행본', '심층취재', '스타트업', 'IT저널리즘', '버티컬미디어'],
+    year: '2022',
+    tagline: '90년대생 창업자 7명의 A to Z — 팩플팀 심층 취재 전자책',
+    description:
+      '팩플팀이 90년대생 창업자 7명을 수개월에 걸쳐 심층 취재해 펴낸 전자책. 비욘드뮤직·래디쉬·클라썸·닥터나우·플로틱·스타스테크·긱블 창업자들의 창업 비전, 조직 세팅, 고충을 담았다. 팀 프로젝트로 전체 기여도 약 20%.',
+    problem:
+      '구독 콘텐츠로 소비되는 팩플의 심층 취재물을 단순 아카이빙으로 끝내기엔 아까웠다. 흥행성이 입증된 시리즈를 적은 자원으로 단행본으로 패키징해 신규 독자를 확보하고 2차 수익을 창출하는 전략이 필요했다.',
+    approach: [
+      '콘텐츠, 의료, 교육, 모빌리티, 식품, 물류 분야 90년대생 창업자 7명 직접 취재',
+      '각 창업자 섹션마다 벤처투자자 검증 인터뷰 병행 — "왜 이 팀에 베팅했나" 시각 추가',
+      '팩플 구독 독자 대상 PDF북으로 패키징, 리디북스 통해 외부 유통',
+    ],
+    outcome: [
+      'ISBN 등록 전자책(193쪽) 정식 출판 — 리디북스 판매',
+      '구독 콘텐츠 → 단행본 2차 유통 전략 실증, 팩플 PDF북 시리즈의 시작',
+    ],
+    href: 'https://ridibooks.com/books/902000192',
+    links: [
+      { label: '리디북스 구매 페이지', url: 'https://ridibooks.com/books/902000192' },
+    ],
+    featured: false,
+    relatedBlogSlugs: ['factpl-how-we-work'],
+  },
+  {
     slug: 'grenfel-data',
     title: '우리안의 그렌펠',
     category: '데이터 저널리즘',
@@ -473,6 +551,65 @@ export const projects: Project[] = [
         src: '/portfolio/space-likeit-ui.png',
         caption: '우주여행 티케팅 인터페이스: 패키지별 고도·비행시간·가격을 인터랙티브 궤도 지도로 탐색',
       },
+    ],
+    featured: false,
+    relatedBlogSlugs: [],
+  },
+  {
+    slug: 'panmunjom-3d',
+    title: '판문점 3D 인터랙티브 시리즈',
+    category: '인터랙티브 · 3D 저널리즘',
+    tags: ['Three.js', '3D', '인터랙티브', '디지털스페셜', '남북정상회담'],
+    year: '2018',
+    tagline: '정상회담 하루 전 발행, Three.js로 구현한 판문점 65년 역사와 현장',
+    description:
+      '2018 남북정상회담을 앞두고 발행한 3D 인터랙티브 저널리즘 3부작. Three.js로 판문점 공간을 재현하고 65년 역사를 스크롤 내러티브로 구성한 사전 기획(290), 정상회담 실황 후속편(293), 글로벌 독자 대상 영문판(295)으로 이어진다. 기획: 정원엽.',
+    problem:
+      '판문점이라는 공간은 누구나 이름은 알지만, 실제 구조와 65년 역사를 아는 사람은 없었다. 2018 남북정상회담 전날, 독자가 그 공간을 직접 체험하게 만드는 것이 목표였다.',
+    approach: [
+      'Three.js 기반 3D 판문점 공간 구현 — 자유의집·판문각·군사분계선 등 실제 구조물 재현',
+      '1953 정전~2017 귀순 사건까지 8개 역사 챕터를 3D 공간 위에 스크롤 내러티브로 구성',
+      '3차(4.27)·4차(5.26) 남북정상회담 실황 콘텐츠로 후속 연작 제작',
+      '영문판 별도 제작으로 글로벌 독자 대상 배포',
+    ],
+    outcome: [
+      '정상회담 하루 전(290) → 회담 직후(293) → 영문 글로벌(295) 3부작 완성',
+      '3D 인터랙티브 형식으로 판문점 공간과 65년 역사를 맥락 있게 전달',
+      '영문판 별도 제작 — 국제 독자 대상 한반도 현안 설명 자료로 활용',
+      '제7회 한국온라인저널리즘어워드 멀티미디어스토리텔링 부문 수상 (한국온라인편집기자협회, 2018)',
+    ],
+    href: 'https://www.joongang.co.kr/digitalspecial/290',
+    links: [
+      { label: '그 곳, 판문점 (사전 기획)', url: 'https://www.joongang.co.kr/digitalspecial/290' },
+      { label: '그 날, 판문점 (정상회담 실황)', url: 'https://www.joongang.co.kr/digitalspecial/293' },
+      { label: 'Panmunjom, History in the Making (영문)', url: 'https://www.joongang.co.kr/digitalspecial/295' },
+    ],
+    featured: false,
+    relatedBlogSlugs: [],
+  },
+  {
+    slug: 'roots-two-koreas',
+    title: '하나의 뿌리, 두개의 한국',
+    category: '데이터 저널리즘 · 디지털스페셜',
+    tags: ['데이터저널리즘', '인터랙티브', '남북관계', '디지털스페셜', '중앙일보'],
+    year: '2018',
+    tagline: '분단 70년, 우리는 얼마나 달라졌나 — 남북 정상회담 3일 전 발행한 데이터 기획',
+    description:
+      '2018 남북정상회담(4.27)을 3일 앞두고 발행한 데이터 저널리즘 기획. 분단 70년 동안 달라진 남북의 언어·경제·인구·문화를 인터랙티브 그래픽으로 비교했다. 기획·취재: 정원엽.',
+    problem:
+      '남북정상회담이 임박한 시점, 독자에게 필요한 건 속보가 아니라 "우리가 70년 동안 얼마나 달라졌는가"에 대한 맥락이었다. 분산된 통계를 하나의 인터랙티브 콘텐츠로 만드는 것이 과제였다.',
+    approach: [
+      '남북 분단 70년 주요 지표 수집 — 언어·경제·인구·생활·군사 영역',
+      '인터랙티브 비교 그래픽으로 구성, 스크롤 내러티브 형식 채택',
+      '남북정상회담(4.27) 3일 전 발행 — 뉴스 사이클 맥락 편으로 포지셔닝',
+    ],
+    outcome: [
+      '정상회담 직전 맥락 콘텐츠로 독자 트래픽 집중',
+      '판문점 3D 시리즈(290·293·295)와 함께 2018 남북정상회담 디지털 특집 패키지 완성',
+    ],
+    href: 'https://www.joongang.co.kr/digitalspecial/289',
+    links: [
+      { label: '하나의 뿌리, 두개의 한국', url: 'https://www.joongang.co.kr/digitalspecial/289' },
     ],
     featured: false,
     relatedBlogSlugs: [],
