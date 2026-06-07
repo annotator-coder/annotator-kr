@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 export const metadata: Metadata = {
   title: 'About',
-  description: 'Annotator — 언론에서 스타트업, 에너지기업으로. 변화를 향해 일하는 사람.',
+  description: 'Journalist-turned-communicator who builds AI tools. 11 years covering tech policy, 3 years in product PR, now bridging storytelling and engineering.',
 }
 
 
@@ -18,7 +18,7 @@ const values = [
   },
   {
     title: '도구는 직접 만든다',
-    desc: '필요한 것이 없으면 만든다. 위기대응 AI, 에너지 통계 대시보드, PR KPI 도구. 만드는 사람이 더 깊이 이해한다.',
+    desc: '필요한 것이 없으면 만든다. 위기대응 AI 프로토타입, PR KPI 대시보드, 인터랙티브 데이터 저널리즘. 만드는 사람이 더 깊이 이해한다. 지금 이 사이트도 직접 코딩했다.',
   },
   {
     title: '기자의 관점을 잃지 않는다',
@@ -27,9 +27,9 @@ const values = [
 ]
 
 const skills = [
-  '전략 PR 기획', '위기 커뮤니케이션', 'CEO 메시지 관리',
-  '미디어 관계', 'AI in Communications', '데이터 저널리즘',
-  'HTML / CSS', 'JavaScript', 'Next.js', 'Node.js',
+  'AI in Communications', '위기 커뮤니케이션', 'CEO 메시지 관리',
+  '데이터 저널리즘', '전략 PR 기획', 'Prompt Engineering',
+  'JavaScript / TypeScript', 'Next.js', 'HTML / CSS', 'Python',
 ]
 
 export default function About() {
@@ -41,10 +41,9 @@ export default function About() {
           <p className="page-header-label">About</p>
           <h1 className="page-header-title">Annotator</h1>
           <p className="page-header-desc">
-            과학을 좋아하던 아이는 국제정치와 협상을 전공하고 언론사에서 일했습니다.
-            언론에서 수많은 사람들을 만나고 경험하며 관찰자에서 실행하고 싶어졌고,
-            유니콘 스타트업에서 일하다 지금은 새로운 시대를 준비하는 에너지기업에서 일하고 있습니다.
-            호기심 많은 아들의 아빠로 늘 재미있는 모험을 찾고 있습니다.
+            11년간 기자로 기술 정책과 글로벌 이슈를 취재했고, 유니콘 스타트업에서 위기커뮤니케이션과 PR을 이끌었습니다.
+            지금은 AI 도구를 직접 만들며 커뮤니케이션과 엔지니어링의 경계에서 일합니다.
+            코드를 짜는 스토리텔러, 기자의 시각을 가진 PR 리드.
           </p>
         </div>
       </div>
@@ -56,16 +55,13 @@ export default function About() {
             <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
               <p className="section-label">나의 이야기</p>
               <p style={{ fontSize: '1.125rem', lineHeight: 1.8, color: 'var(--color-label-muted)' }}>
-                언론사에서 사회, 정치, 기술을 취재하며 복잡한 현실을 독자가 이해할 수 있는 언어로 전달하는 일을 했다.
-                개발자, 디자이너와 함께 협업하며 데이터 저널리즘과 인터랙티브 미디어를 연구했고,
-                새로운 미디어 매체를 만들고 유튜브에도 출연했다.
+                중앙일보에서 11년간 사회·정치·기술을 취재했다. 구글 인앱결제 정책 공론화 시리즈, 판문점 3D 재현, 미중 기술패권 심층분석—복잡한 현실을 독자가 이해할 수 있는 언어로 만드는 것이 기자의 일이었다. Google News Lab Fellowship 심사위원으로도 활동했다.
               </p>
               <p style={{ fontSize: '1.125rem', lineHeight: 1.8, color: 'var(--color-label-muted)' }}>
-                언론이 바뀌는 것을 기다리기 보다 콘텐츠와 커머스, 커뮤니티가 연결된 곳에서 역할을 하고 싶어
-                유니콘 스타트업으로 옮겼고 브랜드의 언어를 배우며 위기관리와 대내외 커뮤니케이션의 기술을 익혔다.
+                코드를 짜는 동료들 사이에서 일하다 보니 자연스럽게 도구를 직접 만들게 됐다. 유니콘 스타트업(오늘의집)에서 뉴스룸을 창간하고 위기대응 AI 프로토타입을 설계했다. 티메프 사태 같은 외부 충격을 4주 만에 통제한 것은 데이터와 시나리오 기반의 접근 덕분이었다.
               </p>
               <p style={{ fontSize: '1.125rem', lineHeight: 1.8, color: 'var(--color-label-muted)' }}>
-                새로운 도전을 위해 대기업에서 팀리드를 맡아 전략적 커뮤니케이션에 대한 고민을 이어가고 있다.
+                지금은 PR 팀리드로 일하며 AI·HTML·JavaScript로 커뮤니케이션 도구를 직접 만든다. 저널리즘의 언어와 엔지니어링의 사고방식을 함께 가진 사람이 어떤 역할을 할 수 있는지 계속 실험 중이다.
               </p>
             </div>
             <div style={{ display: 'flex', flexDirection: 'column', gap: '32px' }}>
@@ -74,7 +70,7 @@ export default function About() {
                 <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
                   {[
                     { title: '한국온라인저널리즘어워드 2연속 수상', sub: '2017–2018 · 한국 최초' },
-                    { title: 'Google News Lab Fellowship', sub: '심사위원 · 2018' },
+                    { title: 'Google News Lab Fellowship 심사위원', sub: '2018 · Google 선정' },
                   ].map((item) => (
                     <div key={item.title} style={{ fontSize: '0.9375rem' }}>
                       <span style={{ fontWeight: 600 }}>{item.title}</span>
