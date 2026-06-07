@@ -1,10 +1,12 @@
 import type { Metadata } from 'next'
 import { projects } from '@/lib/portfolio'
 import PortfolioFilter from '@/components/PortfolioFilter'
+import { getKoAlternates } from '@/lib/hreflang'
 
 export const metadata: Metadata = {
   title: 'Portfolio',
   description: 'AI 시스템, 데이터 시각화, PR 콘텐츠 — 직접 만든 작업물 케이스 스터디.',
+  alternates: getKoAlternates('/portfolio'),
 }
 
 export default function Portfolio() {

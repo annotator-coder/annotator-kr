@@ -1,33 +1,35 @@
 import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import Link from 'next/link'
-import { getProjectBySlug, projects } from '@/lib/portfolio'
+import { getProjectEnBySlug, projectsEn } from '@/lib/portfolio-en'
 import { getPostBySlug } from '@/lib/blog'
 import JsonLd from '@/components/JsonLd'
-import { getKoAlternates } from '@/lib/hreflang'
+import { getEnAlternates } from '@/lib/hreflang'
 
 interface Props {
   params: Promise<{ slug: string }>
 }
 
 export async function generateStaticParams() {
-  return projects.map((p) => ({ slug: p.slug }))
+  return projectsEn.map((p) => ({ slug: p.slug }))
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params
-  const project = getProjectBySlug(slug)
+  const project = getProjectEnBySlug(slug)
   if (!project) return {}
   return {
     title: project.title,
     description: project.tagline,
-    alternates: getKoAlternates(`/portfolio/${slug}`),
+    alternates: {
+      ...getEnAlternates(`/en/portfolio/${slug}`),
+    },
     openGraph: {
       title: project.title,
       description: project.tagline,
-      url: `https://annotator.kr/portfolio/${slug}`,
+      url: `https://annotator.kr/en/portfolio/${slug}`,
       type: 'article',
-      locale: 'ko_KR',
+      locale: 'en_US',
     },
     twitter: {
       card: 'summary_large_image',
@@ -37,9 +39,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 }
 
-export default async function CaseStudy({ params }: Props) {
+export default async function EnCaseStudy({ params }: Props) {
   const { slug } = await params
-  const project = getProjectBySlug(slug)
+  const project = getProjectEnBySlug(slug)
   if (!project) notFound()
 
   const relatedPosts = project.relatedBlogSlugs
@@ -51,16 +53,16 @@ export default async function CaseStudy({ params }: Props) {
     '@type': 'CreativeWork',
     name: project.title,
     description: project.description,
-    url: `https://annotator.kr/portfolio/${slug}`,
+    url: `https://annotator.kr/en/portfolio/${slug}`,
     creator: {
       '@type': 'Person',
       name: 'Annotator',
-      url: 'https://annotator.kr/about',
+      url: 'https://annotator.kr/en/about',
     },
     keywords: project.tags.join(', '),
     genre: project.category,
     dateCreated: project.year,
-    inLanguage: 'ko',
+    inLanguage: 'en',
   }
 
   return (
@@ -70,7 +72,7 @@ export default async function CaseStudy({ params }: Props) {
       <div className="case-hero">
         <div style={{ maxWidth: 'var(--max-w)', margin: '0 auto', padding: '0 24px' }}>
           <Link
-            href="/portfolio"
+            href="/en/portfolio"
             style={{ fontSize: '0.8125rem', color: 'var(--color-label-subtle)', marginBottom: '24px', display: 'inline-flex', alignItems: 'center', gap: '6px' }}
           >
             ← Portfolio
@@ -88,7 +90,7 @@ export default async function CaseStudy({ params }: Props) {
           <div style={{ display: 'flex', gap: '12px', flexWrap: 'wrap' }}>
             {project.href && (
               <a href={project.href} target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ fontSize: '0.875rem', padding: '10px 20px' }}>
-                프로젝트 보기 ↗
+                View Project ↗
               </a>
             )}
             {project.links?.map((link) => (
@@ -102,13 +104,13 @@ export default async function CaseStudy({ params }: Props) {
 
       {/* PROBLEM */}
       <div className="case-section">
-        <p className="case-section-title">문제 · Challenge</p>
+        <p className="case-section-title">Challenge</p>
         <p className="case-body">{project.problem}</p>
       </div>
 
       {/* APPROACH */}
       <div className="case-section">
-        <p className="case-section-title">접근 방식 · Approach</p>
+        <p className="case-section-title">Approach</p>
         <div className="case-list">
           {project.approach.map((item, i) => (
             <div key={i} className="case-list-item">
@@ -122,7 +124,7 @@ export default async function CaseStudy({ params }: Props) {
       {/* IMAGES */}
       {project.images && project.images.length > 0 && (
         <div className="case-section">
-          <p className="case-section-title">작업물 · Work</p>
+          <p className="case-section-title">Work</p>
           <div style={{ display: 'flex', flexDirection: 'column', gap: '24px', maxWidth: '720px' }}>
             {project.images.map((img, i) => (
               <figure key={i} style={{ margin: 0 }}>
@@ -144,7 +146,7 @@ export default async function CaseStudy({ params }: Props) {
 
       {/* OUTCOME */}
       <div className="case-section">
-        <p className="case-section-title">결과 · Outcome</p>
+        <p className="case-section-title">Outcome</p>
         <div className="case-list">
           {project.outcome.map((item, i) => (
             <div key={i} className="case-list-item">
@@ -158,7 +160,7 @@ export default async function CaseStudy({ params }: Props) {
       {/* RELATED BLOG POSTS */}
       {relatedPosts.length > 0 && (
         <div className="case-section">
-          <p className="case-section-title">이 경험에서 배운 것 · Insights</p>
+          <p className="case-section-title">Insights</p>
           <div style={{ display: 'flex', flexDirection: 'column', gap: '12px', maxWidth: '680px' }}>
             {relatedPosts.map((post) => post && (
               <Link key={post.slug} href={`/blog/${post.slug}`} className="related-box">
@@ -186,8 +188,8 @@ export default async function CaseStudy({ params }: Props) {
       {/* NAV */}
       <div style={{ background: 'var(--color-bg-secondary)', padding: '32px 24px' }}>
         <div style={{ maxWidth: 'var(--max-w)', margin: '0 auto', display: 'flex', justifyContent: 'space-between', flexWrap: 'wrap', gap: '12px' }}>
-          <Link href="/portfolio" className="btn-secondary">← 전체 포트폴리오</Link>
-          <Link href="/blog" className="btn-ghost">관련 글 읽기 →</Link>
+          <Link href="/en/portfolio" className="btn-secondary">← All Projects</Link>
+          <Link href="/en/blog" className="btn-ghost">Related Writing →</Link>
         </div>
       </div>
     </>
