@@ -73,7 +73,6 @@ export default function About() {
                 <p className="section-label">수상·학력</p>
                 <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
                   {[
-                    { title: '서울대학교 외교학과', sub: '우등 졸업 · GPA 3.77/4.3' },
                     { title: '한국온라인저널리즘어워드 2연속 수상', sub: '2017–2018 · 한국 최초' },
                     { title: 'Google News Lab Fellowship', sub: '심사위원 · 2018' },
                   ].map((item) => (
