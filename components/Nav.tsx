@@ -28,7 +28,7 @@ export default function Nav() {
           </Link>
         ))}
         <Link href="/contact" className="nav-cta">
-          연락
+          Contact
         </Link>
       </div>
     </nav>

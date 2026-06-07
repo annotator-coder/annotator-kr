@@ -52,7 +52,7 @@ export default function Home() {
 
           <div className="fade-in delay-1" style={{ marginBottom: '32px' }}>
             <p style={{ fontSize: '1.125rem', lineHeight: 1.8, color: 'var(--color-label-muted)', marginBottom: '20px' }}>
-              불완전함에 대해 고민하고, 변화에 촉각을 곤두세워 일한다.
+              불완전함에 대해 고민하고, 변화에 촉각을 곤두세워 일한다.<br />
               현상유지(status quo)의 안정성 보다 변화(Change)에서 진보(Progress)가 일어난다고 믿는다.
             </p>
             <div style={{
