@@ -1,17 +1,18 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import JsonLd from '@/components/JsonLd'
-import { getKoAlternates } from '@/lib/hreflang'
+import { getEnAlternates } from '@/lib/hreflang'
 
 export const metadata: Metadata = {
   title: 'About',
-  description: '11년 기자 출신 PR 리드. 중앙일보 기자, 오늘의집 PR, GS칼텍스 PR팀장. AI 도구를 직접 만들며 커뮤니케이션과 엔지니어링의 경계에서 일합니다.',
-  alternates: { ...getKoAlternates('/about') },
+  description: 'PR Lead with 11 years as a journalist. Former JoongAng Ilbo reporter, Ohouse PR, now at GS Caltex. Building AI tools at the intersection of storytelling and engineering.',
+  alternates: getEnAlternates('/en/about'),
   openGraph: {
     title: 'About | Annotator',
-    description: '11년 기자 출신 PR 리드. AI 도구를 직접 만들며 커뮤니케이션과 엔지니어링의 경계에서 일합니다.',
-    url: 'https://annotator.kr/about',
+    description: 'PR Lead with 11 years as a journalist. Building AI tools at the intersection of communication and engineering.',
+    url: 'https://annotator.kr/en/about',
     type: 'profile',
+    locale: 'en_US',
   },
 }
 
@@ -19,8 +20,8 @@ const personSchema = {
   '@context': 'https://schema.org',
   '@type': 'Person',
   name: 'Annotator',
-  url: 'https://annotator.kr',
-  description: '11년 기자 출신 PR 리드. 중앙일보 기자, 오늘의집 PR, GS칼텍스 PR팀장. AI 도구를 직접 만들며 커뮤니케이션과 엔지니어링의 경계에서 일한다.',
+  url: 'https://annotator.kr/en',
+  description: 'PR Lead with 11 years as a journalist. Former JoongAng Ilbo reporter, Ohouse PR, now PR team lead at a major energy company. Building AI tools at the intersection of communication and engineering.',
   jobTitle: 'PR Lead',
   email: 'no1.annotator@gmail.com',
   sameAs: [
@@ -28,56 +29,56 @@ const personSchema = {
     'https://github.com/annotator-coder',
   ],
   knowsAbout: [
-    'AI in Communications', '위기 커뮤니케이션', 'CEO 메시지 관리',
-    '데이터 저널리즘', '전략 PR 기획', 'Prompt Engineering',
+    'AI in Communications', 'Crisis Communication', 'CEO Messaging',
+    'Data Journalism', 'Strategic PR', 'Prompt Engineering',
     'JavaScript', 'TypeScript', 'Next.js',
   ],
   award: [
-    '한국온라인저널리즘어워드 2017 수상',
-    '한국온라인저널리즘어워드 2018 수상',
-    'Google News Lab Fellowship 심사위원 2018',
+    'Korean Online Journalism Award 2017',
+    'Korean Online Journalism Award 2018',
+    'Google News Lab Fellowship Judge 2018',
   ],
 }
 
-
 const values = [
   {
-    title: '밀도 > 분량',
-    desc: '많은 말보다 정확한 말 하나가 낫다. 기사를 쓸 때도, PR 메시지를 만들 때도, 코드를 짤 때도 같은 원칙이 적용된다.',
+    title: 'Density over volume',
+    desc: 'One precise word beats ten vague ones. The same principle applies whether writing an article, crafting a PR message, or writing code.',
   },
   {
-    title: '타이밍이 콘텐츠다',
-    desc: '아무리 좋은 메시지도 시점이 틀리면 소음이 된다. 언제 말하는가가 무엇을 말하는가만큼 중요하다.',
+    title: 'Timing is content',
+    desc: 'Even the best message becomes noise if the timing is wrong. When you speak matters as much as what you say.',
   },
   {
-    title: '도구는 직접 만든다',
-    desc: '필요한 것이 없으면 만든다. 위기대응 AI 프로토타입, PR KPI 대시보드, 인터랙티브 데이터 저널리즘. 만드는 사람이 더 깊이 이해한다. 지금 이 사이트도 직접 코딩했다.',
+    title: 'Build the tools yourself',
+    desc: "If the tool doesn't exist, build it. Crisis AI prototype, PR KPI dashboard, interactive data journalism. Builders understand more deeply. This site, too, is hand-coded.",
   },
   {
-    title: '기자의 관점을 잃지 않는다',
-    desc: '"이 보도자료가 기사가 될 것인가" — 기자 출신 PR의 가장 큰 자산은 양쪽의 언어를 동시에 이해한다는 것이다.',
+    title: "Keep the journalist's eye",
+    desc: '"Will this press release become a story?" — The biggest asset of a journalist-turned-PR is understanding both sides of the conversation simultaneously.',
   },
 ]
 
 const skills = [
-  'AI in Communications', '위기 커뮤니케이션', 'CEO 메시지 관리',
-  '데이터 저널리즘', '전략 PR 기획', 'Prompt Engineering',
+  'AI in Communications', 'Crisis Communication', 'CEO Messaging',
+  'Data Journalism', 'Strategic PR Planning', 'Prompt Engineering',
   'JavaScript / TypeScript', 'Next.js', 'HTML / CSS', 'Python',
 ]
 
-export default function About() {
+export default function EnAbout() {
   return (
     <>
       <JsonLd data={personSchema} />
+
       {/* HEADER */}
       <div className="page-header">
         <div className="page-header-inner">
           <p className="page-header-label">About</p>
           <h1 className="page-header-title">Annotator</h1>
           <p className="page-header-desc">
-            11년간 기자로 기술 정책과 글로벌 이슈를 취재했고, 유니콘 스타트업에서 위기커뮤니케이션과 PR을 이끌었습니다.
-            지금은 AI 도구를 직접 만들며 커뮤니케이션과 엔지니어링의 경계에서 일합니다.
-            코드를 짜는 스토리텔러, 기자의 시각을 가진 PR 리드.
+            Spent 11 years as a journalist covering technology policy and global issues, then led crisis communication and PR at a unicorn startup.
+            Now building AI tools at the intersection of communication and engineering.
+            A storyteller who codes. A PR lead with a journalist's eye.
           </p>
         </div>
       </div>
@@ -87,24 +88,24 @@ export default function About() {
         <div className="section-wrap">
           <div className="about-grid">
             <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
-              <p className="section-label">나의 이야기</p>
+              <p className="section-label">My Story</p>
               <p style={{ fontSize: '1.125rem', lineHeight: 1.8, color: 'var(--color-label-muted)' }}>
-                중앙일보에서 11년간 사회·정치·기술을 취재했다. 구글 인앱결제 정책 공론화 시리즈, 판문점 3D 재현, 미중 기술패권 심층분석—복잡한 현실을 독자가 이해할 수 있는 언어로 만드는 것이 기자의 일이었다. Google News Lab Fellowship 심사위원으로도 활동했다.
+                I spent 11 years at JoongAng Ilbo covering society, politics, and technology. From leading public discourse on Google's in-app billing policy to recreating Panmunjeom in 3D, to deep analyses of the US-China tech rivalry — the journalist's job was to translate complex reality into language readers could understand. I also served as a judge for the Google News Lab Fellowship.
               </p>
               <p style={{ fontSize: '1.125rem', lineHeight: 1.8, color: 'var(--color-label-muted)' }}>
-                코드를 짜는 동료들 사이에서 일하다 보니 자연스럽게 도구를 직접 만들게 됐다. 유니콘 스타트업(오늘의집)에서 뉴스룸을 창간하고 위기대응 AI 프로토타입을 설계했다. 티메프 사태 같은 외부 충격을 4주 만에 통제한 것은 데이터와 시나리오 기반의 접근 덕분이었다.
+                Working alongside engineers, I naturally started building my own tools. At Ohouse (a unicorn startup), I launched a newsroom and designed a crisis response AI prototype. When external shocks like the TMON/WeMakePrice crisis hit, it was a data-driven, scenario-based approach that brought things under control within four weeks.
               </p>
               <p style={{ fontSize: '1.125rem', lineHeight: 1.8, color: 'var(--color-label-muted)' }}>
-                지금은 PR 팀리드로 일하며 AI·HTML·JavaScript로 커뮤니케이션 도구를 직접 만든다. 저널리즘의 언어와 엔지니어링의 사고방식을 함께 가진 사람이 어떤 역할을 할 수 있는지 계속 실험 중이다.
+                Now I work as a PR team lead, building communication tools directly with AI, HTML, and JavaScript. I keep experimenting with what someone who holds both the language of journalism and the mindset of engineering can uniquely do.
               </p>
             </div>
             <div style={{ display: 'flex', flexDirection: 'column', gap: '32px' }}>
               <div>
-                <p className="section-label">수상·학력</p>
+                <p className="section-label">Awards & Recognition</p>
                 <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
                   {[
-                    { title: '한국온라인저널리즘어워드 2연속 수상', sub: '2017–2018 · 한국 최초' },
-                    { title: 'Google News Lab Fellowship 심사위원', sub: '2018 · Google 선정' },
+                    { title: 'Korean Online Journalism Award — 2 consecutive years', sub: '2017–2018 · First in Korea' },
+                    { title: 'Google News Lab Fellowship Judge', sub: '2018 · Selected by Google' },
                   ].map((item) => (
                     <div key={item.title} style={{ fontSize: '0.9375rem' }}>
                       <span style={{ fontWeight: 600 }}>{item.title}</span>
@@ -143,7 +144,7 @@ export default function About() {
       {/* VALUES */}
       <section style={{ background: 'var(--color-bg-secondary)', borderBottom: '1px solid var(--color-separator)' }}>
         <div className="section-wrap">
-          <p className="section-label">가치관</p>
+          <p className="section-label">Values</p>
           <div className="cards-grid">
             {values.map((v) => (
               <div key={v.title} style={{
@@ -168,8 +169,8 @@ export default function About() {
       <section style={{ background: 'var(--color-bg-secondary)', borderTop: '1px solid var(--color-separator)' }}>
         <div className="section-wrap" style={{ paddingTop: '48px', paddingBottom: '48px' }}>
           <div style={{ display: 'flex', gap: '16px', flexWrap: 'wrap' }}>
-            <Link href="/portfolio" className="btn-primary">포트폴리오 보기</Link>
-            <Link href="/blog" className="btn-secondary">글 읽기</Link>
+            <Link href="/en/portfolio" className="btn-primary">View Portfolio</Link>
+            <Link href="/en/blog" className="btn-secondary">Read Blog</Link>
           </div>
         </div>
       </section>

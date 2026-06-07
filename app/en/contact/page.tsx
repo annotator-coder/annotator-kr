@@ -1,23 +1,28 @@
 import type { Metadata } from 'next'
-import Link from 'next/link'
-import { getKoAlternates } from '@/lib/hreflang'
+import { getEnAlternates } from '@/lib/hreflang'
 
 export const metadata: Metadata = {
   title: 'Contact',
-  description: '협업 제안이나 질문은 편하게 연락주세요.',
-  alternates: getKoAlternates('/contact'),
+  description: 'Open to collaboration proposals, speaking requests, interviews, or just a friendly hello.',
+  alternates: getEnAlternates('/en/contact'),
+  openGraph: {
+    title: 'Contact | Annotator',
+    description: 'Open to collaboration proposals, speaking requests, interviews, or just a friendly hello.',
+    url: 'https://annotator.kr/en/contact',
+    locale: 'en_US',
+  },
 }
 
-export default function Contact() {
+export default function EnContact() {
   return (
     <>
       {/* HEADER */}
       <div className="page-header">
         <div className="page-header-inner">
           <p className="page-header-label">Contact</p>
-          <h1 className="page-header-title">연락</h1>
+          <h1 className="page-header-title">Get in Touch</h1>
           <p className="page-header-desc">
-            협업 제안이나 질문도 편하게 연락주세요.
+            Feel free to reach out with collaboration proposals or questions.
           </p>
         </div>
       </div>
@@ -27,17 +32,17 @@ export default function Contact() {
         <div className="section-wrap">
           <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '48px' }}>
             <div>
-              <p className="section-label">직접 연락</p>
+              <p className="section-label">Direct</p>
               <a href="mailto:no1.annotator@gmail.com" className="contact-email">
                 no1.annotator@gmail.com
               </a>
               <p style={{ fontSize: '0.9375rem', color: 'var(--color-label-muted)', lineHeight: 1.65, marginTop: '16px' }}>
-                협업 제안, 강연 요청, 인터뷰, 혹은 그냥 안부 인사도 환영합니다.
-                보통 48시간 이내 답장합니다.
+                Open to collaboration proposals, speaking requests, interviews, or just a friendly hello.
+                Usually replies within 48 hours.
               </p>
             </div>
             <div>
-              <p className="section-label">소셜</p>
+              <p className="section-label">Social</p>
               <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
                 <a
                   href="https://www.linkedin.com/in/wonyeob-jung-4583754b"
