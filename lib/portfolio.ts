@@ -557,6 +557,32 @@ export const projects: Project[] = [
     relatedBlogSlugs: ['factpl-how-we-work'],
   },
   {
+    slug: 'google-inapp-reform',
+    title: '구글 인앱결제 공론화 시리즈',
+    category: '탐사 저널리즘',
+    tags: ['탐사보도', 'IT저널리즘', '앱마켓', '규제', '독점'],
+    year: '2020',
+    tagline: '구글의 인앱결제 강제화를 최초 독점 취재, 6개월·20기사로 국내 공론화 주도',
+    description:
+      '구글이 앱 마켓 내 인앱결제를 전면 강제화하려는 계획을 최초 독점 취재한 기획 시리즈. 6개월에 걸쳐 20여 기사를 연속 보도해 국내 앱 마켓 규제 논의에 불을 지폈다.',
+    problem:
+      '구글의 인앱결제 강제화 계획은 플랫폼 독점력 남용이었지만, 국내 앱 개발사들은 보복을 우려해 공개적 입장을 밝히기 어려웠다. 시장 전반의 이슈를 독립적 취재자로서 공론화할 필요가 있었다.',
+    approach: [
+      '국내 앱 개발사·스타트업 관계자 다중 소스 확보, 독점 취재 진행',
+      '구글 인앱결제 강제 적용 타임라인·수수료 구조 분석 및 시각화',
+      '6개월 연속 시리즈 취재로 정책 변화 과정 추적',
+      '국내 IT 업계·국회·소비자단체 반응 연속 후속 취재',
+    ],
+    outcome: [
+      '6개월·20기사+ 시리즈로 국내 앱 마켓 독점 이슈 최초 공론화',
+      '국회 입법 논의 촉발 — 앱 마켓 사업법(전기통신사업법 개정안) 통과에 영향',
+      '팩플 핵심 탐사 취재 성과로 IT 전문 미디어 신뢰도 구축에 기여',
+    ],
+    href: 'https://www.joongang.co.kr/factpl',
+    featured: false,
+    relatedBlogSlugs: ['factpl-how-we-work'],
+  },
+  {
     slug: 'factpl-futurebook',
     title: '팩플 퓨처북: 90년대생 창업자가 온다',
     category: '버티컬 미디어 · 단행본',
@@ -675,6 +701,7 @@ export const projects: Project[] = [
       '3D 인터랙티브 형식으로 판문점 공간과 65년 역사를 맥락 있게 전달',
       '영문판 별도 제작 — 국제 독자 대상 한반도 현안 설명 자료로 활용',
       '제7회 한국온라인저널리즘어워드 멀티미디어스토리텔링 부문 수상 (한국온라인편집기자협회, 2018)',
+      '판문점·두 한국 시리즈 누적 110만+ PV',
     ],
     href: 'https://www.joongang.co.kr/digitalspecial/290',
     links: [
@@ -704,6 +731,7 @@ export const projects: Project[] = [
     outcome: [
       '정상회담 직전 맥락 콘텐츠로 독자 트래픽 집중',
       '판문점 3D 시리즈(290·293·295)와 함께 2018 남북정상회담 디지털 특집 패키지 완성',
+      '판문점·두 한국 시리즈 누적 110만+ PV',
     ],
     href: 'https://www.joongang.co.kr/digitalspecial/289',
     links: [

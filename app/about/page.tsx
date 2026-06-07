@@ -70,6 +70,21 @@ export default function About() {
             </div>
             <div style={{ display: 'flex', flexDirection: 'column', gap: '32px' }}>
               <div>
+                <p className="section-label">수상·학력</p>
+                <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
+                  {[
+                    { title: '서울대학교 외교학과', sub: '우등 졸업 · GPA 3.77/4.3' },
+                    { title: '한국온라인저널리즘어워드 2연속 수상', sub: '2017–2018 · 한국 최초' },
+                    { title: 'Google News Lab Fellowship', sub: '심사위원 · 2018' },
+                  ].map((item) => (
+                    <div key={item.title} style={{ fontSize: '0.9375rem' }}>
+                      <span style={{ fontWeight: 600 }}>{item.title}</span>
+                      <span style={{ color: 'var(--color-label-muted)', marginLeft: '8px' }}>{item.sub}</span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+              <div>
                 <p className="section-label">Skills</p>
                 <div className="skill-chips">
                   {skills.map((s) => (
