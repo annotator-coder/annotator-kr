@@ -94,13 +94,3 @@ sourceUrl: 'https://brunch.co.kr/@louisjung/5'
 **기업이 미디어가 되는 세상에서 우리는 뭘 할 수 있을까?**
 
 자, 딴 짓은 그만하고 일하러 갈 시간이다.
-
-**keyword**[빨리 자라고자, 속성으로 인생을 경험할 수 있겠다 싶은 기자가 됐지만, 플레이어가 아닌 관찰자로 사는게 못내 아쉬워 스타트업으로 옮겼습니다. 다양 일상과 이야기를 남겨보고자 합니다](https://brunch.co.kr/@louisjung)[**오늘만 무료**](https://brunch.co.kr/@rokafhwang/2618)
-
- [![오늘만 무료 슬롯](https://img1.kakaocdn.net/thumb/C720x360.fpng/?fname=http://t1.kakaocdn.net/brunch/service/user/4gFr/image/cbpSYDkSwkKhsM7O_5znKRTScic.png) brunch membership
-
-좋은 서평을 쓰는 다섯 가지 방법
-
-by황상열](https://brunch.co.kr/@rokafhwang/2618)
-
-[매거진의 이전글 **F5 누르기에 대하여**](https://brunch.co.kr/@louisjung/4) [**취향과 구독 사이** 매거진의 다음글](https://brunch.co.kr/@choikop/23)

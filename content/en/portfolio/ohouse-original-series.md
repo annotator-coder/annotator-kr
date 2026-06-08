@@ -3,63 +3,63 @@ order: 18
 title: Everything About Housewarming — Original Series
 category: Owned Media · Content
 tags:
-  - Original Series
-  - Long-form Content
-  - Data Journalism
+  - OriginalSeries
+  - LongFormContent
+  - DataJournalism
   - Storytelling
   - Community
 year: '2023'
-tagline: >-
-  Read 9,000 housewarmings to find the social shifts behind them — a 4-part
-  series.
+tagline: 'Read the social shifts in Korea behind 9,000 housewarmings — in a 4-part series.'
 description: >-
-  A long-form original series deeply analyzing Ohouse's largest content asset:
-  online housewarming posts. Structured like a major investigative feature from
-  journalism days — weaving data analysis, expert interviews, and user cases
-  into a 4-part narrative plus 2 appendices. Moved beyond interior content to
-  examine Korean living culture and spatial values in social context.
+  A long-form original series that thoroughly dissects online housewarmings —
+  Ohouse's largest content asset. Structured like a major feature story from
+  my journalism days, weaving together data analysis, expert interviews, and
+  user cases into a 4-part series plus 2 appendices. It went beyond simple
+  interior content to illuminate Koreans' attitudes toward housing and the
+  evolution of spatial culture in a social context.
 problem: >-
-  Nobody could properly explain why housewarming content attracted 1.3 million
-  monthly visitors. "People love it" wasn't enough. Original content was needed
-  to deeply understand the platform's core asset and convey its meaning to
-  readers.
+  Nobody could properly explain why housewarming content drew 1.3 million
+  monthly visitors. "People love it" wasn't enough. What was needed was
+  original content that deeply understood the platform's core asset and
+  conveyed its meaning to readers.
 approach:
   - >-
     Analyzed 9,000+ housewarming data points; built social context through
-    expert interviews including Prof. Chae Hye-jin at Konkuk University
+    expert interviews including Prof. Chae Hye-jin of Konkuk University
   - >-
-    Found and reported real user cases — from nurse to photo studio founder,
-    from ordinary housewarming writer to published author
+    Discovered and reported on real user cases — from nurse to photo studio
+    founder, from ordinary housewarming writer to published author
   - >-
-    Designed reader experience beyond text using web features like before/after
-    and interactive slides
-  - 4-part + 2-appendix long form; weekly release over 4 weeks (2023.9.4–9.25)
+    Designed reader experiences beyond text by leveraging web features such as
+    before-and-after comparisons and interactive slides
+  - >-
+    4-part series + 2 appendices, serialized weekly for 4 weeks
+    (September 4–25, 2023)
 outcome:
   - >-
-    9,000+ housewarmings, 173 years if you visit every weekend, 1.3M+ monthly
-    visitors — conveyed platform scale through story
+    9,000+ housewarmings — if you visited every weekend it would take 173
+    years; 1.3 million+ monthly visitors — conveyed platform scale through
+    story
   - >-
     First to illuminate the cultural backdrop of the domestic home interior
-    market's growth from KRW 28T (2016) to KRW 60T (2022)
+    market growing from KRW 28 trillion (2016) to KRW 60 trillion (2022)
   - >-
-    Proved that corporate content can carry journalism-level social analysis,
-    establishing a precedent within the newsroom
+    Demonstrated within the newsroom that corporate content can carry
+    journalism-level social analysis
 links:
-  - label: 'Ep 1: From Space to Buy to Space to Live'
+  - label: 'Episode 1: From a Space to Buy to a Space to Live'
     url: 'https://ohstory.io/original/9014'
-  - label: 'Ep 2: Curious Neighbors, A Cross-Section of Korea'
+  - label: 'Episode 2: Curious About Others'' Homes — A Cross-Section of Korea'
     url: 'https://ohstory.io/original/7786'
-  - label: 'Ep 3: Two Lives Changed by Housewarming'
+  - label: 'Episode 3: Two Lives Changed by Housewarming'
     url: 'https://ohstory.io/original/7811'
-  - label: 'Ep 4: The Evolution and Variations of Housewarming'
+  - label: 'Episode 4: The Evolution and Variations of Housewarming'
     url: 'https://ohstory.io/original/7893'
 images:
   - src: /portfolio/ohouse-original-cover.png
-    caption: ORIGINAL SERIES "Everything About Housewarming" — DIFFERENT LIFE cover
+    caption: ORIGINAL SERIES "Everything About Housewarming" — DIFFERENT LIFE Cover
   - src: /portfolio/ohouse-original-stats.png
-    caption: >-
-      Online Housewarming Overview: 9,000+ posts / 173+ years if visited every
-      weekend / 1.3M+ monthly visitors
+    caption: 'Online Housewarming Stats: 9,000+ housewarmings / 173+ years if visited every weekend / 1.3M+ monthly visitors'
 featured: true
 relatedBlogSlugs:
   - ohouse-3c-synergy

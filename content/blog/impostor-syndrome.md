@@ -2,7 +2,7 @@
 title: 가면증후군
 date: '2015-10-06'
 category: 에세이·칼럼
-excerpt: "예전에 '소프트 파워'의 저자인 조셉 나이(Joseph S. Nye) 하버드대\_교수 인터뷰를 ..."
+excerpt: "불안함이라는 심리를 안고 살아간다면"
 readingTime: 2
 relatedPortfolioSlugs: []
 sourceUrl: >-
@@ -10,11 +10,11 @@ sourceUrl: >-
 ---
 가면증후군      
 
-2015\. 10. 6. 13:34  )  
+2015\. 10. 6. 13:34  
 
   
 
-![](https://postfiles.pstatic.net/20151006_127/whiteagle_1444105934231ovGOR_JPEG/impostor-lady.jpg?type=w1)
+
 
 예전에 '소프트 파워'의 저자인 조셉 나이(Joseph S. Nye) 하버드대 교수 인터뷰를 한 적이 있다. 여의도 모 호텔에서 오전에 하는 인터뷰였는데 엄청 긴장했던 기억이 난다. 영어 인터뷰(원어민과 영어 인터뷰는 할 때 마다 스트레스를 받는다)라는 것 외에도 대학 시절 좋아했던 저자를 만난다는 생각 때문이었던 것 같다.
 
@@ -36,7 +36,7 @@ sourceUrl: >-
 
 여튼 본론으로 돌아가서 요즘 내 상황을 돌이켜 보니, 살짝은 가면 증후군에 빠져 있었던게 아닌가 싶다. 과거의 평가나 주변의 기대에 비해 내 성취나 퍼포먼스가 부족하다는 생각을 많이 했고, 일종의 스트레스로 작용했던 것 같다. 원치 않게 '가면'을 쓰고 생활한 듯한 기분이랄까. 불안감은 때론 노력이끌어 완벽함으로 나가는 기제가 되기도 하지만, 많은 경우에는 무력감으로 귀결되는 경우가 많다. 가면 속에 내 얼굴을 응시해야 할 때다.
 
-[\> 가면 신드롬 극복하기](#)
+[\> 가면 신드롬 극복하기
 
 **1\. Come off it.** Letting go of some of your excess self-importance will go a long way in helping you feel less like a fake.
 

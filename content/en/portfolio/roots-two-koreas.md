@@ -3,31 +3,32 @@ order: 27
 title: 'One Root, Two Koreas'
 category: Data Journalism · Digital Special
 tags:
-  - Data Journalism
+  - DataJournalism
   - Interactive
-  - Inter-Korean Relations
-  - Digital Special
-  - JoongAng Ilbo
+  - InterKoreanRelations
+  - DigitalSpecial
+  - JoongAngIlbo
 year: '2018'
-tagline: >-
-  70 years of division — how different have we become? Data published 3 days
-  before the summit.
+tagline: '70 years of division — how different have we become? A data project published 3 days before the summit.'
 description: >-
   A data journalism project published 3 days before the 2018 Inter-Korean Summit
-  (4/27). Compared the language, economy, population, and culture of North and
-  South Korea after 70 years of division through interactive graphics.
+  (April 27). Compared the language, economy, population, and culture of North
+  and South Korea after 70 years of division through interactive graphics.
+  Planned and reported by Jeong Won-yeop.
 problem: >-
-  With the inter-Korean summit imminent, what readers needed wasn't breaking
-  news but context: "how different have we become in 70 years?" The challenge
-  was to bring scattered statistics together into a single interactive piece.
+  With the inter-Korean summit imminent, what readers needed wasn't breaking news
+  but context: "how different have we become in 70 years?" The challenge was to
+  bring scattered statistics together into a single interactive piece.
 approach:
   - >-
-    Collected major North-South indicators over 70 years of division — language,
-    economy, population, daily life, military
+    Collected major North-South indicators across 70 years of division —
+    language, economy, population, daily life, and military
   - Structured as interactive comparison graphics with a scroll narrative format
   - >-
-    Published 3 days before the summit (4/27) — positioned as a context piece in
-    the news cycle
+    Designed so both sides of the peninsula could be compared at a glance
+  - >-
+    Published 3 days before the summit (April 27) — positioned as a context
+    piece in the news cycle
 outcome:
   - Reader traffic concentrated as a context piece ahead of the summit
   - >-

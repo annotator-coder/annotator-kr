@@ -20,7 +20,7 @@ approach:
   - 'Vercel 배포, 보도자료 배포 시 링크 첨부'
 outcome:
   - 기자 배포 시 "자료 잘 봤다" 피드백 다수
-  - 사내 정책 브리핑 자료로 정착
+  - 사내 언론 대응 참고자료로 정착
   - 후속 에너지 통계 대시보드 프로젝트로 확장
 href: 'https://oil-map-korea.vercel.app'
 featured: true

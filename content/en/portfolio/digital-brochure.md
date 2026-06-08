@@ -8,22 +8,17 @@ tags:
   - Vercel
   - Editorial
 year: '2026'
-tagline: Bloomberg/FT-style interactive brochure for the energy transition story
-description: >-
-  An interactive digital brochure presenting an energy company's business
-  overview and new energy transition story in Bloomberg Annual Report style.
-problem: >-
-  The existing company introduction was a static PDF. An interactive,
-  brand-journalism-style digital channel was needed to carry the energy
-  transition narrative.
+tagline: An energy transition story brochure in Bloomberg/FT style
+description: An interactive digital brochure presenting the company's business overview and energy transition story in the style of a Bloomberg Annual Report.
+problem: The existing company introduction materials were static PDFs. A digital channel with an interactive, brand journalism sensibility was needed to tell the energy transition story.
 approach:
-  - Referenced Bloomberg/FT Annual Report design language
-  - Designed editorial typography + interactive chart combination
-  - 'Planned section-by-section storytelling structure, built in HTML'
-  - 'Deployed on Vercel, running as an external-sharing URL'
+  - Reference analysis of Bloomberg/FT Annual Report style
+  - Editorial typography combined with interactive charts
+  - Section-by-section storytelling structure planned and implemented in HTML
+  - 'Vercel deployment, publicly shareable URL maintained'
 outcome:
-  - Adopted as a primary IR and media distribution channel
-  - '"I''ve never seen a brochure like this" — feedback from industry contacts'
+  - Used as a primary distribution channel for key IR and media outreach
+  - Self-produced brochure replacing costly outsourced digital brochures, with rapid update capability
 href: 'https://gs-caltex-brochure-annotator-s-projects.vercel.app'
 featured: false
 relatedBlogSlugs: []

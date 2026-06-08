@@ -6,44 +6,43 @@ tags:
   - Interactive
   - 3D
   - Multimedia
-  - UX Planning
-  - Digital Special
+  - UXPlanning
+  - DigitalSpecial
 year: '2018'
-tagline: >-
-  An interactive experience that sends readers on a space journey. 300,000+
-  experiences.
+tagline: An interactive experience that takes readers on a space journey. 300,000+ experiences.
 description: >-
   Scroll once to rise to actual altitude; tilt your phone and the space image
-  follows. An experiential content piece that lets readers personally book a
-  space trip across 4 packages — from Blue Origin to the Moon.
+  follows. An experiential content piece designed to let readers personally book
+  a space trip across 4 packages — from Blue Origin to Space X to a lunar
+  journey.
 problem: >-
-  Space stories captivate everyone, but articles don't get read to the end. It
-  started with a question: what if readers could feel themselves actually
-  ascending?
+  Space stories captivate everyone, but articles rarely get read to the end. It
+  started with a question: what if we could make readers feel the sensation of
+  actually ascending?
 approach:
   - >-
     On-site interviews with Seattle space startups and Prof. Neil F. Comins;
-    verified with Korea Aerospace Research Institute
+    technical verification with Korea Aerospace Research Institute
   - >-
     Prototyped with Adobe XD; dynamically mapped scroll pixels to real altitude
-    (switching from 1px/10m to 1px/100m past 120km)
+    (switching from 1px/10m to 1px/100m past the 120km threshold)
   - >-
-    Built 4 real space travel packages interactively: Blue Origin (107km), LEO,
-    Lunar trip (384,000km)
+    Built 4 real space travel packages interactively: Blue Origin (107km), Low
+    Earth Orbit (LEO), Lunar trip (384,000km)
   - >-
-    Included ISS and orbital debris belt illustrations, rocket stage separation
-    simulation
+    Scroll-based rocket launch motion on mobile, including ISS and orbital debris
+    belt illustrations and rocket stage separation simulation
   - >-
     Mobile tilt feature for space image experience; user name input ticketing →
-    certificate issuance
-  - Produced a space movie quiz as a viral element for marketing
+    certificate issuance structure
+  - Produced a space movie quiz as a separate viral marketing element
 outcome:
   - '300,000+ cumulative experiences'
   - >-
     Featured by design and interactive media outlet ditoday — "an indirect
     experience closer to reality than imagination"
   - Used as aerospace education material
-  - 2018 Korean Online Journalism Award — Best Multimedia Storytelling
+  - '2018 Korean Online Journalism Award — Best Multimedia Storytelling'
 href: 'https://www.joongang.co.kr/digitalspecial/419'
 links:
   - label: ditoday feature article

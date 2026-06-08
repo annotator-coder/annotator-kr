@@ -2,7 +2,7 @@
 title: '제주가족여행에 좋은 제주 신풍 넝쿨집, 제주돌담과 달팽이... 다자요'
 date: '2023-02-13'
 category: 여행·공간
-excerpt: '지난해 다녀온 제주의 넝쿨이 싱그러운 돌담집. #신풍넝쿨집 이야기입니다. 퇴사 후 가족과 제주 여행 중 #...'
+excerpt: '지난해 다녀온 제주의 넝쿨이 싱그러운 돌담집. #신풍넝쿨집 이야기입니다. '
 readingTime: 6
 relatedPortfolioSlugs: []
 sourceUrl: >-
@@ -10,7 +10,7 @@ sourceUrl: >-
 ---
 제주가족여행에 좋은 제주 신풍 넝쿨집, 제주돌담과 달팽이... 다자요
 
- [![프로파일](https://blogpfthumb-phinf.pstatic.net/MjAyMzEwMTNfMjA0/MDAxNjk3MTgxMTM5MTA2.EEA8VHZxZ9eRy07PHZ9jU4O6ZuWSFFO9SvWTqpH5qP4g.QnMuhZvISYOc2aoiWKVFm1D1knvqjRynpx2o3gHwE68g.PNG.whiteagle/letter-ano.png/letter-ano.png?type=s1)](https://blog.naver.com/annotator) [annotator](https://blog.naver.com/annotator) *・* 2023\. 2. 13. 9:30
+
 
 지난해 다녀온 제주의 넝쿨이 싱그러운 돌담집.
 
@@ -20,11 +20,9 @@ sourceUrl: >-
 
 지금 돌아봐도 후회없는 결정이었던 것 같네요.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMTJfMTMy/MDAxNjc2MjEyNDc5ODA2.cEtuhx-FrUUHSXya_R7VTrzRBJoAQy5V7hjltziGo_4g.1VuTmQq4FVJvHfj12ljhP-6E6hngrl7lmVtJ3EFcYUsg.JPEG.whiteagle/DSC_4801.jpg?type=w966)
 
-덩쿨잎 너머로 보이는 시골 동네 풍경
 
-1.다자요 DAZAYO
+**1.다자요 DAZAYO**
 
 우선 다자요 이야기를 해야겠지요.
 
@@ -34,15 +32,13 @@ sourceUrl: >-
 
 [https://dazayo.com/#](https://dazayo.com/#)
 
-[
+
 
 **Dazayo**
 
 빈집을 고급 독채 숙소로 만들어 제공합니다. 빈집 재생 프로세스 STEP 1 빈집 의뢰, 무상 임대, 매입 STEP 2 자금 조달 STEP 3 빈집 리모델링 STEP 4 스테이 및 F/B 등 다양한 공간 활용 우리 곁에 머물길 바람 : 류승룡의 취향 프로젝트 다자요의 대표 빈집 프로젝트 하천 바람집 "'바람'(wind)과 '바람'(hope)을 녹여내는 집" '하천 바람 집'은 가족사진이 담긴 액자나 요강, 시계 등 이 집을 지키고 있던 물건은 최대한 살리되 배우 류승룡만의 취향도 ...
 
-dazayo.com
 
-](https://dazayo.com/#)
 
 도시화가 진행되며 시골지역에는 빈집이 많이 생겨 골머리를 앓게 되었고, 그 미스매치를 해결하겠다고 나선 곳이지요.
 
@@ -74,21 +70,18 @@ dazayo.com
 
 [https://www.hani.co.kr/arti/economy/it/999207.html](https://www.hani.co.kr/arti/economy/it/999207.html)
 
-[![](https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fflexible.img.hani.co.kr%2Fflexible%2Fnormal%2F970%2F728%2Fimgdb%2Foriginal%2F2021%2F0613%2F20210613502202.jpg%22&type=ff500_300)](https://www.hani.co.kr/arti/economy/it/999207.html)[
+[![](https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fflexible.img.hani.co.kr%2Fflexible%2Fnormal%2F970%2F728%2Fimgdb%2Foriginal%2F2021%2F0613%2F20210613502202.jpg%22&type=ff500_300)](https://www.hani.co.kr/arti/economy/it/999207.html)
+
+
 
 **제주 빈집 재생 스타트업…‘다자요’ 남성준이 겪은 기쁨과 슬픔**
 
 \[최민영의 혁신 탐구생활\]
 
-www.hani.co.kr
+(https://www.hani.co.kr/arti/economy/it/999207.html)
 
-](https://www.hani.co.kr/arti/economy/it/999207.html)
 
-![](https://postfiles.pstatic.net/MjAyMzAyMTNfMjY4/MDAxNjc2MjM3ODIwNDQw.hJt01Q6-l1V7YttuOTlYCeLXn_f_GFJAWa7CyrjBTxIg.CMEkJSY3wJhQiMcblCvXs3h7vN8UHeMmsOhccs_cgv8g.PNG.whiteagle/%EB%8B%A4%EC%9E%90%EC%9A%94.png?type=w966)
-
-다자요 프로젝트 - 다자요 홈페이지
-
-2\. 도착, 신풍넝쿨집
+**2\. 도착, 신풍넝쿨집**
 
 사실 열흘 남짓한 여행의 대부분을 제주의 여러 다자요 집으로 채우고 싶었지만,
 
@@ -106,79 +99,11 @@ www.hani.co.kr
 
 조용한 동네 속에 자리했다는 신풍 넝쿨집으로 숙소를 정했습니다.
 
-![](https://map.pstatic.net/nrb/styles/basic/1780060341/17/111713/52638@2x.png?mt=bg.ol.sw.ar.lko)
-
-![](https://map.pstatic.net/nrb/styles/basic/1780060341/17/111713/52639@2x.png?mt=bg.ol.sw.ar.lko)
-
-![](https://map.pstatic.net/nrb/styles/basic/1780060341/17/111713/52637@2x.png?mt=bg.ol.sw.ar.lko)
-
-![](https://map.pstatic.net/nrb/styles/basic/1780060341/17/111714/52637@2x.png?mt=bg.ol.sw.ar.lko)
-
-![](https://map.pstatic.net/nrb/styles/basic/1780060341/17/111712/52639@2x.png?mt=bg.ol.sw.ar.lko)
-
-![](https://map.pstatic.net/nrb/styles/basic/1780060341/17/111714/52638@2x.png?mt=bg.ol.sw.ar.lko)
-
-![](https://map.pstatic.net/nrb/styles/basic/1780060341/17/111712/52638@2x.png?mt=bg.ol.sw.ar.lko)
-
-![](https://map.pstatic.net/nrb/styles/basic/1780060341/17/111714/52639@2x.png?mt=bg.ol.sw.ar.lko)
-
-![](https://map.pstatic.net/nrb/styles/basic/1780060341/17/111712/52637@2x.png?mt=bg.ol.sw.ar.lko)
-
-![](https://map.pstatic.net/nrb/styles/basic/1780060341/17/111715/52637@2x.png?mt=bg.ol.sw.ar.lko)
-
-![](https://map.pstatic.net/nrb/styles/basic/1780060341/17/111711/52639@2x.png?mt=bg.ol.sw.ar.lko)
-
-![](https://map.pstatic.net/nrb/styles/basic/1780060341/17/111715/52638@2x.png?mt=bg.ol.sw.ar.lko)
-
-![](https://map.pstatic.net/nrb/styles/basic/1780060341/17/111711/52638@2x.png?mt=bg.ol.sw.ar.lko)
-
-![](https://map.pstatic.net/nrb/styles/basic/1780060341/17/111715/52639@2x.png?mt=bg.ol.sw.ar.lko)
-
-![](https://map.pstatic.net/nrb/styles/basic/1780060341/17/111711/52637@2x.png?mt=bg.ol.sw.ar.lko)
-
-![](https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-marker-x2-20180920.png)
-
-50m![](https://ssl.pstatic.net/static/maps/mantle/2x/new-scale-normal-b.png)![](https://ssl.pstatic.net/static/maps/mantle/2x/new-scale-normal-l.png)![](https://ssl.pstatic.net/static/maps/mantle/2x/new-scale-normal-r.png)
-
-© NAVER Corp.
-
-[더보기](#)
-
-[/OpenStreetMap](http://www.openstreetmap.org/copyright)
-
-##### 지도 데이터
-
-[x](#)
-
-© NAVER Corp. [/OpenStreetMap](http://www.openstreetmap.org/copyright)
-
-[![지도 확대](https://ssl.pstatic.net/static/maps/mantle/2x/zoom-in-small-normal.png)](#)
-
-[![지도 확대/축소 슬라이더](https://ssl.pstatic.net/static/maps/mantle/2x/zoom-handle.png)](#)
-
-[![지도 축소](https://ssl.pstatic.net/static/maps/mantle/2x/zoom-out-small-normal.png)](#)
-
-#### 지도 컨트롤러 범례
-
-![](https://ssl.pstatic.net/static/maps/mantle/2x/zoom-legend-left-on.png)부동산
-
-![](https://ssl.pstatic.net/static/maps/mantle/2x/zoom-legend-left-normal.png)거리
-
-![](https://ssl.pstatic.net/static/maps/mantle/2x/zoom-legend-left-normal.png)읍,면,동
-
-![](https://ssl.pstatic.net/static/maps/mantle/2x/zoom-legend-left-normal.png)시,군,구
-
-![](https://ssl.pstatic.net/static/maps/mantle/2x/zoom-legend-left-normal.png)시,도
-
-![](https://ssl.pstatic.net/static/maps/mantle/2x/zoom-legend-left-normal.png)국가
-
-![](https://simg.pstatic.net/static.map/v2/map/staticmap.bin?caller=smarteditor&markers=color%3A0x11cc73%7Csize%3Amid%7Cpos%3A126.8307958%2033.3617857%7CviewSizeRatio%3A0.7%7Ctype%3Ad&w=700&h=315&scale=2&dataversion=167.87)
-
-[**신풍넝쿨집**
+**신풍넝쿨집**
 
 제주특별자치도 서귀포시 신풍상동로 44
 
-](#)
+
 
 지도를 보면 아시겠지만 진짜 동네 안에 있습니다.
 
@@ -190,13 +115,13 @@ www.hani.co.kr
 
 규모도 있고 주차도 편해서 인근에 묵으신다면 장보러 가실만합니다.
 
-[
+
 
 **제주인식자재마트**
 
 제주특별자치도 서귀포시 표선면 표선중앙로 6
 
-](#)
+
 
 아래 사진은 신풍 넝쿨집 정면에서 본 길인데...
 
@@ -208,13 +133,12 @@ www.hani.co.kr
 
 여긴 더 논밭뷰입니다.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMTJfMzcg/MDAxNjc2MjEwMDI1MjAz.pQzl4pt3TR0Dup7txiBot9s4hqNwhUwg85KTFNX35DAg.gSh6CYSW6hZvjh6qF23ODLX2GW5iT-1IKEndljdX_Igg.JPEG.whiteagle/20220613_172118.jpg?type=w966)
 
 여튼, 그래서 내가 관광지를 왔다는 기분보단 시골 할머니집에 왔구나.
 
 근데 할머니가 청소를 정말 잘 해두셨구나 이런 마음으로 도착한 것 같습니다.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMTJfMjM0/MDAxNjc2MjEwMjMzOTYw.LDT6WfI0-3UwhVhTH7oJqDoRLsKIM1BYsvQGGNJrZ20g.5LuzgA4SP1W-sjllCxAM9qmaF5iwv-6Txx_ERCCbAD4g.JPEG.whiteagle/SE-437741fc-baa5-4cc2-83ad-5b2873401c13.jpg?type=w966)
+
 
 도착했던 날은 날이 흐리고 바람이 차가웠는데, 이슬비도 내리다 말다 하는 날씨였습니다.
 
@@ -223,8 +147,6 @@ www.hani.co.kr
 주황색 대문과, 뒤로 보이는 파란색 지붕의 조합이 너무 맘에 들어 기분이 업되었던 생각이 납니다
 
 문은 철제 문 같은데 역시나 시골할머니댁 문을 연다는 느낌입니다. ㅎㅎ
-
-![](https://postfiles.pstatic.net/MjAyMzAyMTNfMTMg/MDAxNjc2MjM4MTk3ODcx.fmu5yfeNjsvM-ov0xOcYc6zrX4xvwctBpDTHy0-2EhUg.RUiUBVuSGMr5Ot4fjnacZOAA8RHb0-9tOX12m7JPBPsg.PNG.whiteagle/%EB%84%9D%EC%BF%A8%EC%A7%91_%EA%B5%AC%EC%A1%B0.png?type=w966)
 
 이렇게 생긴 구조입니다. \[다자요 홈페이지에서 가져왔어요\]
 
@@ -238,17 +160,14 @@ www.hani.co.kr
 
 보시면 아시듯 현무암이기도 하고 바람이 잘 빠져나가게 구멍을 두고 쌓아 태풍에도 잘 쓰러지지 않지요.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMTJfNTcg/MDAxNjc2MjEwNDM2NTYy.aKlqhTNlfBRGZypLeUayYa0KjsDHrNeSw4HUgei04Psg.0swpLnp3eohkHZLDKqGyJzF3Vqs47ifzndThF8k6D5Yg.JPEG.whiteagle/DSC_4798.jpg?type=w966)
 
 사진은 둘째날 날이 맑아진 후 마당에서 대문을 찍은 사진인데요. 돌담과 연결된 주황색 대문이 너무 귀엽지 않나요. 집은 바로 옆에 다른 집이 없어서 한적합니다.
 
 마을 끝쪽에 위치해 있고 약간 높은 지대에 위치해 있어서 #프라이빗 하다는 생각이 들기도 합니다.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMTNfMjE2/MDAxNjc2MjM3Njc3ODIw.OlQMAxS_bXbBiqUffEuunW-4LfgnGethImXO7mcLOMEg.HaYROj05Z9xCerd3XGW_WpZh1qQWlOsFKr7E5AICB7wg.JPEG.whiteagle/SE-0cae1527-6204-4fa7-8206-8b1743da0e86.jpg?type=w966)
-
 정면에서 바라본 신풍 넝쿨집 사진입니다. 오렌지 귤나무가 이쁘죠.
 
-3\. 신풍 넝쿨집, 다자요다운 반가운 오지랖
+**3\. 신풍 넝쿨집, 다자요다운 반가운 오지랖**
 
 신풍넝쿨집 실내로 들어가 받은 첫인상은 정갈함입니다.
 
@@ -264,13 +183,12 @@ www.hani.co.kr
 
 대표적으로 이런 식물 데코 같은 것들 말이죠.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMTJfMjg3/MDAxNjc2MjEwNjEwOTUy.efIHZM0MaGN_hzu_uZss6nd1RgfCCjdIlLOuBf3V2Fcg.B_g5V9W4D-Ih_l-OAuYJUHXLBRcM6Tgp0rBGpENdigkg.JPEG.whiteagle/20220613_173057.jpg?type=w966)
+
 
 플랜테리어가 역시 대세
 
 아내도 맘에 든다며 탐을 내었던 주방도구네요. 정확히 기억은 안나지만 아내가 제품명을 말하며 좋은 제품이라고 말했던 기억이 납니다.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMTJfMjAz/MDAxNjc2MjEwNzQ5Mzkz.sLcENaAq3cpHlS1-mEA75a0okKLbmvDTfv-K3S9loU4g.o_zmELl9Z6d-Xicc6NwANHoziO1tnxQBJUfhi5KrNo0g.JPEG.whiteagle/20220613_173147.jpg?type=w966)
 
 주방도구
 
@@ -286,7 +204,6 @@ www.hani.co.kr
 
 주방도구가 부실하면 뭔가 집 전체의 청결 등에 의심이 가기도 합니다.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMTJfOTAg/MDAxNjc2MjExNjc3NjQ3.i5NCdXrgAL_kpAuffoA8Gm8mvabKZeYdbWvzoMB_I_8g.12NS7GDwvViPSYOv_u4WVVxpUuIHFlw5xnBqC7E5x8kg.JPEG.whiteagle/SE-8dcc07cf-4579-49bb-91be-925e8ec2c163.jpg?type=w966)
 
 각종 제주 스타트업의 어메니티
 
@@ -302,7 +219,6 @@ www.hani.co.kr
 
 상부상조, 상생이라 할 수 있죠.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMTJfMTI0/MDAxNjc2MjExNjU3ODIw.ooRuFgdUac04nm8D2Tt07mblWofj6kzWdTgdsdWgwfAg.o1iKGJFQG7dUU0M4kezLCwhF8uJVhFBJhnPwldnVVF0g.JPEG.whiteagle/SE-60074070-159c-4a81-8dbd-718ce98d16f1.jpg?type=w966)
 
 태블릿에는 PDF로 숙소 이용방법이 있습니다.
 
@@ -312,7 +228,8 @@ www.hani.co.kr
 
 어떤 회사가 어떤 철학으로 제품을 만들었고, 필요하시면 구매할 수있는 방법까지 친절하게 알려줍니다.
 
-4.실내 공간 소개
+
+**4.실내 공간 소개**
 
 거실의 공간은 빛이 잘 들어오는 입식 공간입니다. 주방에서 바로 연결되어 있는 이 긴 테이블이 메인이죠.
 
@@ -322,7 +239,6 @@ www.hani.co.kr
 
 오른쪽에는 커피를 내려먹을 수 있는 기구들도 배치되어 있었습니다. 소싯적에 그래도 커피콩 좀 갈아봤고, 루왁까지 받아서 마셔본지라. 이튿날 숙소에 비치된 원두를 잘 활용해서 한잔 내려 마셨습니다.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMTJfMjYz/MDAxNjc2MjExNjMzNjMy.grfy__dpjux75l387kR-91UMXu-2JN6G6BmkXRrVGHkg.4f0p3lr5CT6yPG3twjZftrQYpgh3ETFlzR2MzV5B0gYg.JPEG.whiteagle/DSC_4789.jpg?type=w966)
 
 커피 도구들.
 
@@ -332,7 +248,6 @@ www.hani.co.kr
 
 안방에는 킹 침대가 있는데 침구도 기대 이상이었던 것으로 기억합니다.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMTJfNDcg/MDAxNjc2MjExODIwMTgy.dyXNC6F3g0RizabAwug_hIUbBZZD8oza4noYCcVpe2kg.SKP9bREAdKpbbk5iqvGGoW_1kuGzKLQ8x99TL7CgvC0g.JPEG.whiteagle/SE-f1ddef3c-b14e-4bb0-90ee-44d37bd4d240.jpg?type=w966)
 
 안방 킹침대
 
@@ -342,33 +257,23 @@ www.hani.co.kr
 
 원목으로 만들어 둔 팔걸이가 인상적이었던 것 같습니다.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMTJfNzYg/MDAxNjc2MjExOTAyMjY2.tXkx9YXDFo6ZCX86-52LrXKeMhWLOHQvCBqkBQHRK5wg.Z2R6hmO4ox8wwLjHWMpn9krwhiAUjH3cLXW_vrz_zqMg.JPEG.whiteagle/SE-10366c60-1e8f-4f1e-87ec-b93dcaf16e6a.jpg?type=w966)
 
 안방 쪽 욕실
 
 다른 방은 싱글침대 2개가 있고, 이동식 티비가 있었습니다. 마당데크로 바로 나가 야외 자쿠지를 쓸 수 있도록 되어 있더군요. 저와 아들은 이방에서 같이 자고, 아내에게 킹 침대를 양보했습니다.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMTNfMTQy/MDAxNjc2MjM4NTUwNzkw.jFpy4Rg_WjAsM3aksPkBTeZii5l61bHAQNa6Tv-JYqQg.0pJ__zBVHf5J8fOgnXJenGOknl9QY-kEj8e3GY6JDSgg.PNG.whiteagle/%EB%8B%A4%EC%9E%90%EC%9A%94%EB%B0%A9.png?type=w966)
-
-![](https://postfiles.pstatic.net/MjAyMzAyMTNfMTM1/MDAxNjc2MjM4NTUxMTk2.i_n3rqBQThWpONJzwB2DBXWamJVYZQIFk1TNDO-iTtMg.eOPo42DpsSKWMMEXI-1zXQne2ORjVCc6HS65VzHA83sg.PNG.whiteagle/%EB%8B%A4%EC%9E%90%EC%9A%94%EB%B0%A91.png?type=w966)
-
 작은방. 이동식 티비가 있어요. 거실로 옮겨와서 잘 봤습니다.
 
-5.야외 숯불 - 마당의 기쁨
+**5.야외 숯불 - 마당의 기쁨**
 
 첫째날 비가 좀 내리긴 했지만 저녁엔 좀 소강상태여서 장봐온 고기를 구웠습니다. 인근 마트(위에 소개한 제주인식자재마트)에 가면 괜찮은 고기가 많더군요.
 
 마당엔 그릴이 있고, 부엌에 숯이 따로 제공되어 있어 캠핑 좀 해보신 분이라면 편하게 숯불에 고기를 구워 먹을 수 있습니다.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMTJfNDkg/MDAxNjc2MjEyMTU0NDg1.am_nrmnoqRYes8w37tZ0dUSSMm9fT4Ia6kS-9mFTyd4g.Kglr3jp076HQEOlrIUVxQ0yNF_JxWkeweYIPA4RkazIg.JPEG.whiteagle/20220613_210624.jpg?type=w966)
-
-![](https://postfiles.pstatic.net/MjAyMzAyMTJfMjYy/MDAxNjc2MjEyMTU0Nzk3.xWs1sZa_IeqStS_75NDavgG-LqlsciWahrFWApNiugMg.g5nkZ7hc1YOvO8-3kpXt7CbF5S6DQ1FkodntUy7RI1Ag.JPEG.whiteagle/20220613_211739.jpg?type=w966)
 
 고기는 진리죠
 
 둘째날 날 맑을 때 #그릴 은 요런 모양입니다. 무겁지만 재버리기도 좋고, 이동도 어렵지 않아서 마당 있는 집에 산다면 하나 갖춰두면 좋겠다 싶은 아이템이네요.
-
-![](https://postfiles.pstatic.net/MjAyMzAyMTJfMjc4/MDAxNjc2MjEyMTc2NjI1.EubF-WjFA8q5id6qeRIjtxgtCIrkylZCGY8p-TBSHN8g._uJX664AQDMsLNtTHMFat1Vzrb99eCnzLs-z82AvgMIg.JPEG.whiteagle/DSC_4842.jpg?type=w966)
 
 이거 찜...
 
@@ -382,17 +287,7 @@ www.hani.co.kr
 
 담이 높아 외부에서 작정하고 보지 않으면 프라이빗하게 즐길 수 있어요.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMTJfMTc5/MDAxNjc2MjEyMjkxOTY0.SHj2ZGIHXr9ydGkXnabDXhfeEUl9p44hsz9UdZTJCE4g.H4U1-GoDW5DnFfFXXgpnaSJesBLT0U8eCDoOKLKLldUg.JPEG.whiteagle/20220614_145845.jpg?type=w966)
-
-![](https://postfiles.pstatic.net/MjAyMzAyMTJfMTU3/MDAxNjc2MjEyMzYxNTA5.PnAflK2Ur0RVvf0R3wR_y3U2pMdmed5bxlVNHpqwFdYg.un3S9_UD7S-iDIRDqxACAXWG59qkfxnMeW_WZJVjz6Ig.JPEG.whiteagle/20220614_150017.jpg?type=w966)
-
-![](https://postfiles.pstatic.net/MjAyMzAyMTJfMjUg/MDAxNjc2MjEyMzYxNTIx.ttofCrSsANejWnQAiDoTguPqKm5H84Yo_f3LeWk0U4Ig.8WNzgu0MoJlEmU7dSmXnGkqvVIjKhUWSiHkTpdtN9NEg.JPEG.whiteagle/20220614_150133.jpg?type=w966)
-
 당연히 온수도 잘 나오고, 아들도 즐겁게... 놀았는데... 사진은 뭔가 힘들어 보이게 나왔네요 ㅠㅠ
-
-![](https://postfiles.pstatic.net/MjAyMzAyMTJfMTg5/MDAxNjc2MjEyNDMxMTU3.deSyAJIoFXM_CdfyOrqFTxRweYjIinbK1K955dVKcHEg.2JTKNGKTXkcAzJEoKzJskuu0q-xnLIHIgfqs-rtMH-og.JPEG.whiteagle/20220614_145929.jpg?type=w966)
-
-달팽이
 
 자쿠지를 쓰면 옆에 담이 보이는데요, 초록색이 싱그럽습니다. 살짝 비가 온날이라 촉촉하네요.
 
@@ -400,17 +295,11 @@ www.hani.co.kr
 
 앞에서도 말씀드렸듯 이곳은 10년 넘게 방치되었던 빈집이에요. 그래서 넝쿨이 온 담장을 뒤덮었습니다. 그래서 더 #자연친화적 으로 느껴집니다.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMTNfMzAg/MDAxNjc2MjM5MjYyNzY0.0vgNjz1l3eoW2YcZZZPA4_mYWRr9cCIFO1Ea-TT96R0g.dcXd0Yw4bdUA52c54bxdGEf-T_IuGquRe2ifdEVONFIg.JPEG.whiteagle/20220614_145906.jpg?type=w966)
-
-![](https://postfiles.pstatic.net/MjAyMzAyMTNfODgg/MDAxNjc2MjM5MjYyOTY3.YWaXC3lTRZCjo3tRZeL3An7l9aPJd1EV4gV2jR4nmecg.en6KyvZ5_RIGvjsFOMoFe3tfsXYTj3cMUHODMUUjLjEg.JPEG.whiteagle/20220614_150033.jpg?type=w966)
-
 덩쿨이 싱그럽습니다.
 
-7.할머니집의 기억, 다자요
+**7.할머니집의 기억, 다자요**
 
 다자요는 '빈 공간에 가치를 더하는 기업'이란 모토를 가지고 있습니다.
-
-![](https://postfiles.pstatic.net/MjAyMzAyMTJfMjg1/MDAxNjc2MjEyNDQ2Nzc3.9At0k6mSB9W_MekM9IAPsYshwIo3-N-WFRdfM3uhNqcg.bnnqQzmwzlNL5aVq4_bvL25xoYJjOPKEixUH8Y60XBQg.JPEG.whiteagle/DSC_4802.jpg?type=w966)
 
 담 밖으로 보이는 풍경
 
@@ -432,4 +321,3 @@ www.hani.co.kr
 
 읽어주셔서 감사합니다.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMTNfNDcg/MDAxNjc2MjQwMzYwODE1.Zz0lsxYSmK3VtkWV1lLA15nRtyVWAC4cR-GF1OmMhKcg.MM6JuNdm26pkKgo4DPONsISYG5q_5E6Ewo2K5OqtrJkg.JPEG.whiteagle/%EC%97%94%EB%94%A9.jpg?type=w966)

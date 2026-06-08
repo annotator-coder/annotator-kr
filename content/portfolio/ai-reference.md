@@ -20,8 +20,8 @@ approach:
   - 'Vercel 배포, 팀 내부 URL로 공유'
 outcome:
   - 팀 AI 활용 빈도 3배 증가
-  - 신규 팀원 온보딩 시간 단축
-  - 보도자료 초안 품질 균질화
+  - 팀원의 AI 온보딩 시간 단축
+  - 보도자료 부터 콘텐츠, 기획 내용의 품질 향상
 href: 'https://ai-reference-ashy.vercel.app'
 featured: false
 relatedBlogSlugs:

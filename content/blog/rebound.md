@@ -2,7 +2,7 @@
 title: '슬램덩크보다 땀내나는 실화의 힘, 영화 리바운드 후기'
 date: '2023-04-08'
 category: 영화·드라마
-excerpt: '우리가 영화를 좋아하는 이유는 여러가지다. 액션, 창의성, 영상미, 쾌감 등. 하지만 무엇보다도 나는 현실...'
+excerpt: '우리가 영화를 좋아하는 이유는 여러가지다. '
 readingTime: 6
 relatedPortfolioSlugs: []
 sourceUrl: >-
@@ -10,25 +10,8 @@ sourceUrl: >-
 ---
 슬램덩크보다 땀내나는 실화의 힘, 영화 리바운드 후기
 
- [
+ 
 
-**리바운드**
-
-감독
-
-장항준
-
-출연
-
-안재홍, 이신영, 정진운, 김택, 정건주, 김민, 안지호
-
-개봉
-
-2023\. 04. 05.
-
----
-
-****
 
 **1.실화의 힘, 스포츠영화의 매력**
 
@@ -44,7 +27,6 @@ sourceUrl: >-
 
 영화는 사실을 끌고와 미화하지 않고, 사실에 천착해 스토리를 돋보이게 만든다.
 
-![](https://postfiles.pstatic.net/MjAyMzA0MDhfMjIg/MDAxNjgwOTA1OTA1MTY4.r_J8EXecQzGPRwAH380LM_-3jDqKNfzvDf35qV_PLOwg.4nhLyDlQ4meU01_EofmFrZDCFnszAL04rLVET1GWJ0sg.PNG.whiteagle/7.png?type=w966)
 
 영화에 등장하는 캐릭터 이름도 실제 주인공이고, 심판도 농구협회 소속 실제 심판이다. 장항준 감독은 배우를 고르기 위해 500명가량을 오디션보고 캐스팅했다고 했는데 그런 부분이 영화의 완성도를 높였다고 본다. **억지로 고교생, 하이틴이라는 느낌이 뭍어나게 연애나 로맨스를 넣지도 않고, 스토리 개연성을 만들고자 과거 코치(극중 강양현 코치)의 이야기를 질척하게 가져오지도 않았다**.
 
@@ -52,35 +34,21 @@ sourceUrl: >-
 
 이런 현실감은 아마도 오랜 준비에서 비롯됐을꺼다. 실제 캐스팅된 배우들을 봐도 키가 농구선수급이고 운동신경이 모두 뛰어나다. 강양현 코치역의 **안재홍 배우는 키가 178로 동글동글한 외모와 달리 크다**. 실제로 부산출신이라 사투리가 정말 구수하기도 하고. 강 코치 본인도 진짜 본인 같았다고 했다는 후문.
 
-![](https://postfiles.pstatic.net/MjAyMzA0MDhfMjMw/MDAxNjgwOTA2MjU1MzE4.ARkZVNwJ4qZN40hB-KIlFlCFqX47vtZ6ux0kgkgw3n0g.RURobpNMG3-PjVSo0_erZlG4JRIUIJyf84L5xNaQGSAg.PNG.whiteagle/1.png?type=w966)
 
 중학 MVP출신으로 슬럼프에 빠진 **가드 기범역의 이신영 배우도 역시 경상도 출신으로 키가 180**이고, 2AM 출신의 **정진운(규현 역)도 연예계에서 손꼽히는 농구광**이다. 실제로 농구선수를 꿈꾸기도 했고, 발목수술도 몇차례 받으며 꿈을 접었다고 하니 역할에 딱. 두 사람은 실제로 대중성이 있는 아이돌 출신인데, 영화에서 두사람의 라이벌관계나 두 사람의 스토리에 너무 집중하지 않는 것도 괜찮은 점이었다.
 
 **슬램덩크로 치면 서태웅과 강백호의 포지션**이라고 봐도 되는데, 티격태격 캐미가 좋은 두사람과 달리 영화에서 기범과 규혁은 쌓인 앙금이 꽤 깊다. 그래도 서로를 걱정하는 화장실 대화씬이후 슬램덩크의 명장면 하이파이브씬을 떠올리게 하는 하이파이브 장면은 나름 깨알같은 묘미.
 
-![](https://postfiles.pstatic.net/MjAyMzA0MDhfMjk5/MDAxNjgwOTA2ODA3NDA2.u5NpoY6tNnGwQ8jCp19ECwzk-VPNIowOmJwIYqhky9Eg.bNGE_-JWCaB4SW4_qvKgFQEVMKm_Iet8m1uIM7M3thUg.JPEG.whiteagle/%ED%95%98%EC%9D%B4%ED%8C%8C%EC%9D%B4%EB%B8%8C.jpeg?type=w966)
-
-슬램덩크의 하이파이브 명장면
-
-![](https://postfiles.pstatic.net/MjAyMzA0MDhfMjY3/MDAxNjgwOTA1OTI1MTU4.aOcXj_WqizqlocOweGUfO-yfMkuuTU7PYVFpnguEO6Ag.ZNq3E45m3yzuxifSI7H7opBqkhY8rH76qx5hvl_f14cg.PNG.whiteagle/13.png?type=w966)
-
-바로 요장면이다. 다른 의미로 훈훈한 장면
 
 그 밖에 선수들도 영화에서 엄청 주목받지는 않았지만 찰떡처럼 캐릭터가 맞아 떨어졌다. 순규역의 김택은 키가 192로 휘문고-중앙대를 나온 체대 출신 배우다. 선출 하나쯤 들어가면 극의 퀄도 확 올라가기 마련. 강호역의 정건주 배우도 키가 187이나 되더라. 까불이 **마이클 조단 진욱(안치호)역은 극중 임팩트는 짧았지만 강백호와 전호장을 떠올리게 해서 피식**.
 
-![](https://postfiles.pstatic.net/MjAyMzA0MDhfMjgy/MDAxNjgwOTA1OTUxMDY4.AL89cHjxrf4ypA8EkeI-DfFW95RUlymAfIWJVxPDbvsg.6cfsR7x0hT6WaJpSdm2WTeAQRfgWF-ZaukF3jsF178cg.PNG.whiteagle/2.png?type=w966)
 
 전호장이 떠오르는 진욱
 
 마지막으로 식스맨으로 후반부에 중요한 역할을 하는 재윤역의 김민 배우도 역할을 잘했다. 역시 키가 180이라 꽤 놀랐다. 6명 선수팀에서 유일한 후보인 재윤은 노력은 배신하지 않는다는 스포츠의 격언을 잘 보여주는 역할인데, **슬램덩크의 노력의 화신 해남의 홍익현을 떠올리게 한다**. 외소한 신체조건이 있지만 엄청난 노력으로 3점슈터가 된 홍익현의 초기버전이랄까. 역시 한편으로는 식스맨으로 깊은 인상을 남긴 **우리 안경선배 스멜을 풍기기도**. (상대편 코치진의 방심을 이끌다 한방 먹이는 것도)
 
-![](https://postfiles.pstatic.net/MjAyMzA0MDhfMTQ1/MDAxNjgwOTA1OTcwMDc3.83-KZAIdDkD482Vx_tdxSP56z4G5lxj93m7AvUCLLdYg.sqg2C-aL01tlhOEA6fiPACoyiVngOpgQVCHoO8bMzoYg.PNG.whiteagle/14.png?type=w966)
-
 우리 재윤이의 인생 공식 첫 득점 장면이다.
 
-![](https://postfiles.pstatic.net/MjAyMzA0MDhfMTQw/MDAxNjgwOTA3MTUyNTY0.e1XoyvloQPOlCUR7NCVISbE8eYiyJrTxcEAKHTgGpcUg.lgs-sHALw9JuyVpaVPzmgrUJigVm4Sp7TjMBa5yL7Gcg.JPEG.whiteagle/image7.jpeg?type=w966)
-
-슬램덩크에선 이장면
 
 ---
 
@@ -94,7 +62,7 @@ sourceUrl: >-
 
 > 함 해보지 뭐, 구색 맞차가
 
-![](https://postfiles.pstatic.net/MjAyMzA0MDhfNTYg/MDAxNjgwOTA2MTE3MjM3.-U7escg3OE2ufRM-Yh4TioHkr7f6QOfao4YVuZA3ebcg.XNWxkrKg6YHTI5MP8aJPPi-_51rOLGbdohDQBDJZjygg.PNG.whiteagle/15.png?type=w966)
+
 
 말과 달리 강코치의 진심은 느껴진다. 운동하는 사람은 언제든 진심을 다한다.
 
@@ -102,13 +70,12 @@ sourceUrl: >-
 
 리바운드 하면 역시 '리바운드를 지배하는 자가 경기를 지배한다'(슬램덩크 대사)가 가장 먼저 떠오른다.
 
-![](https://postfiles.pstatic.net/MjAyMzA0MDhfMTY2/MDAxNjgwOTA3Mjg1NDcw.qyFm_CyJOVSQ6l8iSTJVg-AVtfhqK7S6KjMhbJBbSMAg.2eL5jB6UB_qE6Zh0ewGmgWgM-otJzKCxSwHp0Cc_wAgg.PNG.whiteagle/%EC%A7%A4.png?type=w966)
+
 
 수비시에는 재정비와 공격의 출발점을, 공격시에는 한번의 기회를 더 만들어내는 리바운드는 사실 가드나 슈터의 화려함에 비하면 주목을 덜받는게 사실이다. 하지만 슬램덩크로 리바운드의 의미를 다시 생각하게 됐고, 이번 영화 리바운드로 하나를 더 얹게 됐다. **정말 집착하고 간절하다면 내가 어떻게 악착같이 점프하고 몰입하냐에 따라 한번의 기회를 더 받을 수 있다는 것. 그건 사실 우리네 인생에서도 마찬가지다.** 최선을 다했으니 어쩔 수 없다는 말을 하기 전에 골밑으로 파고들어 몸싸움을 하고, 다시 기회를 잡을 생각을 했는지 돌이켜 보게 되는 순간.
 
 > 실패를 성공으로 바꿀 수 있는 것, 리바운드
 
-![](https://postfiles.pstatic.net/MjAyMzA0MDhfMTMw/MDAxNjgwOTA2MDQ4MTk3.Aef7tMVuAmXEOk5t7stHl9f2721MwycVgowSNNMaTX0g.L8e7A9_5K1xMFtXyHpKM7p9rbxm4ElseRMOfFBGxZr0g.PNG.whiteagle/10.png?type=w966)
 
 **압박에서 벗어나 즐길 수 있을 때가 아름답다**
 
@@ -116,7 +83,7 @@ sourceUrl: >-
 
 개인적으로는 **반전의 신호탄을 쏠 때마다 선수들이 코치에게 하는 제스쳐와 장난이 너무 싱그러웠다**. 우리는 스포츠가 경쟁이고, 승리하지 못할 때 아무것도 남지 않는다는 것에 익숙해져서 저런 고등학교 농구조차 감독의 질책과 헤어드라이어가 익숙하다. 하지만 그건 선수를 100으로 110으로 이끌지는 몰라도, 120, 130의 능력을 만들어내진 못한다.
 
-![](https://postfiles.pstatic.net/MjAyMzA0MDhfNjEg/MDAxNjgwOTA2MDI2MTcy.Li67pudgxlKLBEfyxBqbTaoYIjiimxAD44v0vEZTBsEg.iE8l1AtlEKYnOSG9Y11IgP7mdhbzIVKYckiwD0COl34g.PNG.whiteagle/4.png?type=w966)
+
 
 농구자체가 재미있고, 즐거운 아이들이 자신들이 만든 플레이에 즐거워하는 모습, 그걸 받아주는 코치야 말로 좋은 교육의 표본이 아닐까. **그런 의미에서 나는 퍼거슨 보다 클롭을 좋아한다.**
 
@@ -132,7 +99,6 @@ sourceUrl: >-
 
 예능과 드라마 등으로 영화적 감각에 대중성을 입혀 요리하는 법을 너무도 잘 아는 장항준 감독이 치트키를 썼다. **‘수리남’의 권성휘 작가, 장 감독의 부인이자 ‘시그널’ ‘킹덤’ 등을 쓴 김은희 작가가 함께 대본을 집필**하며 어쩌면 뻔 할 수 있는 감동 스토리를 더 담백하면서, 흥미롭게 풀어낸 것. (개인적으로 김은희 작가 각본은 정말 취저다)
 
-![](https://postfiles.pstatic.net/MjAyMzA0MDhfMjI5/MDAxNjgwOTA2MTU2Mzcw.NJCrYlxf-aEAlfmoa2RB3YqmEUKnXkMye4uiqrLZgykg.Vbg8QqARFbfhfvWOLgkugLIWY9oS6SNh7ET5fw5VK9wg.PNG.whiteagle/8.png?type=w966)
 
 이런장면은 진짜 농구경기 중계에서 잡히는 장면과 아주 흡사하다.
 
@@ -140,13 +106,12 @@ sourceUrl: >-
 
 하지만 영화는 전반에 캐릭터의 서사를 후딱 쌓고, 후반부 부턴 8일간의 고교농구대회 경기에 집중한다. 처음엔 중앙고에 부임한 강양현 코치의 무리한 독선과 첫 대회 실패로 서사를 쌓아가는데 이때는 솔직히 조금은 지루한 느낌도 없지 않았다. 하지만 **영화의 제목처럼 슈팅의 순간은 짧고 '리바운드'이후 재차공격이 매섭다**.
 
-![](https://postfiles.pstatic.net/MjAyMzA0MDhfMTM3/MDAxNjgwOTA2MjcxODI1.Z9DM-sLuTRbTlPs4LIgWoIynBOr6B12rOx3FNlicaBUg.jBgFqrAZ8FOPL9DqhruoLNQdU-NLBXibE11ZdskvX6Qg.PNG.whiteagle/3.png?type=w966)
+
 
 예선경기부터 결승까지 다루는 후반부는 롱테이크를 활용해 스포츠영화 본연의 묘미를 한껏 이끌었다. 안그래도 농구는 코트의 현장감이 관중이나 티비로도 잘 와닿는 장르인데, 연출이 더해지니 훨씬 생동감이 살았다. NBA에서 보는 화려함이 아닌 **땀내나는 코트의 현실감과 딱 고교수준에서 손에 땀이 나는 플레이가 과하지 않게 잘 버무려진 느낌**. 실제 중계진으로 활동하는 이들의 중계도 이런 느낌을 배가시킨다.
 
 참고로 천기범은 개인타이틀 4관왕(우수선수상, 득점왕, 수비상, 어시스트상)에 오르며 화려하게 부활했는데, 영화에선 이런 내용을 깔끔하게 담지 않았다. 접시에 너무 많은 음식을 올리면 안된다는 격언을 잘 보여준 부분.
 
-![](https://postfiles.pstatic.net/MjAyMzA0MDhfMTAg/MDAxNjgwOTA2MjAyMDY2.JKkutFetzm1gLtn_QmlQdfcY-Tz-TibVZfIRg2HtTuUg.jiCTvIoCTlA0B-NhH93njSZ5k74My3J1vc6BHdwx1p8g.PNG.whiteagle/12.png?type=w966)
 
 뭐가 일본의 하이틴 영화 하늘 색감이 떠오른다.
 
@@ -158,8 +123,6 @@ sourceUrl: >-
 
 영화를 보기 시작하며 가장 먼저 눈에 들어온 건 넥슨이다. **직업병일지 몰라도 넥슨이 영화를? 이라는 생각이 가장 먼저 들었다. 상업영화에 대한 첫 투자**.
 
-![](https://postfiles.pstatic.net/MjAyMzA0MDhfMzMg/MDAxNjgwOTA2NTE4NDY1.dqYyRpYLoBKzgzn0PO3x07zbKl3kuznxKDyvsnEESVsg.uUU_ulCS9MsPUTlbd1Ubb7_Dn6flp7lUvfAOYf3EALMg.PNG.whiteagle/16.png?type=w966)
-
 넥슨 홈페이지에 들어가면 팝업으로 리바운드가 뜬다. ㅎㅎㅎㅎ
 
 리바운드가 투자 무산으로 제작팀이 포기하던 시점 넥슨 이정헌 대표가 전격 투자를 결정한 것. 제작비가 100 억원이었다고 하니, 쉬운 결정은 아니었을 것. 손익분기점은 180억원이다. 이정헌 대표는 "영화를 통해 게임 외적으로도 다방면으로 즐거움과 감동을 전달하고자 제작에 참여했다"고 했다.
@@ -167,8 +130,6 @@ sourceUrl: >-
 개인적으로는 넥슨의 스타일을 볼 때, 스토리텔링에 높은 점수와 가능성을 읽었을 것으로 보인다. 게임사로서 넥슨은 본질에 집중하는 것으로 유명한데, 테크와 기술이라는 측면 외에 '이야기'로서의 매력이 게임, 확장해선 엔터테인먼트의 출발이라 여기는 곳이다.
 
 이정헌 대표도 IP라 부르는 지적재산권의 중요성을 강조해왔는데, 이 원천소스가 스토리텔링이고 이를 원천으로 삼아 웹툰, 소설, 영상, 게임이 탄생함을 잘 이해하고 있다. 작년 1월에 6000억을 투자해 '캡틴 아메리카: 윈터 솔저', '어벤저스:엔드게임'을 제작한 루소 형제의 AGBO를 인수한 것도 영화와 게임의 융합, 그 근간에 스토리텔링이 자리했다고 할 수 있다.
-
-![](https://postfiles.pstatic.net/MjAyMzA0MDhfMTU0/MDAxNjgwOTA3NTk4Mjg4.-HSyIYBElBi0gaiDBgqlpGAbnTZNrX8IjYpTv-abS7cg.NUiybtxBB96JZGYVl7RFpS_JErLozmQzYojMO3plIXUg.PNG.whiteagle/%EB%84%A5%EC%8A%A8%EC%9D%B4%EB%B2%A4%ED%8A%B8.png?type=w966)
 
 넥슨 홈에서 이벤트도 엄청 열었다 ㅎㅎ
 
@@ -186,13 +147,10 @@ sourceUrl: >-
 
 이건 대중에게 어필 할 수 있는 멋진 포인트다. 영화에도 등장한 허재 감독의 아들 허훈 선수 같은 스토리는 프로농구의 부활에 큰 도움이 될 수 있는 요소다. (농구도 MVP급인데 심지어 훈남이다)
 
-![](https://postfiles.pstatic.net/MjAyMzA0MDhfNiAg/MDAxNjgwOTA3ODUwODM0.4FrElK18iq1CdlTgWTDZL4lbO_sd2PJpiCCHfJJyB0kg.iRSnFa1qRISebbYj7oXB1LEmCSeEZm6tgTszGLGW7bcg.PNG.whiteagle/%ED%97%88%ED%9B%88.png?type=w966)
 
-허훈 선수
 
 영화 리바운드도 후반부에 실제 선수의 스토리와 사진이 나오는데, 영리하게도 캐스팅 과정에서 실존 선수와 아주 유사한 캐릭터들을 섭외했다. **추후에 현실 농구의 인기로 이어질 수 있는 부분.** 실제 주인공인 현실 농구선수들도 몇달간 영화를 위해 농구지도를 도왔다는 점도 재미난 포인트다. DC갤에 보면 실제 인물과 비교한 내용도 올라올 정도. (물론 비판도 있음... )
 
-![](https://postfiles.pstatic.net/MjAyMzA0MDhfODUg/MDAxNjgwOTA4MTE1MzU4.gJGV34wbDcwE_L1F5uJ7wf1gY4i58BsgnSd0_SulBWwg.tP92zaAz2zwfwiKE-LeT9e04_twxEtvldA6t9lQQzIYg.JPEG.whiteagle/%EC%8B%A4%EC%A0%9C.jpg?type=w966)
 
 실제 스토리 인물들 사진이다. 예전 모습
 
@@ -202,14 +160,3 @@ sourceUrl: >-
 
 **림은 둥글고, 농구가 끝나도 인생은 계속된다.**
 
-****
-
----
-
-****
-
-****
-
-**참고**
-
-**1.2012년 당시 기사 : 부산 중앙고 농구부, 졌지만 빛났다**

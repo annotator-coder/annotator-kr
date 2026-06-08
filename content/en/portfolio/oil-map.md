@@ -8,25 +8,19 @@ tags:
   - Vercel
   - PR Content
 year: '2026'
-tagline: 'Complex energy security data, readable at a glance'
-description: >-
-  An interactive world map visualizing crude oil import source diversification.
-  Used simultaneously for policy briefings and media distribution.
+tagline: Complex energy security data made readable for everyone on an interactive map
+description: A visualization of crude oil import diversification status on an interactive world map. Used simultaneously for policy briefings and media distribution.
 problem: >-
-  Energy security figures existed in vast quantities but were hard for
-  journalists or policy officials to grasp at a glance. There was no tool to
-  intuitively convey the energy security contribution message.
+  Energy security data was extensive but existed in forms that were difficult for journalists and policymakers to grasp at a glance. There was no tool to convey energy security contribution messages intuitively.
 approach:
-  - 'Collected and refined public statistics (KEEI, KNOC)'
-  - Built an interactive world map with D3.js (import share by country)
-  - >-
-    Mobile-responsive design, automated screenshot generation for media
-    distribution
-  - 'Deployed on Vercel, URL attached to press release distributions'
+  - 'Data collection and refinement from public statistics (Korea Energy Economics Institute, Korea National Oil Corporation)'
+  - D3.js-based interactive world map implementation (import share visualization by country)
+  - 'Mobile-responsive design, automated screenshot generation for media distribution'
+  - 'Vercel deployment, link attached to press release distributions'
 outcome:
-  - Multiple positive responses from journalists upon distribution
-  - Adopted as a standard resource for internal policy briefings
-  - Expanded into follow-up energy statistics dashboard project
+  - Multiple "great resource" responses from journalists upon distribution
+  - Established as a standard internal media relations reference
+  - Expanded into a follow-up energy statistics dashboard project
 href: 'https://oil-map-korea.vercel.app'
 featured: true
 relatedBlogSlugs:

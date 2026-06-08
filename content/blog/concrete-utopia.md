@@ -2,7 +2,7 @@
 title: '콘크리트유토피아에 주석달기 : 영화가 던지는 질문들'
 date: '2023-08-29'
 category: 영화·드라마
-excerpt: 아드님이 인근에 계신 할머니댁에서 엄마아빠 없이 노는 걸 자연스러워 하면서 최근에 가끔씩 아내와 영화...
+excerpt: 유토피아는 있다? 없다?
 readingTime: 6
 relatedPortfolioSlugs: []
 sourceUrl: >-
@@ -10,33 +10,15 @@ sourceUrl: >-
 ---
 콘크리트유토피아에 주석달기 : 영화가 던지는 질문들
 
- [![프로파일](https://blogpfthumb-phinf.pstatic.net/MjAyMzEwMTNfMjA0/MDAxNjk3MTgxMTM5MTA2.EEA8VHZxZ9eRy07PHZ9jU4O6ZuWSFFO9SvWTqpH5qP4g.QnMuhZvISYOc2aoiWKVFm1D1knvqjRynpx2o3gHwE68g.PNG.whiteagle/letter-ano.png/letter-ano.png?type=s1)](https://blog.naver.com/annotator) [annotator](https://blog.naver.com/annotator) *・* 2023\. 8. 29. 6:26
 
-![](https://postfiles.pstatic.net/MjAyMzA4MjlfMjE2/MDAxNjkzMjU3NzE3NjUy.sAYD3-ONMMKqpf6UvuCpTnQADQIfMcKjhhUFONVhba4g.GMJ_1ajxWoXjwMdyUv3spY-OPpTUEZquaHZ4k1E2TDog.PNG.whiteagle/%EC%BD%98%ED%81%AC%EB%A6%AC%ED%8A%B8.png?type=w966)
 
 아드님이 인근에 계신 할머니댁에서 엄마아빠 없이 노는 걸 자연스러워 하면서 최근에 가끔씩 아내와 영화를 보러갈 여유가 생겼다. 결혼전부터 아내는 영화를 즐겨봐서 개봉하는 거의 모든 영화를 보는편이었고, 나도 대작이라 부를만한 것들은 챙겨보는 편이라 심야영화 데이트도 자주했는데 한동안은 극장에 발도 못 뻗다가 조금씩 다시 가게 되어 소소한 즐거움이 있다. (물론 영화가격이 너무 올라서 좀 아쉽긴 하다.)
 
 지난주 좀 늦게 본 영화는 **콘크리트 유토피아**다. 극장에 **오펜하이머**도 걸려 있고, 여름철 텐트폴이라는 밀수 같은 영화도 있어 어떤걸 고를까 고민했는데 평점이 꽤 높은 **콘크리트 유토피아**를 골랐다.(오펜하이머도 여유가 되는데로 곧 볼 것 같다.)
 
-[
 
 ![](https://s.pstatic.net/movie.phinf/20230809_114/1691559109714F3JPy_JPEG/movie_image.jpg?type=w640_2)
 
-**콘크리트 유토피아**
-
-감독
-
-엄태화
-
-출연
-
-이병헌, 박서준, 박보영, 김선영, 김도윤, 박지후
-
-개봉
-
-2023.08.09.
-
-](https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&pkid=68&os=14406752&qvt=0&query=%EC%BD%98%ED%81%AC%EB%A6%AC%ED%8A%B8%20%EC%9C%A0%ED%86%A0%ED%94%BC%EC%95%84)
 
 > 콘크리트유토피아
 > 
@@ -64,7 +46,6 @@ sourceUrl: >-
 
 흔히 재난영화는 재난의 맥락과 이유를 설명하거나, 혹은 재난의 극복 속 휴머니즘을 다루는 경우가 많다. 멸망의 상황속에서도 인류애를 찾거나, 영웅적인 인물을 통해 이를 극복하는 스토리를 사람들이 좋아하기 때문이다.
 
-![](https://postfiles.pstatic.net/MjAyMzA4MjlfNiAg/MDAxNjkzMjU2MjY3MTc2.a2QVxY4Q0ajM_ajnTjDNURJ-Nr17cMnwL8I4MW7_Unwg.aOEtfk2D6rlpoNpdoh6a0QEo6lGDjrq8WvChKPb3ngcg.JPEG.whiteagle/19.jpg?type=w966)
 
 하지만, 이 영화는 왜 재난이 닥쳐왔는지에 대해 설명하지 않는다. 그저 어느날 갑자기 대지진이 발생하고, 그 대지진 속에 홀로 남겨진 황궁 아파트가 배경이 된다. 영화에선 '서울역' 같은 지명이 등장하지만 정부는 어떻게 되었는지, 군대는 어떤지, 서울 외 지역의 상황은 어떤지, 해외에서 구호는 오지 않는지 같은 잡다한 설명을 모두 생략한다.
 
@@ -80,13 +61,12 @@ sourceUrl: >-
 
 영화는 초반부 아파트 인근으로 몰려온 주민들과 공존하는 모습을 보여준다. 하지만 식량은 제한이 있고 공간은 다수의 인간을 수용하지 못한다. 심지어 낯선 사람들에 의해 점거된 아파트에서 원래 살던이가 칼에 찔리고, 화재까지 발생한다. **부녀회장 금애(김선영분)은 아파트 주민이 아닌 이들을 쫓아내고자 주민회의를 소집**하고 외부인들을 아파트 밖으로 내몰게 된다.
 
-![](https://postfiles.pstatic.net/MjAyMzA4MjlfMjY0/MDAxNjkzMjU2MjgyODYx.n5nRNwVSlxNOKSh6wnz5drMGhQxnhB560nJ3C6e5eIgg.vp7jLfElTB74xR-4-lk3_8hdxcAspSBx9nmOkpvHTNIg.JPEG.whiteagle/8.jpg?type=w966)
+
 
 이 과정에서 아파트 임시대표로 이병헌분(극중 영탁)이 선출되고, 제1수칙으로 **"아파트는 주민의 것, 주민만이 살 수 있다"**는 내용이 만들어진다. 결국 아파트 주민이 아닌 이들은 아파트 밖으로 내몰리고, 이들은 대부분 얼어죽고만다. 영화는 이상저온상황인 서울의 겨울을 상정하는데 영하 20도 이하의 상황이다. 전기가 없고 몸을 숨길 곳이 없을 경우 동사할 수 밖에 없는 상황.
 
 처음에는 **외부인이라 부르던 이들이 영화가 진행됨에 따라 '바퀴벌레'라 불리기 시작한다**. 아파트 주민과 주민 밖에 이들을 철저하게 분리하고 외부인을 타자화하는 거다. 이 과정에서 우린 선택받았다는 광기와 외부인에 대한 적개심, 이를 통한 내부 결속의 공고화를 이들은 끊임없이 경험한다.
 
-![](https://postfiles.pstatic.net/MjAyMzA4MjlfMTkz/MDAxNjkzMjU2MjkyMDMx.KbTQ5MLXJwq6dYb2uIMeWKsSNX8wasUULFTzh6f0rTQg.Hh7stcfBhYpCVLBWDEK3KboClgvpYEKSIzRAQK4nd-8g.JPEG.whiteagle/17.jpg?type=w966)
 
 아파트와 아파트가 아닌 곳의 구별을 통해 집단적 이기주의(혹은 생존주의)의 공고화와 그 속의 갈등 및 해체를 130분이라는 러닝타임 속에 녹여낸 거다. **엄태화 감독**은 "**평범한 사람들의 이기심과 악이 이해가 되고 연민이 들기를 바랬다**"고 했다.
 
@@ -98,7 +78,7 @@ sourceUrl: >-
 
 그렇기에 많은 관객들은 **심정적으로 영탁(이병헌 분)에 대해 거부감을 느끼면서도, 또 아파트 주민 전체가 외부인에 대해 공격받을 때는 아파트 쪽을 응원하게 된다**. 그 미묘한 간극을 영화는 끊임없이 건드린다.
 
-![](https://postfiles.pstatic.net/MjAyMzA4MjlfMTQ3/MDAxNjkzMjU2NDcxMTM0.Ax66zSBLR1e1HVW0nHNuoOXRq5rR7_LSnTii6k9U3k0g.3ixoCC7pYPonGhCe6SBs63J3GvkMJ5Kb2gGO5S7Dyacg.JPEG.whiteagle/15.jpg?type=w966)
+
 
 **황궁아파트는 기묘한 체제 속으로 접어든다**. 배급제라는 공산주의적 제도와 일한만큼 받아간다는 자본주의적 차등 배분이 공존하고, 몰래 외부인을 숨겨준 다른 주민들을 감시하고 색출하는 일이 벌어진다. 마치 홀로코스트 당시 상황처럼 많은 이들은 본인의 생존과 타인과의 공존 속에 무엇을 우선해야 할 것인지 선택을 강요받는다.
 
@@ -116,11 +96,9 @@ sourceUrl: >-
 
 영화가 진행될 수록, **사람들은 조금씩 만들어지는 황궁아파트의 규칙과 질서에 안도**한다. 아파트 밖으로 식량을 구하러 나간 이들이 식량을 발견할 때면 마음 한켠에 '다행'이라는 마음과 **약한 전우애**가 자리를 잡는다. 그리고 이들이 마트의 식량을 터는 순간, 또 다시 슬며시 감독은 질문을 던진다.
 
-![](https://postfiles.pstatic.net/MjAyMzA4MjlfMjU5/MDAxNjkzMjU2MzEyMDk4.647TiYpiAyqTWbcTg7Rg2eG1ayr0t7R5fZQlsaSfJRsg.khJ4leNaaMGa0Sac3mVwndXXq0lm3eFYx9iQDIYKOcwg.JPEG.whiteagle/7.jpg?type=w966)
 
 아이를 인질로 잡고 총을 겨누며 자신의 식량을 지키려는 이, 객관적으로 보자면 황궁아파트 사람들은 폭도이고 재산을 침범하려는 이들이다. 하지만 이들은 감히 '아이를 인질로 삼다니', '우리 OOO이를 구해야지'라는 명분으로 마트 주인 남자를 무참히 공격하고 식량을 털어간다. 그리고 **카메라는 가장을 부여잡은채 울고 있는 마트 주인 남성의 아내와 딸을 비춘다**.
 
-![](https://postfiles.pstatic.net/MjAyMzA4MjlfMSAg/MDAxNjkzMjU2NjA4NjU3.1FG6rb3cOZueXRJsx7J2YSpa9aJBEOkRxhMUKPCmP1Qg.bvwyN5z5QnUm-FlfeSHrRxi2ri_9Q1QdXfeJLqT1lwcg.JPEG.whiteagle/6.jpg?type=w966)
 
 **떨떠름함**. 왠지 **아군을 구했지만 민간인을 죽이고 아군을 구한 것 같은 기분**이 아닐까? 그리고 바꿔 말하자면 먹고살기 위해 풍족한 마트를 터는 건, 결국 추위를 피해 생존하기 위해 황궁아파트를 공격하는 다른 외부인과 어떤 차이가 있을까? 관객이 약하게 쌓은 황궁아파트 주민(혹은 모호한 선의를 가진 박서준 분)과의 라포는 결국 **스톡홀롬 증후군**에 다름없지는 않을까.
 
@@ -132,11 +110,10 @@ sourceUrl: >-
 
 어떤 **아파트의 몇 평에 사느냐에 따라 사회적 신분이 결정되는 부조리한 현실**을 툭툭 건드리는 거다. 초반부 집을 뺏겼다가 되찾은 한 주민은 "저 3개월 전에 이사왔는데 저희 부부가 저 다리를 넘어오기까지 23년 걸렸어요. 저 아파트 사람들 우리를 사람 취급이나 했습니까. 평소에 오지도 못하게 하고, 학군이니 뭐나 사람취급도 안하고" 라고 말한다. 바로 옆에 있다 무너진 팰리스 아파트다.
 
-![](https://postfiles.pstatic.net/MjAyMzA4MjlfMTQw/MDAxNjkzMjU2NTc5Mzkw.18SV4cUkVz1Nic5L6AQh0fN4_-mWOJP5raYQeQ-NKmQg.7kxT5pgSqjhDhU-cOnqrTKU_tVMWEbn_TYw4TMPSKPQg.JPEG.whiteagle/16.jpg?type=w966)
 
 주인공 격인 명화(박보영분), 민성(박서준분) 부부의 집에 찾아왔던 아이와 엄마(혹은 할머니)도 밍크코트를 입고 팰리스 아파트의 주민으로 보여진다. 우리는 자연스럽게 뉴스를 장식했던 **수많은 아파트 이기주의**를 떠올릴 수 밖에 없고, 계급화된 아파트 대한민국 욕망의 상징을 마주하게 된다. 자가인지 세입자인지를 따져봐야 한다는 내용도 마찬가지.
 
-![](https://postfiles.pstatic.net/MjAyMzA4MjlfMjY4/MDAxNjkzMjU3MTA2MjY0.YP5b2YpcSHe0lyBlGo63hbCOS9900jNIbDZUK7DCEQIg.4l9qN0Wf5mpcFEhUsmxcWDRbq8VoG2teGY8VCMdVxhkg.PNG.whiteagle/image.png?type=w966)
+
 
 새해를 맞아 **황궁아파트에서 축제를 여는 모습**도 그렇다. 모든 것이 무너진 세상에서의 축제는 기괴하고 낯설다. 카메라는 술마시고 춤추는 이들의 그림자를 아파트에 비추며 무너진 세상에서의 축배가 어떤 의미인지 묻는다. 그리고 이병헌분이 노래를 부른다. **토해내는 듯한 윤수일의 <아파트>**다.
 
@@ -148,9 +125,6 @@ sourceUrl: >-
 
 **리더란 무엇인가**
 
-![](https://postfiles.pstatic.net/MjAyMzA4MjlfNzQg/MDAxNjkzMjU2NjMyNzg1.rIUJNbMkwG2PAEeGU9EQcodllfpsSUxHFikj7T8ieJ8g.GbjnnsDQkz2mnKKhD5a5m05wauayWhuXedz2ctv1GDEg.JPEG.whiteagle/3.jpg?type=w466)
-
-![](https://postfiles.pstatic.net/MjAyMzA4MjlfMjg5/MDAxNjkzMjU2NjMyNzIx.1-Lp_zWiHlpc3dAhG38OuhiAGfymxz8O3_BLvjB5lU8g.b7BA3q5ACtQ9pbNBhSBxzt49J_y4G6ldHMkWY_JZ6nog.JPEG.whiteagle/1.jpg?type=w466)
 
 영화의 주인공은 누구일까. 엔딩을 보고 있으면 박보영분(극중 명화)이 주인공일 것 같다는 생각이 들지만, 그렇게 보기엔 영화의 무게가 무겁다. 극을 끌고 가는 건 이병헌분(극중 김영탁)이고 130분이라는 시간의 다수는 그의 본질과 가면 그리고 거짓과 참에 대한 스릴러가 중심 플롯을 이룬다.
 
@@ -158,11 +132,9 @@ sourceUrl: >-
 
 **어쩌면 우리가 지옥에 떨어지고, 그 지옥을 클리어해야한다면 이런 인물이 가장 리더로 적합한 건 아닐까** 생각이 들기도 한다.
 
-![](https://postfiles.pstatic.net/MjAyMzA4MjlfMjQz/MDAxNjkzMjU2NjUxMjEy.wQOCXu72tvQ5WEhbEpKDMNwQx9yk44Wq1F1eHhUfPZYg.qH7PTHYg2nzwtHN_9wrZ_pnai7rpWwGjrV9ZDP-6mKUg.JPEG.whiteagle/20.jpg?type=w966)
 
 대척점에 있는 박보영분(명화)이나 짓밟힌 선의로 모두를 비난하며 자살을 택한 김도윤분(극중 도균)이 '선'이라는 명분을 가지고 있지만 그걸 관철시킬 힘이 없다. **민주주의는 다수가 악한 마음을 먹고 있다면 악을 향해 달려가는 기차**일 뿐.
 
-![](https://postfiles.pstatic.net/MjAyMzA4MjlfNjgg/MDAxNjkzMjU2Njc4MzI0.LeIm42M6SWv7BTDHKM2hlQptXaDMH5rZvLrf2sTpNiIg.mAaNDEsTXPJdFTUefuOruv2izauQZjSojAh2EWxMp50g.JPEG.whiteagle/23.jpg?type=w966)
 
 만약이라는 가정은 현실에선 가보지 않은 길일 뿐이지만, 아마도 처음 주민투표에서 외부인까지 같이 살자는 결론이 나왔더라면 김영탁은 그 주어진 현실 속에서 최선을 다해 아파트라는 이기적 공동체의 생존을 위해 투신하지 않았을까 싶기도 하다.
 
@@ -176,36 +148,7 @@ sourceUrl: >-
 
 **콘크리트 유니버스**
 
-![](https://postfiles.pstatic.net/MjAyMzA4MjlfODYg/MDAxNjkzMjU2NzA3MTA3.w5pc8K2SllXETDhwJ6ZiPT1G_5JRgf2kizrzH8mmE54g.4YC-Z4TEH4WvtM-eNUqq61x7uAgUD2E_saGTTmU89e4g.JPEG.whiteagle/24.jpg?type=w966)
 
 영화가 뭔가 아쉽게 끝난다는 느낌이 있었는데, 보다 큰 그림이 있었나보다. 영화 후 찾아보니 원작인 김숭늉 작가의 작품을 기반으로 여러 작품이 영화화 혹은 OTT화 되고 있었다. 물론 작품간의 연관성은 없다고 하지만, 유니버스적 스토리를 담아내고 있기에 기대되는 지점이다.
 
 영화를 보면서 머리속에 가물가물한 **주제 사마라구의 '눈먼자들의 도시'와 여러 시리즈들을 떠올렸다**. 이 콘크리트 유토피아가 인간에 대한 질문을 떠올리게 만들었기 때문일테다. 다시 한번 보고싶다는 생각이 들지는 않는다. 마음의 불편함을 건드리는 영화라서다. 하지만 그렇기에 좋은 영화고 곱씹을 영화라 평하고 싶다.
-
-[
-
-![](https://shopping-phinf.pstatic.net/main_8622562/86225620975.jpg)
-
-**눈먼 자들의 도시**
-
-저자
-
-주제 사라마구
-
-출판
-
-해냄출판사
-
-발매
-
-2023.08.25.
-
-**\[콘크리트 유니버스\]**
-
-- 영화 콘토피아
-- 티빙의 몸값(민용근 감독)
-- 영화 콘크리트유토피아 - 유쾌한 이웃
-- 콘크리트마켓(홍기원 감독)
-- 영화 황야(허명행 감독)
-
----

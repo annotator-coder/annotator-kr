@@ -9,34 +9,26 @@ tags:
   - Crisis Management
   - PM2
 year: '2026'
-tagline: From issue detection to response draft — team response time cut by two-thirds
+tagline: 'From issue detection to response drafts, cutting team response time by 8x'
 description: >-
-  An AI-based crisis response pipeline that automates media monitoring →
-  severity classification → response message drafting. Built for an energy
-  company's PR team as an internal operating system.
+  An AI-driven crisis response pipeline that automates the full flow from media issue monitoring → severity classification → response message draft generation. An internal operations system for the PR team.
 problem: >-
-  Speed is everything in a media crisis. The bottleneck was the time from issue
-  detection to approved response message. When issues broke in the middle of the
-  night, a team member had to manually collect articles, assess severity, and
-  write a draft — averaging 90 minutes per incident.
+  In media crises, speed is everything. The time from issue detection to approved response message was the team's critical bottleneck. Information took an average of over an hour to reach the PR team, and drafting a response direction, crafting key messages, aligning on them, and reaching final approval routinely took 3–4 hours or more.
 approach:
-  - Real-time keyword monitoring via News API + RSS feeds
-  - 'GPT-based severity classifier (5-level scale, automatic issue type tagging)'
-  - RAG pipeline over past response case DB for draft generation
-  - PM2-based server management with Slack notification integration
+  - Refine available information as quickly as possible once an issue is identified
+  - Compare against past cases, then draft a response plan and message to support decision-making
+  - 'GPT-based severity classifier implemented (5-level scale with automatic issue type tagging)'
+  - Response draft generation via RAG pipeline built on historical case database
+  - 'PM2-based server operations; generated packages archived for retraining'
 outcome:
-  - 'Issue detection to draft generation: 90 min → under 15 min'
-  - Eliminated response gaps during nights and weekends
-  - Standardized team crisis response SOP (auto-linked to system)
+  - 'Issue detection → draft generation time: 2 hours → under 15 minutes'
+  - Clear visibility into past response patterns and procedural steps
+  - Standardized team crisis response process with automatic SOP integration
 images:
   - src: /portfolio/crisis-ai-type-select.png
-    caption: >-
-      01 Crisis type selection — auto severity classification (BLACK/RED) by 7
-      crisis types
+    caption: 01 Crisis Type Selection — automatic default severity classification (BLACK/RED) across 7 crisis types
   - src: /portfolio/crisis-ai-input-form.png
-    caption: >-
-      03 Fact verification level / 04 External spread status — separating
-      confirmed facts from unverified to improve AI draft accuracy
+    caption: 03 Fact Verification Level / 04 External Spread Status — separating confirmed facts from unverified details to improve AI draft accuracy
 featured: true
 relatedBlogSlugs:
   - ai-pr-crisis

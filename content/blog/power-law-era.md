@@ -8,8 +8,8 @@ relatedPortfolioSlugs: []
 sourceUrl: >-
   https://blog.naver.com/PostView.naver?blogId=annotator&logNo=220609919607&categoryNo=18&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=postList&userTopListOpen=true&userTopListCount=30&userTopListManageOpen=false&userTopListCurrentPage=1
 ---
-정규 분포의 붕괴와 멱함수의 시대 ![]
-2016\. 1. 27. 8:34 ![]
+정규 분포의 붕괴와 멱함수의 시대
+2016\. 1. 27. 8:34
 
 **통**계학에는 정규분포(normal distribution)이라는 게 있다. 통계학적 방법을 사용할 때 가장 중요하게 활용되는 개념 중 하나다.
 
@@ -28,28 +28,6 @@ sourceUrl: >-
  비정규적(abnormal)인 상황은 정상적인 삶을 위협받는 다는 것을 말한다. 정규직의 경우 한달 평균 270만원을 버는데 반해 비정규직은 146만원에 그친다. 절반이 조금 넘는 수치(54.4%)다. 정규직 임금 상승률이 비정규직보다 높기에 임금 격차는 계속해서 벌어질 수 밖에 없다.
 
  경향신문이 26일 보도한 ‘소득이 이렇게 불평등합니다’라는 기사를 보면 평균소득에 대한 왜곡이 선명히 드러난다. 한국에서 돈 버는 모든 사람들을 일렬로 세운 일러스트는 우리사회의 비정상적(abnormal)인 상황을 직관적으로 보여준다. 소득을 키로 그리면 평균이 175cm인데 1227미터의 거인도 나온다고 한다.
-
-  
-
-![](https://postfiles.pstatic.net/20160127_294/whiteagle_1453851033841PLI1i_JPEG/2016012701003712200300426.jpg?type=w1)
-
- \[출처=경향신문, [http://news.khan.co.kr/kh\_news/khan\_art\_view.html?artid=201601262240595&code=940100\]](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201601262240595&code=940100])
-
-[![](https://dthumb-phinf.pstatic.net/?src=%22http%3A%2F%2Forgimg.khan.co.kr%2Fnews%2F2016%2F01%2F26%2Fl_2016012701003712200300426.jpg%22&type=f220)](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201601262240595&code=940100)
-
-[
-
-\[부들부들 청년\]“흙 심은 데 흙 나고…” 공부머리부터 교육·취업까지 대물림
-
-ㆍ부모·자녀세대 ‘쌍봉형 빈곤’ 고착, 이유는
-
-news.khan.co.kr
-
-](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201601262240595&code=940100)
-
-![](https://ssl.pstatic.net/static/blog/blank.gif)
-
-\*관심 있으신 분들은 기사를 읽어 보시라 
 
   
 

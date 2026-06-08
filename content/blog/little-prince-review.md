@@ -2,7 +2,7 @@
 title: <어린 왕자 Le petit prince> 서평
 date: '2009-03-11'
 category: 서평
-excerpt: "어린 왕자(Le petit Prince) 그 뒷이야기 (Behind story) \_ 28. \_ 어린 왕자는 그렇게 지구를..."
+excerpt: "어린 왕자(Le petit Prince) 그 뒷이야기 (Behind story) "
 readingTime: 4
 relatedPortfolioSlugs: []
 sourceUrl: >-
@@ -10,7 +10,7 @@ sourceUrl: >-
 ---
 <어린 왕자 Le petit prince> 서평      
 
-2009\. 3. 11. 23:15  )  
+2009\. 3. 11. 23:15   
 
   
 
@@ -167,5 +167,3 @@ sourceUrl: >-
 어린 왕자는 혼자서 크리스털잔에 술을 채우며 생각했다.
 
 아무래도 다시 여행을 시작해야 겠다고.
-
-**태그**[#문학·책](/PostListByTagName.naver?blogId=annotator&logType=mylog&tagName=%EB%AC%B8%ED%95%99%C2%B7%EC%B1%85)[#어린왕자](/PostListByTagName.naver?blogId=annotator&logType=mylog&tagName=%EC%96%B4%EB%A6%B0%EC%99%95%EC%9E%90)[#서평](/PostListByTagName.naver?blogId=annotator&logType=mylog&tagName=%EC%84%9C%ED%8F%89)

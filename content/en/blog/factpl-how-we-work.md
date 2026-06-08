@@ -1,42 +1,39 @@
 ---
-title: Can Collaboration Tools Change How Journalists Work?
+title: "Can Collaboration Tools Change How Journalists Work?"
 date: '2021-12-16'
 category: Journalism
-excerpt: >-
-  The FactPL team's move from KakaoTalk to Slack to Google Docs. The experience
-  of shifting from vertical reporting to horizontal sharing — and what actually
-  made it work.
+excerpt: "The journey of the Factpl team migrating to Slack, Google Docs, and Stibee — and how our way of working shifted from vertical reporting chains to horizontal information sharing."
 readingTime: 7
 relatedPortfolioSlugs:
   - factpl
 sourceUrl: 'https://blog.naver.com/kpfjra_/222596777076'
 ---
-In December 2021, I wrote a piece for *Sinmun-gwa Bangsong* (Newspaper and Broadcasting) introducing how the FactPL team works. We were about eighteen months into the newsletter service.
+In December 2021, I wrote a piece for *Sinmun & Bangsong* (Press and Broadcasting) introducing how the Factpl team worked. It was about a year and a half since we had launched the newsletter service.
 
-Journalists are essentially freelancers. Even within a team, everyone reports their own beats and produces their own stories. Collaboration is rare outside major features, and even then it usually means dividing up interviews and assembling the parts. This structure lets journalists focus on reporting. But if you think about the full content flow — from pitch to reporting to production to distribution — just writing well isn't enough.
+Journalists are, in a sense, freelancers. Even within a team, everyone investigates their own beat and produces their own stories. Collaboration is unfamiliar outside large-scale investigative projects, and even then it mostly means dividing up the reporting and stitching it together. That structure lets journalists stay deeply focused on their own work — but when you think about the full content pipeline from planning through reporting, production, and distribution, writing good stories alone isn't enough.
 
-**Failure 1: Trello and Slack, First Attempt**
+**Trial and Error 1: Introducing Trello and Slack — and Failing**
 
-When I first joined FactPL, I pushed to bring in Slack and Trello. I'd used the combination successfully before and trusted it. But overcoming the inertia of "why adapt to something new when KakaoTalk works fine" was harder than I expected. We cycled between Slack, Jandi, and back to KakaoTalk for a year.
+When I first joined the Factpl team, I pushed for adopting Slack and Trello. It was a combination I'd used well on a team I'd run before, and it had delivered real efficiency gains. But overcoming the inertia of "why learn something new when KakaoTalk works fine" turned out to be harder than expected. We cycled back and forth between Slack, Jandi, and KakaoTalk for a full year.
 
-**Success: The Online Move**
+**Trial and Error 2: Moving Online — and Succeeding**
 
-The turning point was January 2021. We were relocating physically to Sangam-dong. Our team lead declared we'd also move our digital workspace. We tried KakaoWork first, found it uncomfortable, and went back to Slack. There was about a week of confusion, but we'd already been through it once, so we adapted quickly.
+The turning point came in January 2021. We were also moving our physical office to Sangam. The team lead declared that we'd move online at the same time. We tried KakaoWork first, but everyone found it uncomfortable — back to Slack. There was about a week of chaos, but because we'd already given it a shot once before, the adjustment was faster.
 
-What I learned: you can't drag people forward by yourself no matter how good the tool is. Someone with the authority and credibility to pull the trigger needs to commit to the change. Our team lead played that role.
+What we learned: you can't drag people along alone by insisting "this is the best way." Someone has to pull the trigger. Our team lead played that role.
 
-**FactPL's Collaboration Stack**
+**The Factpl Team's Collaboration Stack**
 
-With Slack as our main communication channel, Stibee (newsletter publishing), Google Docs (collaborative drafting), Typeform (interactive surveys), and Google Analytics (metrics) all connected into a coherent system. The architecture is simple: talk in Slack, write together in Google Docs, exchange comments via Slack notifications. Since editing or commenting on a document triggers an immediate Slack notification, there was no need for separate reporting.
+Once Slack became the main communication channel, Stibee (newsletter publishing), Google Docs (collaborative writing), Typeform (interactive surveys), and Google Analytics (data metrics) were layered on one by one. It looks complicated, but the skeleton is simple: talk in Slack, write together in Google Docs, exchange comments via Slack notifications. When someone edits a document or leaves a comment, a Slack notification comes through immediately — no need to file a separate status report.
 
-The unexpected benefit: the hierarchical feeling typical of newsrooms started to soften. Casual conversation increased dramatically compared to KakaoTalk. Sharing rather than reporting meant ideas were developed rather than killed in approval chains.
+An unexpected benefit of bringing in these tools was how much the typical hierarchy of a newsroom faded. Small talk increased dramatically compared to KakaoTalk. Because we were sharing rather than reporting, ideas didn't get killed — they just naturally flowed forward.
 
-**Tools Aren't the Answer**
+**Collaboration Tools Aren't a Magic Fix**
 
-Honestly: culture comes before tools. Introducing collaboration tools without changing a vertical culture just means reporting through new channels. FactPL worked not because of the tools but because there was already shared buy-in for working horizontally. The tools made that intent concrete in daily practice.
+Honestly, culture comes before tools. If you introduce collaboration software without changing the vertical culture underneath, you end up doing the same top-down reporting on a new platform. Factpl worked not because of the tools but because there was a shared desire within the team to work horizontally. The tools were just what converted that intention into actual working practice.
 
-When I cover startups now, I always ask: "What collaboration tools do you use?" The answer matters less than what it reveals: how information flows inside the company, and whether that flow is vertical or distributed.
+Even now, when I cover startups, one of my standard questions is "what collaboration tools do you use?" Less important than which tool — what matters is how information flows through it. That tells you how flat the organization actually runs.
 
 ---
 
-*Written based on a column published in Newspaper and Broadcasting, December 2021.*
+*This piece is based on an article contributed to Sinmun & Bangsong in December 2021.*

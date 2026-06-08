@@ -1,36 +1,25 @@
 ---
-title: Strategic Ambiguity and the Push-Pull
+title: "Strategic Ambiguity and the Push-Pull"
 date: '2023-01-01'
 category: Essay & Column
-excerpt: >-
-  How diplomatic "strategic ambiguity" works — and why the same logic shows up
-  in relationships, negotiations, and any situation where full clarity has
-  costs.
+excerpt: "Strategic ambiguity — the diplomatic technique Korea has long relied on between great powers — turns out to have a surprising parallel in the early stages of romance."
 readingTime: 2
 relatedPortfolioSlugs: []
+sourceUrl: >-
+  https://blog.naver.com/PostView.naver?blogId=annotator&logNo=220025120978&categoryNo=5&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=1
 ---
-The United States government has maintained "strategic ambiguity" on the Taiwan question for decades. They acknowledge "one China." They do not acknowledge that Taiwan is part of China. They have not committed to defending Taiwan militarily. They have not committed to not defending Taiwan.
+**Strategic Ambiguity and the Push-Pull**
 
-The policy is deliberate. Full clarity in either direction would create problems.
+In diplomatic circles, "strategic ambiguity" is often cited as one of the few options available to a small country like Korea. The term refers to a situation in which an actor deliberately avoids taking a clear position on a sharp issue in order to reduce the burden of risk. A classic example is Korea's longstanding posture on the cross-strait relationship between China and Taiwan: caught between the US and China, Korea chose strategic ambiguity. The recent tensions between China and Japan over the Senkaku Islands offer a similar case. Rather than committing to one side and taking on unnecessary risk, the strategy is to step back slightly and minimize exposure. Sometimes strategic ambiguity is genuinely chosen; other times there are simply too few alternatives available, making it the de facto default.
 
-If the US declared it would definitely defend Taiwan, China's incentive to avoid conflict would shrink — the outcome becomes certain regardless of Chinese behavior, so there's no diplomatic cost to provocation.
+By contrast, recent commentary about "Korea's rising value between the US and China" assumes that both sides are actively courting Korea. In the case of the US, Washington may have declared a "pivot to Asia" but is already stretched thin between the Middle East and East Asia. Japan is the preferred partner, but Japan's domestic political instability makes it unreliable. So pulling Korea into a triangular US-Japan-Korea framework starts to look like the best available option. North Korea provides convenient justification. China, meanwhile, has no strong desire to provoke a confrontation with the US just yet — but it won't sit by as Japan grows stronger in its own backyard. So it wants to keep Korea close as a counterweight to Japan. Officially, the shared grievance is Japan's revision of historical memory. In the longer run, of course, China is wary of the US containment strategy.
 
-If the US declared it would definitely not defend Taiwan, China's incentive toward invasion would rise and Taiwan's position would collapse.
+Stripped of the grand framing: both the US and China are courting Korea — alternating between flattery and veiled threats — and asking it to take their side. So what is Korea doing? Playing coy, with a measure of strategic ambiguity. It can't afford to abandon the US — that's the friend who used to run the neighborhood, still well-connected, still powerful. Occasional favoritism toward Japan is annoying, but the alternative — having no reliable backer with North Korea next door — is worse. China used to look provincial, then suddenly became rich. Korea can't survive economically without Chinese demand. There's cultural affinity, and the shared dislike of Japan is appealing. China is a little scary when it gets too assertive, but it has leverage over North Korea — which is reassuring.
 
-Strategic ambiguity forces both sides to behave better than they might otherwise: China because it can't rule out US intervention, Taiwan because it can't rely on guaranteed US support and must therefore maintain its own deterrence.
+The result: Korea holds America's hand while discreetly keeping a foot in China's door. Saying it supports KAMD rather than US missile defense. Joining both the TPP and the RCEP. The problem is that both sides notice, and both occasionally get annoyed. Biden's "bet" comment and Wang Yi's "choice" remark are warnings issued in exactly this context. Nobody likes being strung along. So what should Korea do? Going all-in with either side is unworkable given the circumstances. That leaves: strategic ambiguity, plus the art of the push-pull. And Korea is already doing some version of this. When the US turns its attention toward Japan, Korea builds an Ahn Jung-geun memorial with China. When China stirs up tensions over its air defense identification zone, Korea holds a US-Japan-Korea trilateral meeting. A kind of calibrated push-pull. But just as a love triangle tends toward a bitter ending, this strategy too will eventually hit a wall.
 
----
+That was a long preamble. Here's the point: bring strategic ambiguity into the realm of romance, and you find a very familiar strategy in the pre-relationship stage. The "seeing someone" phase. Both parties hiding their real feelings, each testing the waters inside the ambiguity. The relationship advice industry — "wait before you reply, build tension" — is essentially coaching this kind of push-pull, which is squarely within the domain of strategic ambiguity. Of course, to break through the ambiguity and actually *become* a couple, you have to build trust and eventually take a gamble. The moment you confess, the ball is in the other person's court. But as long as the risk of rejection exists, a rational actor will hesitate to make the bet. This is the same dynamic as the prisoner's dilemma in game theory: when you don't know whether the other person has confessed, you tend not to go for the best joint outcome (both staying silent) but instead to avoid the worst case (which leads both to confess anyway). In practice, what this means is that the "seen someone, became a couple" arc is far less likely than the "endless circling and testing" state. Which brings us to one more layer of strategic ambiguity.
 
-This logic shows up everywhere once you start looking for it.
+In a three-person dynamic — like the US-China-Korea configuration — the permutations multiply and the logic gets even messier. I'll leave that alone (love is between two people, not three).
 
-In negotiations, the most powerful position is often: I might walk away. Not "I will definitely walk away" (then you lose leverage once called) and not "I definitely won't walk away" (then the other side has no reason to make concessions). The ambiguity is the leverage.
-
-In relationships, the early stages of mutual interest work partly through the same mechanism. Full certainty reduces the incentive to put in effort. Some uncertainty — I know I'm interested, I'm not sure they feel the same way — is productive.
-
----
-
-The conditions under which strategic ambiguity stops working: when one side becomes desperate enough that the downside risk of acting is worth it regardless of what the other side might do; when the ambiguity itself becomes destabilizing and both sides lose the ability to calculate their interests; when a miscalculation happens and the ambiguity turns into a crisis neither side wanted.
-
-At that point, someone has to speak clearly. Usually after it's already expensive.
-
-The lesson isn't that ambiguity is bad. It's that the best use of ambiguity is buying time for a situation to develop in a direction where clarity becomes less costly.
+To summarize: strategic ambiguity is a risk-avoidance strategy for the less powerful. And it's also one reason why people today find it easier to be in a "situation" than in an actual relationship. Calibrated push-pull raises tension and increases desirability — but the decisive moment always comes eventually. If you haven't prepared for it, you'll find yourself alone again. That's the message I'd want to leave for both Korean foreign policy and for anyone caught in the push-pull of an unresolved almost-relationship.

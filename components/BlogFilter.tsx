@@ -7,7 +7,10 @@ import type { BlogPost } from '@/lib/blog'
 const FILTERS = ['전체', 'PR·커리어', '서평', '영화·드라마', '에세이·칼럼', '여행·공간'] as const
 type Filter = typeof FILTERS[number]
 
-const PR_CATS = new Set(['AI in Communications', '데이터 저널리즘', '커리어', '전략 커뮤니케이션'])
+const PR_CATS = new Set([
+  'AI in Communications', '데이터 저널리즘', '커리어', '전략 커뮤니케이션',
+  '국제 PR · 캠페인', '위기 커뮤니케이션', '저널리즘', '플랫폼 전략',
+])
 
 function matchFilter(post: BlogPost, filter: Filter): boolean {
   if (filter === '전체') return true

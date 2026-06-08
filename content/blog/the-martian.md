@@ -2,7 +2,7 @@
 title: '마션 : 시카고 컵스와 맥주 그리고 G2'
 date: '2015-10-22'
 category: 영화·드라마
-excerpt: NASA 언젠가 친구가 미국에서 나사 티셔츠를 입고 있으면 ‘긱(Geek)’이라고 말했다. 나도 주로 영화...
+excerpt: NASA 언젠가 친구가 미국에서 나사 티셔츠를 입고 있으면 ‘긱(Geek)’이라고 말했다. 
 readingTime: 6
 relatedPortfolioSlugs: []
 sourceUrl: >-
@@ -10,25 +10,11 @@ sourceUrl: >-
 ---
 마션 : 시카고 컵스와 맥주 그리고 G2
 
- [
 
-**마션**
 
-저자
-
-앤디 위어
-
-출판
-
-알에이치코리아
-
-발매
-
-2015.07.31.
 
 **NASA**
 
-![](https://postfiles.pstatic.net/20151022_206/whiteagle_1445495899887A7rrm_JPEG/3.jpg?type=w966)
 
 언젠가 친구가 미국에서 나사 티셔츠를 입고 있으면 ‘긱(Geek)’이라고 말했다. 나도 주로 영화로 나사를 접했지만, 살짝은 우주에 대한 동경과 로망이 있었다. 수학은 싫었지만 ‘물리’와 ‘지구과학’만큼은 어느 이과생들 못지 않게 좋아했다. 문과생인데 학교 대표로 과학 경시대회에 나간적이 있었는데 뭔가 숫자와 계산을 하라는 건 건드리지도 못했지만, 자유롭게 서술하라는 문제는 혼자서 갖은 상상력을 동원해서 썼다. 그리고 상도 받았다.(그래봐야 끝자락 상이다)
 
@@ -36,9 +22,6 @@ sourceUrl: >-
 
 그 수업이후 나의 우주에 대한 관심은 사그러 들었다. 인터스텔라 같은 영화가 나왔을 때 잠깐 상대성 이론 책을 좀 뒤적여봤을 뿐, 이미 굳어 버린 머리로는 ‘이해’가 아니라 ‘납득’을 하는게 최선이었다. 여튼 ‘마션’을 읽으며 살짝이지만 우주에 대한, ‘나사’에 대한 과거의 로망이 떠올랐다. 시실 우주에 가는 영웅들 보다는 밤새도록 궤도를 계산하고, 아스키 코드를 들여다 보는 이들이 더 마음이 갔다. 좋아하는 일을 미친 듯이 하는 천재에 대한 동경이랄까. 뭐 NASA에 입사하긴 틀렸지만, 언젠가 여기에 있다 보면 NASA 취재는 한번 갈 수 있지 않을까?
 
-![](https://postfiles.pstatic.net/20151022_170/whiteagle_1445495900079jH86H_JPEG/4.jpg?type=w966)
-
-<table style="border:none;"><tbody><tr><td colspan="1" rowspan="1" style="width: 2.45%; height: 40.0px; border:none; "><div><p style=""><span><a><img src="https://ssl.pstatic.net/static.se2/static/img/reviewitem/speech6_01.png" style="max-width: 17px"></a></span></p></div></td><td colspan="1" rowspan="1" style="width: 95.1%; height: 40.0px; border:none; "><div><p style=""><span style="color:#f68b8f;"><b>시카고 컵스는 잘하고 있으려나? 궁금하다</b></span></p></div></td><td colspan="1" rowspan="1" style="width: 2.45%; height: 40.0px; border:none; "><div><p style=""><span><a><img src="https://ssl.pstatic.net/static.se2/static/img/reviewitem/speech6_02.png" style="max-width: 17px"></a></span></p></div></td></tr></tbody></table>
 
 (p.19)
 
@@ -48,9 +31,6 @@ sourceUrl: >-
 
 뒷통수를 치는 구절이 아닐 수 없다. 고립 속에서 두려움도 지루해질 때 쯤 드는 생각, ‘웹툰이 보고 싶다’ 같은 거 아닌가!
 
-![](https://postfiles.pstatic.net/20151022_26/whiteagle_14454967265890ouyX_JPEG/phobos.jpg?type=w966)
-
-<table style="border:none;"><tbody><tr><td colspan="1" rowspan="1" style="width: 2.45%; height: 40.0px; border:none; "><div><p style=""><span><a><img src="https://ssl.pstatic.net/static.se2/static/img/reviewitem/speech6_01.png" style="max-width: 17px"></a></span></p></div></td><td colspan="1" rowspan="1" style="width: 95.1%; height: 40.0px; border:none; "><div><p style=""><span style="color:#f68b8f;"><b>포브스(phobos)는 공포의 신인데 나는 그것에 의지하여 길을 찾고 있다니 좋은 징조는 아니다.</b></span></p></div></td><td colspan="1" rowspan="1" style="width: 2.45%; height: 40.0px; border:none; "><div><p style=""><span><a><img src="https://ssl.pstatic.net/static.se2/static/img/reviewitem/speech6_02.png" style="max-width: 17px"></a></span></p></div></td></tr></tbody></table>
 
 (p.82)
 
@@ -58,17 +38,11 @@ sourceUrl: >-
 
 극한의 상황에서는 아무것도 아닌 감정(포기에 가까운 무기력)이 가장 두렵다. 어떤 감정이건 특정한 감정은 인간의 정(情)을 움직이고 그건 몸(身)의 행동을 수반한다. 공포라는 감정은 실체를 알 수 없는 것을 향한 막연한 두려움이다. 막연함을 마주하고 정면으로 바라보면, 공포는 더이상 공포가 아닌 것이 된다. 공포도 삶의 동력이 되는 것이다. 마치 ‘복수’라는 감정이 삶의 이유가 되는 것 처럼, 공포라는 감정도 움직임의 이유가 되는 셈이다.
 
- ![](https://postfiles.pstatic.net/20151022_4/whiteagle_1445497247425BMnq7_JPEG/yes.jpg?type=w966)
-
-<table style="border:none;"><tbody><tr><td colspan="1" rowspan="1" style="width: 2.45%; height: 40.0px; border:none; "><div><p style=""><span><a><img src="https://ssl.pstatic.net/static.se2/static/img/reviewitem/speech3_01.png" style="max-width: 17px"></a></span></p></div></td><td colspan="1" rowspan="1" style="width: 95.1%; height: 40.0px; border:none; "><div><p style=""><span style=""><b>지난 3개월 동안 역사상 가장 외로운 남자로 살았는데 마침내 그런 생활이 끝났다</b></span></p></div></td><td colspan="1" rowspan="1" style="width: 2.45%; height: 40.0px; border:none; "><div><p style=""><span><a><img src="https://ssl.pstatic.net/static.se2/static/img/reviewitem/speech3_02.png" style="max-width: 17px"></a></span></p></div></td></tr></tbody></table>
 
 ( p.93)
 
 97일째, 패스파인더가 작동했다. 그는 엉엉 울었다.
 
-![](https://postfiles.pstatic.net/20151022_268/whiteagle_1445496375675xDrhQ_JPEG/%B7%E7%C0%CC%BD%BA.jpg?type=w966)
-
-<table style="border:none;"><tbody><tr><td colspan="1" rowspan="1" style="width: 2.45%; height: 40.0px; border:none; "><div><p style=""><span><a><img src="https://ssl.pstatic.net/static.se2/static/img/reviewitem/speech7_01.png" style="max-width: 17px"></a></span></p></div></td><td colspan="1" rowspan="1" style="width: 95.1%; height: 40.0px; border:none; "><div><p style=""><span style="color:#7fc1ca;"><b>지구에서 맥주 한 잔 사줄 날을 고대하고 있겠다 - 루이스</b></span></p></div></td><td colspan="1" rowspan="1" style="width: 2.45%; height: 40.0px; border:none; "><div><p style=""><span><a><img src="https://ssl.pstatic.net/static.se2/static/img/reviewitem/speech7_02.png" style="max-width: 17px"></a></span></p></div></td></tr></tbody></table>
 
 p.122
 
@@ -86,21 +60,18 @@ p.122
 
 **와! 맥주 만세!**
 
- ![](https://postfiles.pstatic.net/20151022_120/whiteagle_1445495899608j0aLB_JPEG/2.jpg?type=w966)
+
 
 책의 많은 부분은 복잡하다. 이론적으로야 수소와 산소를 결합하면 물이 생긴다는 걸 알지만 그걸 일상 생활에서 화학실험으로 해 볼 일은 없다. 핸드폰이 고장났다고 핸드폰을 뜯어서 수리할 일이 없다는 이야기다. 소설에서는 많은 부분을 과학적인 설명에 할애하지만 이해못할 수준은 아니다. 더 복잡한 건, ‘줄였다’ 아주 쿨하게
 
-![](https://postfiles.pstatic.net/20151022_65/whiteagle_1445495900317WlEFi_JPEG/5.jpg?type=w966)
 
-<table style="border:none;"><tbody><tr><td colspan="1" rowspan="1" style="width: 4.56%; height: 25.0px; border:none; "><div><p style=""><span style=""></span></p></div></td><td colspan="1" rowspan="1" style="width: 90.88%; height: 25.0px; border:none; "><div><p style=""><span style=""></span></p></div></td><td colspan="1" rowspan="1" style="width: 4.56%; height: 25.0px; border:none; "></td></tr><tr><td colspan="1" rowspan="1" style="width: 4.56%; height: 40.0px; border:none; "></td><td colspan="1" rowspan="1" style="width: 90.88%; height: 40.0px; border:none; "><div><p style=""><span style=""><b>나는 나사에 내가 한 일을 보고했다. 우리의 대화는 (쉽게 바꾸면) 다음과 같았다.</b></span></p></div><div><p style=""><span style=""></span></p></div><div><p style=""><span style=""><b>나 : “뜯어서 문제를 찾아 고쳤습니다”</b></span></p></div><div><p style=""><span style=""><b>나사 : “미친놈”</b></span></p></div></td><td colspan="1" rowspan="1" style="width: 4.56%; height: 40.0px; border:none; "></td></tr><tr><td colspan="1" rowspan="1" style="width: 4.56%; height: 25.0px; border:none; "></td><td colspan="1" rowspan="1" style="width: 90.88%; height: 25.0px; border:none; "><div><p style=""><span style=""></span></p></div></td><td colspan="1" rowspan="1" style="width: 4.56%; height: 25.0px; border:none; "><div><p style=""><span style=""></span></p></div></td></tr></tbody></table>
 
 p.126
 
 심플! 친절하며 유머를 잃지 않았다. 물 환원기를 고치는 장면이다. 설명서대로 하면 틀리진 않겠지만, 때론 그 설명서 대로 하는 것이 얼마나 복잡한 일인지 다들 알거다. 전 세계 매듭 전문가를 모두 모아도 매듭을 풀지 못할 때 칼로 썰어 버리는게 정답이다. 균형. 대중과 소통에 가장 필요한 부분을 ‘유머’라는 윤활류로 해결했다. 쿨하다. (기사를 이렇게 쓰자)
 
-![](https://postfiles.pstatic.net/20151022_77/whiteagle_1445496470049gVsA4_JPEG/%B4%F6%C6%AE_%C5%D7%C0%CC%C7%C1.jpg?type=w966)
 
-<table style="border:none;"><tbody><tr><td colspan="1" rowspan="1" style="width: 2.45%; height: 40.0px; border:none; "><div><p style=""><span><a><img src="https://ssl.pstatic.net/static.se2/static/img/reviewitem/speech3_01.png" style="max-width: 17px"></a></span></p></div></td><td colspan="1" rowspan="1" style="width: 95.1%; height: 40.0px; border:none; "><div><p style=""><span style=""><b>덕트 테이프는 어디서든 사용이 가능하다. 덕트 테이프는 마법이며 숭배해야 마땅하다.</b></span></p></div></td><td colspan="1" rowspan="1" style="width: 2.45%; height: 40.0px; border:none; "><div><p style=""><span><a><img src="https://ssl.pstatic.net/static.se2/static/img/reviewitem/speech3_02.png" style="max-width: 17px"></a></span></p></div></td></tr></tbody></table>
+
 
 p.180
 
@@ -108,31 +79,20 @@ p.180
 
 그렇다. 아주 중요하고 요긴한 건 우리 주변에 있는 작은 발명품들이다. 손톱깎이가 없다면 얼마나 불편하고, 라이터가 없다면 세상 모든 흡연자들은 손을 부들부들 떨 것이다. 덕트 테이프가 없었다면 와트니는 살아서 지구로 귀환하기 어려웠을지 모른다. 비닐로 덮고 테이프로 붙이고. 산소가 샐때 그걸 막아준 건 니 여자친구가 아니라 덕트 테이프였다. 옆을 봐라. 주머니에 있는 것들에 감사해라.
 
-![](https://postfiles.pstatic.net/20151022_84/whiteagle_1445495899231GjSfu_JPEG/1.jpg?type=w966)
-
-<table style="border:none;"><tbody><tr><td colspan="1" rowspan="1" style="width: 2.45%; height: 40.0px; border:none; "><div><p style=""><span><a><img src="https://ssl.pstatic.net/static.se2/static/img/reviewitem/speech6_01.png" style="max-width: 17px"></a></span></p></div></td><td colspan="1" rowspan="1" style="width: 95.1%; height: 40.0px; border:none; "><div><p style=""><span style="color:#f68b8f;"><b>나는 화성이 얼마나 적막한 곳인지 미처 깨닫지 못하고 있었다. 화성은 사실상 소리를 전달하는 대기조차 없는 황량한 세상이다. 내 심장 박동 소리도 들릴 정도다</b></span></p></div></td><td colspan="1" rowspan="1" style="width: 2.45%; height: 40.0px; border:none; "><div><p style=""><span><a><img src="https://ssl.pstatic.net/static.se2/static/img/reviewitem/speech6_02.png" style="max-width: 17px"></a></span></p></div></td></tr></tbody></table>
 
 p.227
 
 외로움은 한순간에 밀려온다. 우리가 집에 들어가서 텔레비전을 가장 먼저 켜는 건. 외로울 때 음악의 볼륨을 미친듯이 올리는 건, 외로움이라는 공간을 소리로 채우기 위해서다. 계속 시끄러운 장비 속에 있던 와트니가 적막 속으로 들어갔을 때 오싹함을 느끼는 건. 그리고 그 감정을 ‘뭐라 설명하기 어렵다’고 하는 건, 그 공간이 갑자기 비어버렸을 때 찾아오는 낯설음 때문이다. 소리를 내는 캠프가, 기계가, 일종의 빈자리를 메우는 ‘무언가’의 역할을 해주고 있었다는 말이다.
 
-![](https://postfiles.pstatic.net/20151022_272/whiteagle_1445496906049vVT3D_JPEG/the-martian-sopravissuto.jpg?type=w966)
-
-<table style="border:none;"><tbody><tr><td colspan="1" rowspan="1" style="width: 2.45%; height: 40.0px; border:none; "><div><p style=""><span><a><img src="https://ssl.pstatic.net/static.se2/static/img/reviewitem/speech4_01.png" style="max-width: 17px"></a></span></p></div></td><td colspan="1" rowspan="1" style="width: 95.1%; height: 40.0px; border:none; "><div><p style=""><span style="color:#c7baaa;"><b>무차(無茶) - 오늘은 무차로 하루를 열었다. 먼저 뜨거운 물을 준비한 다음 아무것도 넣지 않으면 된다. 몇 주전엔 감자껍질차를 만들어보았다. 그에 대해선 말하지 않는 편이 났다</b></span></p></div></td><td colspan="1" rowspan="1" style="width: 2.45%; height: 40.0px; border:none; "><div><p style=""><span><a><img src="https://ssl.pstatic.net/static.se2/static/img/reviewitem/speech4_02.png" style="max-width: 17px"></a></span></p></div></td></tr></tbody></table>
-
 p.250
 
 원서를 봤을면 좋겠다.... Nothing tea 이려나?
 
-![](https://postfiles.pstatic.net/20151022_147/whiteagle_1445497473696k6MpX_JPEG/%B8%B6%BC%A2.JPG?type=w966)
-
-<table style="border:none;"><tbody><tr><td colspan="1" rowspan="1" style="width: 2.45%; height: 40.0px; border:none; "><div><p style=""><span><a><img src="https://ssl.pstatic.net/static.se2/static/img/reviewitem/speech7_01.png" style="max-width: 17px"></a></span></p></div></td><td colspan="1" rowspan="1" style="width: 95.1%; height: 40.0px; border:none; "><div><p style=""><span style="color:#7fc1ca;"><b>나를 살리기 위해 들어간 비용은 수십억 달러에 달할 것이다. 괴상한 식물학자 한 명을 구하기 위해 그렇게 많은 것을 쏟아 붓다니. 대체 왜 그랬을까? ... 진짜 이유는 모든 인간이 기본적으로 타인을 도우려는 본능을 갖고 있기 때문이다. 가끔은 그렇지 않은 듯 보이기도 하지만, 사실 그렇다.</b></span></p></div></td><td colspan="1" rowspan="1" style="width: 2.45%; height: 40.0px; border:none; "><div><p style=""><span><a><img src="https://ssl.pstatic.net/static.se2/static/img/reviewitem/speech7_02.png" style="max-width: 17px"></a></span></p></div></td></tr></tbody></table>
 
 p.294
 
 세상 많은 것들이 돈으로 환원된다. 비용이 얼마다, 예산이 얼마다. 편익은 얼마고, 기대 수익은 얼마다. 하지만 때로는 돈으로 환원하기 힘든 것들이 있다. 정치적 이야기는 하지 않는 편이지만 세월호의 경우 편익을 따져 인양을 고민해서는 안됐다. 소설이긴 하지만 미국은 실제로 우주인을 위해 저런 작전을 펼 것이다. 라이언 일병(응?)을 구했듯 와트니를 구했듯. 그건 단순히 보여주기식 행동에 불과할지라도 그래야 하는 일이다. 그것이 나라를 구성하고, 돈을 만들고, 울고, 웃고 지지고 볶는 인간을 위한 길이기 때문이다.
 
-![](https://postfiles.pstatic.net/20151022_199/whiteagle_1445497649728UYzOL_PNG/china.png?type=w966)
 
 중국이 멀었다고 하지만, 내 생각은 다르다. 그들을 G2로 부르는 건 미국이 중국을 ‘의식’하기 시작했기 때문이다. 생각해 봐라 10년전만 해도 분명 스토리라인은 러시아가 나와야 했다. (우호적이라면 일본?) 하지만 여기에는 중국이 나온다. 좋든 싫든 미국인의 인식 속에 ‘중국’이 자리잡기 시작했다는 거다. 심지어 여기서는 미국을 도와준다.
 

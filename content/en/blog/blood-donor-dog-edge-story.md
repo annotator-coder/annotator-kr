@@ -1,57 +1,54 @@
 ---
-title: Edge Wrote Me a Letter
+title: "Edge Wrote Me a Letter"
 date: '2012-12-01'
 category: Essay & Column
-excerpt: >-
-  I wrote the blood donor dog story in first-person from a detection dog's
-  perspective. Readers cried, letters arrived, cash arrived. The first time I
-  felt that an article could change the world.
+excerpt: "I wrote a blood donor dog story from the first-person perspective of a detection dog named Edge. Readers cried. Letters came. Cash came. It was the first time in my journalism career that I truly felt a story could change the world."
 readingTime: 6
 relatedPortfolioSlugs:
   - blood-donor-dog-edge
 ---
-I met Edge while covering Seoul National University.
+I met Edge on a reporting trip to my alma mater, Seoul National University.
 
-In a kennel off to the side of the veterinary hospital, an old Labrador sat alone. Eleven years old — 65 in human years. Six years as a narcotics detection dog, four as a blood donor dog. The fur around his mouth had gone white. The attending vet said: "If he doesn't find an adopter this month, he's scheduled for euthanasia."
+In one of the cages at the veterinary hospital, there was an aging Labrador. Eleven years old — sixty-five in human years. He had worked six years as a narcotics detection dog and four years as a blood donor dog. The fur around his muzzle had gone white. The attending vet told me that if Edge wasn't adopted by the end of the month, he was scheduled to be euthanized.
 
-I stopped for a moment.
+I stopped.
 
-A dog who'd spent his whole life serving the country, serving other dogs — to be put down if he couldn't find a home. That story hit directly.
-
----
-
-I thought about how to write it.
-
-I could write an explainer on blood donor dogs. I'd have statistics, expert comments, institutional context. But written that way, no one would read it to the end. Institutional articles don't move readers. Something different was needed.
-
-I decided to write it in Edge's first person. Edge telling his own story. Starting from his first training at Incheon Airport, through his peak years finding eight drug cases, through four years in the hospital kennel. At the end, a postscript:
-
-"If no one comes to take me home, I may have to face euthanasia."
-
-The day the article ran, the phones at Seoul National University veterinary hospital didn't stop.
+A dog who had spent his whole life in service — first to the country, then to other dogs — was going to die if no one came for him. That story hit me like a straight line directly to the chest.
 
 ---
 
-Adoption applications exceeded a hundred. An elementary school student sent a letter with 50,000 won cash enclosed: "Buy Edge what he needs." A former member of the National Assembly applied. A diplomatic official at the New York Consulate emailed. An animal protection organization in California made contact.
+I sat with how to write it.
 
-Edge was adopted by the Son family in Chungcheong. The family, who had been living in an apartment, moved to a standalone house for Edge's sake. Ten days later, when I visited again, Edge was running in a wide yard with younger dogs.
+I could have written an explanatory piece on the blood donor dog program — there were statistics, expert commentary, all the usual components. But I knew nobody would read it. Institutional explainers don't move people. I needed something different.
 
-I had never received a response like this after writing an article.
+I decided to write it in Edge's voice. First person, Edge telling his own story. Training at the Incheon Airport detection dog facility. The prime years when he sniffed out eight drug seizures. Four years in a hospital cage. At the end, I added a postscript:
 
----
+*"If no owner comes for me, I may have to be euthanized."*
 
-SBS Animal Farm reached out. They broadcast Edge's story — nationwide awareness of blood donor dogs.
-
-Later, a children's book called *Blood Donor Dog Edge* was published. The publisher asked me to write the foreword. I did, happily.
-
-In 2019, Hyundai Motor launched a nationwide pet blood donation vehicle campaign. A billion and a half won custom blood donation car, dogs receiving the title "DOgNOR" along with scarves and vests. The blood donor dog system that had zero applicants and faced euthanasia in 2012 became a major corporate CSR program seven years later.
-
-Sometimes the chain of causation from a single article takes this long to confirm.
+The day the story ran, the phones at SNU's animal hospital didn't stop ringing.
 
 ---
 
-One thought stays with me from Edge's story.
+Adoption requests surpassed a hundred. An elementary school student sent a letter with 50,000 won in cash — "Buy Edge whatever he needs," it said. A former member of the National Assembly filed an application. An attaché from the Korean Consulate in New York sent an email. An animal protection organization in California got in touch.
 
-The same facts told from different voices produce entirely different articles. The blood donor dog system article could have been written dozens of times. But the article where Edge spoke directly existed only once.
+Edge was adopted by the Son family in North Chungcheong Province. They had been living in an apartment; they moved to a standalone house because of Edge. Ten days later, when I visited, Edge was running around a wide yard with his young new siblings.
 
-What moves readers is not data or expert commentary but the story of one being right in front of you. Edge was the one who taught me that.
+I had never written a story and gotten a reaction like that.
+
+---
+
+SBS Animal Farm called. They wanted to air Edge's story. Later, a children's book titled *Blood Donor Dog Edge* was published. The publisher asked me to write a foreword, and I did so gladly.
+
+In 2019, Hyundai Motor Company launched a nationwide blood donation campaign for companion animals. They built a 150-million-won custom blood donation vehicle, called donor dogs "DOgNORs," and gave them scarves and vests. A program that couldn't find a single adoption applicant in 2012 and nearly ended in euthanasia had, seven years later, become a major corporate social responsibility initiative.
+
+Sometimes it takes this long to personally witness the full cause-and-effect chain of a single story.
+
+---
+
+I still think about the Edge story.
+
+The same facts, told from a different perspective, can produce a completely different piece. A story about the blood donor dog system could have been written dozens of times. But there was only one story in which Edge spoke for himself.
+
+What moves readers isn't data or expert quotes. It's the story of one living being standing right in front of you.
+
+Edge taught me that.

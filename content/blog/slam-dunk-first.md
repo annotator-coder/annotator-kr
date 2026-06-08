@@ -2,7 +2,7 @@
 title: 슬램덩크 더 퍼스트에 대한 주석  (스포 있음)
 date: '2023-02-02'
 category: 영화·드라마
-excerpt: '''스포츠의 진정한 힘은 그것이 각본없는 스토리''이기 때문이다. 한국에서 #슬램덩크 가 N차 관...'
+excerpt: '''스포츠의 진정한 힘은 그것이 각본없는 스토리'''
 readingTime: 3
 relatedPortfolioSlugs: []
 sourceUrl: >-
@@ -10,21 +10,17 @@ sourceUrl: >-
 ---
 슬램덩크 더 퍼스트에 대한 주석 (스포 있음)
 
- [![프로파일](https://blogpfthumb-phinf.pstatic.net/MjAyMzEwMTNfMjA0/MDAxNjk3MTgxMTM5MTA2.EEA8VHZxZ9eRy07PHZ9jU4O6ZuWSFFO9SvWTqpH5qP4g.QnMuhZvISYOc2aoiWKVFm1D1knvqjRynpx2o3gHwE68g.PNG.whiteagle/letter-ano.png/letter-ano.png?type=s1)](https://blog.naver.com/annotator) [annotator](https://blog.naver.com/annotator) *・* 2023\. 2. 2. 18:18
 
-![](https://postfiles.pstatic.net/MjAyMzAyMDJfMzEg/MDAxNjc1MzI4NTg5MzQx.2dIYAmTypAQThAjcheEJiiGakvACUX2FpqfXg9Ye8Y4g.ZIunYiqAxpUaaIDFBgKj6MRcPfGHpCQEt_WjVlxTjwMg.JPEG.whiteagle/IMG_2657.JPG?type=w966)
-
-아이패드로 팬아트를 따라 그려봤다.... 간만에 스케치라 삐뚤빼뚤
 
 '스포츠의 진정한 힘은 그것이 각본없는 스토리'이기 때문이다.
 
 한국에서 #슬램덩크 가 N차 관람 열풍을 보이며 인기를 끌고 있다. 점심시간을 이용해 회사 근처에서 자막판을 봤는데, 직장 선후배들을 포함해 다수의 30-40대 장년층이 극장에 와서 슬램덩크를 보는 걸 확인할 수 있었다.
 
-1.백 투더 1990s'
+
+**1.백 투더 1990s'**
 
 한국에서 '농구'가 전성기를 구가했던 시절은 1990년대다. #연세대와 #고려대로 대표되던 대학농구는 지금은 예능인으로 뜬 #서장훈, #현주엽 같은 스타를 포함해 이상민, 김훈(연세대), 김병철, 전희철(고려대) 같은 아이돌급 스타가 즐비했고, 지금의 프로농구(KBL) 격인 #농구대잔치에서는 기아, 삼성, 현대에 허재, 강동희, 문경은 등 스타들이 자리하고 있었다.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMDJfMjIg/MDAxNjc1MzI4NzA1MzIy.Zg59b5yPfDYJANqOCAJqw0oMNqBJF9bGAVH-PwI0MAQg.IebGhgou7k6BZ_8L6u9Mugw6_Mc-dLxPynppuPVvf9Qg.JPEG.whiteagle/%EC%97%B0%EC%84%B8%EB%8C%80.jpeg?type=w966)
 
 가장 왼쪽이 서장훈.. 앳된 모습이 ㅎㅎ 낯설다.
 
@@ -32,15 +28,17 @@ sourceUrl: >-
 
 이번에 개봉한 영화 '더 퍼스트 슬램덩크'의 원작 '슬램덩크'도 이즈음 일본 연재가 이어지던 중이었다. #이노우에 다케히코의 슬램덩크는 한국에선 '소년챔프'에 1992년~1996년 연재됐고, 단행본으로도 발행됐다. 일본 대중문화가 개방되기 전이었지만 한국에선 농구에 대한 인기와 맞물려 성장 드라마로 '슬램덩크'가 인기를 끌었던 거다.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMDJfMTQ5/MDAxNjc1MzI4ODI4NTk0.stdc03B-PlJUQdw24qMOtFCZ--KmpUy0Vwy0w09qA54g.1GDfKCliTh68uIwdnDr2C8aTs1-ElewbKctC_FyjtX4g.PNG.whiteagle/%EC%8A%AC%EB%9E%A8%EB%8D%A9%ED%81%AC_%EB%A7%8C%ED%99%94.png?type=w966)
 
 특히 오빠부대를 몰고다녔던 대학농구의 인기로 슬램덩크는 여성 팬들에게 까지 인기를 끌며 남녀노소를 가리지 않고 다양한 연령층이 '인생작품'으로 꼽는 만화의 자리를 차지했다. 90년대 10대~20대는 20여년이 지난 지금 30~40대가 됐고 아이의 손을 잡고 영화관을 찾는 거다.
 
-2.왜 산왕전인가?
+
+
+**2.왜 산왕전인가?**
 
 슬램덩크 팬들이라면 각자 마음 속에 슬램덩크의 명장면 하나쯤은 있을 테다. 슬램덩크의 명장면이나 명대사는 대중문화의 밈으로 수없이 생산, 재생산되며 스포츠 성장물의 감동을 꾸준히 안겨줬다.
 
 산왕전은 이런 명장면이 가장 많이 등장하는 클라이막스다. 대표적으로 몇가지만 꼽아 보자면
+
 
 1.마지막 버저비터 위닝샷 후 서태웅과 강백호의 하이파이브 장면 (역사에 한획을 그은)
 
@@ -52,29 +50,30 @@ sourceUrl: >-
 
 5.마지막으로, 강백호의 '영감님의 영광의 시대는 언제였죠? 국가대표였을 때였나요? 난 지금입니다!'
 
-![](https://postfiles.pstatic.net/MjAyMzAyMDJfODUg/MDAxNjc1MzI5MDEwNDYy.1Q8BPgvZzxx0pXbHfe07LMugZtuwLoTCCq-YhIt-V4Ag.PTKOtZhHoet5MkucDr61kLdyvJtH4y09hNC96korb70g.JPEG.whiteagle/%ED%95%98%EC%9D%B4%ED%8C%8C%EC%9D%B4%EB%B8%8C.jpeg?type=w966)
 
-밈으로 까지 발전한 명장면
+
 
 슬램덩크가 성장드라마라 친다면 현실적으로 이길 수 없는 끝판대장 격인 셈. 영화에선 송태섭의 어린 시절 등 회상을 통해 산왕이 가진 최강의 이미지를 반복적으로 보여주고 있다. 아쉬운 점은 가장 강력한 카드를 더 퍼스트 슬램덩크에 스토리로 사용하였기에 다음 영화 시리즈가 나온다면... (나왔으면 좋겠다는 마음과, 나오지 말았으면 좋겠다는 마음이 교차한다.) 어떤 경기를 담을 것인가?
 
-3.왜 송태섭인가
+
+
+**3.왜 송태섭인가**
 
 많은 과거가 드러나지 않은 인물. 기존 슬램덩크 만화를 생각할 때도 팬이 많지는 않은 #송태섭이다. #정대만 복귀 스토리를 위해 조연으로 사용된게 아닌가라는 생각이 들 정도. 하지만 강백호와 함께 덤앤더머 느낌을 주며 밸런스를 잡아주는 매력적인 캐릭터이기도 하다.
 
 많은 사람들이 말하듯, '더 퍼스트 슬램덩크'라는 제목은 통상적으로 1번이라 불리는 포인트가드(PG) 포지션을 뜻한다고 보인다. 참고로 PG가 1번, SG가 2번, SF가 3번, PF가 4번, C가 5번이다. 원작자가 팀의 사령탑인 포인트 가드 시선에 맞춘 영화를 만들고 싶다고 말하기도 했었다. 만약 이 가설이 맞다면 다음 작품의 주인공은 슈팅가드인 정대만이 될 가능성이 높다.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMDJfMjI1/MDAxNjc1MzI5MDkyODI5.LBUB71RPeaY4PC6Cxbm9nXdG6lK1oCS20kR0xIyLsisg.Q_r0_gFzDtsE-UB_i0s38Cd1S2-rH0sS3Parp92JUnEg.PNG.whiteagle/%ED%8F%AC%EC%A7%80%EC%85%98%EC%97%AD%ED%95%A0.png?type=w966)
 
 다른 맥락에선 #채치수가 떠난 북산을 이끌 차기 주장인 송태섭의 시대를 의미할 수도 있다. 영화에선 미국에서 활약하는 송태섭의 모습(포인트가드가 된 정우성과 매치업)이 그려지기도 했는데... 슬램덩크에 등장한 여러 매력적인 타 고등학교 캐릭터들을 고려한다면 스토리는 그해 겨울 선발전으로 이어지면 좋지 않을까란 생각도 있다. (가을의 전국체전도 있긴 하지만... 부상을 입은 강백호를 고려하면... )
 
 후속작에 대한 전망을 떠나, 영화에 등장한 송태섭의 이야기만 좀 더 하자면... 송태섭에 앞서 농구를 시작했던 3살 형의 그림자를 극복하는 것이 주된 스토리다. 장남의 사망으로 무너진 가족의 회복 - 장남의 그림자가 남은 농구를 통한 자아성장이라는 두축이 핵심이다. 재능있는 단신(168cm) 가드로 북산에 '스피드'와 '감성'을 더해준 플레이어의 숨겨진 스토리는 밸붕 넘사벽에 가까운 강백호, 서태웅이 영화의 주인공이 되었을 때보다 확실히 촘촘하다.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMDJfMTU2/MDAxNjc1MzI5MTkyODM4.hZsG_-JKbglzYBWhBrbdoRDUBKqm0yhbf9RoRLOZM8Qg.HLv5USntiqDOen-4vNx-HMFhLyVtXJVpg3wFKCN2RS8g.JPEG.whiteagle/%EC%86%A1%ED%83%9C%EC%84%AD.jpeg?type=w966)
-
 태섭아...
 
-4.무음 처리의 여운
+
+
+
+**4.무음 처리의 여운**
 
 슬램덩크 만화에서 산왕전 후반부 마지막 30초는 무음이다. 영화에서도 이 부분은 무음으로 처리되었는데, 극장에선 그 무음이 관객의 집중도를 최고조로 올려준다. 영화는 공감각적 요소를 최대화해 몰입의 경험을 선사하는 예술이라고 생각하는데, 그 중 하나를 완벽하게 제거한다는 건 짜릿한 일이다. (물론 무성영화가 있지만 그건 시작부터 하나를 완벽하게 제거하고 시작하는 것이라 맥락이 다르다.)
 

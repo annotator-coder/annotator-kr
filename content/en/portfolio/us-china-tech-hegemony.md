@@ -3,15 +3,13 @@ order: 23
 title: 'US-China Tech Hegemony: The Future of Semiconductors, AI & Space'
 category: In-Depth Journalism
 tags:
-  - US-China Relations
+  - USChinaRelations
   - Semiconductors
-  - AI Hegemony
+  - AIHegemony
   - Geopolitics
-  - In-Depth Reporting
+  - InDepthReporting
 year: '2021'
-tagline: >-
-  Six-part deep-dive on the US-China tech hegemony battle over semiconductors,
-  AI, and space
+tagline: Six-part deep-dive series analyzing the US-China tech hegemony battle over semiconductors, AI, and space
 description: >-
   A 6-part series deeply analyzing the hegemony competition between the US and
   China over semiconductor, AI, and space technologies. Examined the geopolitics
@@ -28,11 +26,12 @@ approach:
     Huawei HiSilicon), and space (Starlink, China's Tianling)
   - >-
     Used an international politics background to connect the tech competition to
-    geopolitical context
+    its geopolitical context
   - >-
     Produced infographics and export restriction timelines for reader
     accessibility
-  - Published as a 6-episode series for FactPL newsletter subscribers
+  - >-
+    Published as a complete 6-episode series for FactPL newsletter subscribers
 outcome:
   - >-
     6-episode series established US-China tech hegemony discourse in Korean IT

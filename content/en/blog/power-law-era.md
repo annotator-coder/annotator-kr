@@ -1,40 +1,30 @@
 ---
-title: The Collapse of the Bell Curve and the Age of Power Laws
+title: "The Collapse of the Normal Distribution and the Age of Power Laws"
 date: '2016-01-27'
 category: Essay & Column
-excerpt: >-
-  Why winner-take-all distributions keep appearing across industries — the logic
-  of power laws and what it means for strategy in an attention economy.
+excerpt: "Statistics has something called the normal distribution — one of the most important concepts in statistical analysis. But the world we live in produces far more abnormal situations than normal ones."
 readingTime: 1
 relatedPortfolioSlugs: []
+sourceUrl: >-
+  https://blog.naver.com/PostView.naver?blogId=annotator&logNo=220609919607&categoryNo=18&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=postList&userTopListOpen=true&userTopListCount=30&userTopListManageOpen=false&userTopListCurrentPage=1
 ---
-In statistics, a normal distribution — the bell curve — describes a world where most outcomes cluster near the average, with extremes tapering off symmetrically on both sides. Height follows a normal distribution. Test scores approximate it.
+The Collapse of the Normal Distribution and the Age of Power Laws
+2016. 1. 27.
 
-A power law distribution looks different: a tiny number of outcomes capture most of the results, with a very long tail of small outcomes. Earthquakes follow power laws — most are barely detectable, but occasionally one is catastrophic. Wealth distribution in most countries follows a power law. So does social media attention. And startup valuations.
+**S**tatistics has something called the normal distribution — one of the most important concepts in statistical analysis.
 
----
+The shape of the normal distribution is symmetrical around the mean. Many natural phenomena, such as human height and weight, follow a normal distribution. As shown below, the distribution takes the shape of a hat (or a boa constrictor swallowing an elephant, as in *The Little Prince*), centered on the mean. 68.3% of values fall within the center, and 95.4% fall within two standard deviations.
 
-**Why Power Laws Keep Appearing**
+![](https://postfiles.pstatic.net/20160127_71/whiteagle_1453850751739HxPMT_JPEG/%C1%A4%B1%D4%BA%D0%C6%F7.JPG?type=w1)
 
-Power laws emerge wherever there are feedback loops — where early success creates conditions for more success.
+This means that if you randomly pick someone from a group of 100 and measure their height, 96 out of 100 will fall within the expected two-sigma range, with only 4 as outliers. We call this a "normal" distribution because this state is closest to what we consider normal.
 
-A startup that raises its first million finds it easier to raise its second. A song that gets played once is more likely to get played again because it's already in circulation. A city that attracts one skilled worker creates the conditions that attract the next one.
+However, the world we actually live in produces far more abnormal situations than normal ones. The most familiar example is the distinction between permanent and non-permanent employment. Last year in Korea, irregular workers accounted for 32.5% (6.27 million people) of all wage earners. This is not a normal structure. In the name of "flexibility" and "competitiveness," the normal distribution curve that guarantees social stability has been twisted and distorted.
 
-Normal distributions describe worlds where outcomes are independent. Power laws describe worlds where outcomes compound.
+Being in an abnormal situation means your ordinary life is under threat. Full-time workers earn an average of 2.7 million won per month, while non-regular workers earn only 1.46 million won — just over half (54.4%). Since the rate of wage growth is higher for permanent workers, the gap will only continue to widen.
 
-The internet dramatically accelerated power law dynamics by:
-1. Reducing distribution costs to near zero (one network effect can reach everyone)
-2. Making quality comparisons instantaneous and global
-3. Removing the geographic constraints that previously forced people to use local alternatives even when global alternatives were better
+An article published in the Kyunghyang Shinmun titled "This Is How Unequal Our Incomes Are" starkly illustrates the distortion of average income. An illustration that lines up everyone earning money in Korea reveals the abnormal state of our society in an intuitive way. If income were represented as height, the average would be 175 cm, but there would also be a giant standing 1,227 meters tall.
 
----
+This can be understood through the statistical concept of the **power law**. The power law is a seemingly strange mathematical pattern — it can be called the statistics of "the rich get richer." The phenomenon of major cities growing ever larger, and of popular figures on social media becoming even more popular, are classic examples of the power law in action. As the Kyunghyang Shinmun pointed out, in today's capitalism, wealth begets wealth. Giants grow taller faster, while the small are left malnourished. The "spoon theory" (the idea that your life outcomes are determined by the class you were born into) that dominated Korean social discourse last year is very much connected to this context.
 
-**What This Means**
-
-If you're operating in a domain with power law dynamics, average performance is increasingly irrelevant. The question is whether you can reach the zone where compounding takes over.
-
-This has obvious implications for media (a few platforms capture most attention), for labor markets (a few skills command most of the premium), and for companies (most industries are tending toward oligopoly).
-
-The uncomfortable implication: a lot of what we were told about the value of being "pretty good" at many things may be a legacy of the normal distribution era. In a power law world, "pretty good at many things" competes against "excellent at one thing" — and loses.
-
-This isn't fully deterministic. Niches have power laws too. You can be the best in a small, well-defined domain and still compound. But you have to actually be the best in that domain, not merely above average.
+What's interesting is that this mathematical pattern is called the *power law*. The word "power" can also mean authority or dominance. The concentration of power is what bends the normal distribution curve into the world of power laws. **The age of the power law** — in other words, the age where power = law. This signals the collapse of the normal distribution and symbolizes an era that is anything but normal.

@@ -31,7 +31,10 @@ function loadProjects(): Project[] {
     const { order, ...rest } = data as { order?: number; [key: string]: unknown }
     return { slug, _order: order ?? 999, ...rest } as Project & { _order: number }
   })
-  items.sort((a, b) => a._order - b._order)
+  items.sort((a, b) => {
+    const yearDiff = parseInt(b.year) - parseInt(a.year)
+    return yearDiff !== 0 ? yearDiff : a._order - b._order
+  })
   return items.map(({ _order: _, ...p }) => p as Project)
 }
 

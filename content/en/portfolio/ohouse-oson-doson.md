@@ -1,61 +1,63 @@
 ---
 order: 17
-title: 'Oson-Doson: Small Business Co-Growth Project & Report'
-category: Platform Co-Growth · PR Communication
+title: 'O!Son-Do-Son: Small Business Mutual Growth Project & Report'
+category: Platform Partnership · PR Communication
 tags:
-  - Co-Growth
-  - Small Business
-  - Data Report
-  - PR Communication
+  - MutualGrowth
+  - SmallBusiness
+  - DataReport
+  - PRCommunication
   - Partnership
 year: '2022'
-tagline: >-
-  Not words — numbers. A co-growth report tracking 370 small businesses
-  relentlessly.
+tagline: Proved it with numbers, not words. A mutual growth report that relentlessly tracked data from 370 small businesses.
 description: >-
-  "Co-growth" is easy to say. Ohouse decided to prove it with data. Full
-  analysis of transaction data from 370 participating businesses in the
-  O!Son-Doson Market, tracking +31% growth in small furniture sales amid a
-  market contraction (-17%), and surfacing individual business growth stories.
-  This wasn't a PR message — it was an image built from facts.
+  "Mutual growth" is easy to say. Ohouse decided to prove it with data. A
+  comprehensive analysis of transaction data from all 370 participating vendors
+  in the O!Son-Do-Son Market — tracking +31% growth in small furniture
+  transactions against a market-wide decline of -17%, and uncovering individual
+  vendor growth stories. The results were packaged into a report and content,
+  then distributed to media. It was an image built on facts, not PR messaging.
 problem: >-
-  As Ohouse grew rapidly, the perception that "big platforms exploit small
-  businesses" was taking root. There were hundreds of partner small businesses
-  growing together with Ohouse, but their story had never been made visible to
-  the outside world.
+  As Ohouse grew rapidly, a narrative emerged that "large platforms exploit
+  small businesses." There were hundreds of real stories about growing alongside
+  small business partners, but none had been made visible to the outside. A
+  project was needed to show the substance of mutual growth through data.
 approach:
   - >-
-    Full transaction data analysis of 370 O!Son-Doson Market participants (5
-    months, 15,000+ products) — designed metrics from scratch: per-business
-    transaction change, category growth rates, sole proprietor share
+    Comprehensive analysis of transaction data from all 370 O!Son-Do-Son Market
+    vendors (5 months, 15,000 product types) — designed metrics and extracted
+    figures including per-vendor transaction changes, category growth rates, and
+    the share of individual proprietors
   - >-
-    Contextualized comparison with overall market data: identified a -17% market
-    contraction period to present Ohouse's +31% small furniture growth figures
-    meaningfully
+    Comparative analysis against overall market data: identified the -17%
+    domestic furniture retail contraction period to contextually present
+    Ohouse's small furniture transaction growth of +31%
   - >-
-    Tracked individual business trajectories — Carrem Furniture +81%, Furnico
-    +332% — and turned the numbers into human stories ("When the furniture
-    market was struggling, Ohouse was there")
+    Tracked individual vendor growth trajectories — Carre M Furniture +81%,
+    Funnico +332% — and turned the human stories behind the numbers into
+    content ("When the furniture market was struggling, Ohouse was there")
   - >-
-    Included O!Goods curated shop performance data, illuminating the platform's
-    enabler role from multiple angles
+    Included O!Goods (o!goods) curated shop collaboration results, highlighting
+    the platform's enabler role from multiple angles
   - >-
-    Produced the Oson-Doson Report centered on data infographics and distributed
-    to media (December 2023)
+    Produced the O!Son-Do-Son Report centered on data infographics and
+    distributed to media (December 2023)
 outcome:
   - >-
-    O!Son-Doson Market in 5 months: ~KRW 60 billion total revenue, +KRW 22M avg
-    per business, sole proprietor transactions up 55.9%
+    O!Son-Do-Son Market 5 months: total sales approx. KRW 60 billion, average
+    transaction increase of KRW 22 million per vendor, individual proprietor
+    transactions up 55.9%
   - >-
-    O!Goods collaboration: 10,000+ mix-and-match bedding sets sold, one
-    partner's revenue up 670% in a year
+    O!Goods collaboration: Mix & Match bedding 10,000+ sets cumulative sales,
+    one partner's revenue up 670% in a year
   - >-
-    Small furniture content: 1,434 businesses, avg KRW 314M transactions — +31%
-    amid -17% market contraction
+    Small furniture content: 1,434 vendors, average transaction KRW 314
+    million — small furniture transactions on Ohouse up +31% against market-wide
+    decline of -17%
   - >-
-    Multiple media coverage, "platform-small business co-growth" image
-    established — contributed to Ministry of SMEs and Startups citation
-    recommendation
+    Multiple media coverage, establishing a "platform-small business mutual
+    growth" image — contributed to recommendation for Ministry of SMEs and
+    Startups citation for promoting online entry of small businesses
 links:
   - label: Small Furniture Co-Growth Story
     url: 'https://ohstory.io/featured/7066'

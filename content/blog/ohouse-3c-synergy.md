@@ -8,6 +8,7 @@ relatedPortfolioSlugs:
   - ohouse-newsroom
 sourceUrl: 'https://webzine.prosports.or.kr/page/vol10/view?idx=146'
 ---
+
 오늘의집을 외부에 설명할 기회가 생기면 항상 같은 질문을 받는다. "커머스인가요, 커뮤니티인가요?" 둘 다라고 답하면, 어떻게 그게 가능하냐고 다시 묻는다.
 
 3C(Content·Community·Commerce)는 말처럼 간단하지 않다. 대부분의 플랫폼이 3C를 갖고 싶어 하지만, 세 가지를 동시에 잘 하는 건 드물다. 커머스를 키우려다 커뮤니티가 죽거나, 콘텐츠만 쌓이고 구매로 이어지지 않거나.

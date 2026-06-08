@@ -2,7 +2,7 @@
 title: 넷플릭스 추천 힐링 드라마 '블랙독'... 쌉싸름한 아이스 아메리카노 같은 드라마
 date: '2023-02-25'
 category: 영화·드라마
-excerpt: '블랙독은 기대하지 않았다가, 빠져든 드라마다. 넷플릭스에 몇몇 시즌 드라마를 보다가 우연히 보게 되었는...'
+excerpt: '블랙독은 기대하지 않았다가, 빠져든 드라마다. '
 readingTime: 8
 relatedPortfolioSlugs: []
 sourceUrl: >-
@@ -10,7 +10,7 @@ sourceUrl: >-
 ---
 넷플릭스 추천 힐링 드라마 '블랙독'... 쌉싸름한 아이스 아메리카노 같은 드라마
 
- [![프로파일](https://blogpfthumb-phinf.pstatic.net/MjAyMzEwMTNfMjA0/MDAxNjk3MTgxMTM5MTA2.EEA8VHZxZ9eRy07PHZ9jU4O6ZuWSFFO9SvWTqpH5qP4g.QnMuhZvISYOc2aoiWKVFm1D1knvqjRynpx2o3gHwE68g.PNG.whiteagle/letter-ano.png/letter-ano.png?type=s1)](https://blog.naver.com/annotator) [annotator](https://blog.naver.com/annotator) *・* 2023\. 2. 25. 1:54
+ *・* 2023\. 2. 25. 1:54
 
 블랙독은 기대하지 않았다가, 빠져든 드라마다.
 
@@ -18,7 +18,6 @@ sourceUrl: >-
 
 이정도 웰메이드 드라마가 왜 화제가 되지 못했지라고 생각할 정도로 재미있게 봤다.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMjVfMjM0/MDAxNjc3MjU2MDU0NTAw.snllpFndQniZUEJPJTV8aBbWILDEzxPateeO43KSWnQg.yVm5Xanb_LtTwkhDgKw2_7Mz3rSXy4UrFHED_Y5nPDYg.JPEG.whiteagle/%EB%B8%94%EB%9E%99%EB%8F%85%EB%A9%94%EC%9D%B8.jpg?type=w966)
 
 정주행 후 찾아보니, 2019년 12월~2020년 2월 방영당시 팬층이 확실했던 드라마로 유명하더라.
 
@@ -26,11 +25,7 @@ tvN월화 드라마로 방영되었는데, 당시에 부서 이동으로 좀 정
 
 주연은 서현진, 라미란 등 진학부 4인방인데, 서현진은 '또 오해영'을 통해 워낙 매력있게 본 배우라 기대를 갖고 시청했다. 담담하면서도 과하지 않은 느낌이 캐릭터와 잘 어울린 듯. 나중에 찾아보니 부모님이 선생님이셨다고...
 
-![](https://postfiles.pstatic.net/MjAyMzAyMjVfODcg/MDAxNjc3MjU2MDg1NDIy.ptBswL1-nWiJ26UEseo2Av276bQ-YfwEKrn91hDbDv8g.dX6sX3VRR1iGTJ9l1LHgI-TJOv56b-ZlPg5gV0A0rqwg.JPEG.whiteagle/%EC%84%9C%ED%98%84%EC%A7%84.jpg?type=w966)
 
-고하늘 선생 역의 서현진 배우
-
-주연 : 서현진, 라미란
 
 **\[스토리요약\]**
 
@@ -50,13 +45,10 @@ tvN월화 드라마로 방영되었는데, 당시에 부서 이동으로 좀 정
 
 ---
 
-1.학교판 <미생>, 장그래는 어디나 있다.
+**1.학교판 <미생>, 장그래는 어디나 있다.**
 
 블랙독을 본 후 가장 먼저 하고 싶은 이야기는 역시 '미생'이다. 장소와 공간이 무역상사에서 학교로 바뀌었고 주인공의 처지가 다르긴 하지만, 던지는 메세지가 비슷하다. 우리는 모두 완전하지 못한 미생이고, 우리는 누구나 블랙독일 수 있다는 이야기를 작가는 건넨다.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMjVfMjcz/MDAxNjc3MjU2MjE1NzQ1.8r_-Cng9ohU43tF1lQvFj5bdEZbwnpb-C34_c_SCYl0g.5fuzpB5g4gsKMXsOTXTSDQT4ILlrYPkDUS5tZrNiwzEg.JPEG.whiteagle/%EC%9E%A5%EA%B7%B8%EB%9E%98.jpg?type=w966)
-
-미생의 장그래
 
 개인적으로 미생보다 블랙독에 조금 더 공감이 갔던건, 고등학교 시절에 대한 기억 때문이다. 미생에서 회사가 우리 직장인을 대표적으로 상징하는 회사로 그려지긴 했지만, 조금은 일반 회사원과 다른 삶을 살았던 입장에서 공감하기 힘든 부분도 많았다. (웹툰으로 느꼈던 감흥과 비교되는 부분도 있었다)
 
@@ -64,39 +56,27 @@ tvN월화 드라마로 방영되었는데, 당시에 부서 이동으로 좀 정
 
 드라마를 보고 학교 선생님을 10년 넘게 하고 있는 절친에게 연락해, '고생많다'는 이야기를 하기도 했다. 학교는 교권붕괴나 학교의 학원화 등 다양한 사회이슈로 다뤄지지지만 그 안에서 삶을 살아내는 이들에겐 하나하나가 풀어야 하는 숙제이고 고민일테다.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMjVfMTM3/MDAxNjc3MjU2Mjk3OTM5.AY7deFCxjpuAMFYCfvb8nYJJyRcoZdzFejwVuGxwucEg.S_moS3tysAou-WPlmnbr91XAuXvhHfl8mjj7gwqCuvcg.JPEG.whiteagle/%EB%B0%95%EC%A3%BC%EC%97%B0%EC%9E%91%EA%B0%80.jpg?type=w966)
-
-박주연 작가\_주간동아
 
 블랙독은 방영 당시 현직 교사들에게도 큰 화제를 불렀는데 리얼한 학교 모습을 너무 잘 묘사해서라고 한다. 블랙독을 쓴 박주연 작가는 고등학교 국어 선생님으로 3년간 일했던 현직 교사 출신으로 블랙독이 첫 장편 입봉작이라고 한다. 자신이 발딛은 곳에서 출발해, 자신이 가장 잘 할 수 있는 이야기를 첫 장편부터 너무 잘 풀어낸 것이 아닌가 박수를 보내고 싶다.
 
 드라마를 보며 나의 사회 초년 시절도 많이 떠올랐다. 임용 시험이나 사립학교 시험을 보는 고하늘 선생을 보면서는 사회상식을 외우던 기억이 났고, 교사 채용 장면에선 면접 질문, 시범강의를 보며 수차례 낙방했던 입사시험과 긴장감 가득했던 면접이 떠올랐다. 그 밖에도 학생부를 서술하는 장면이나, 선생님들이 교과 협의를 하는 모습, 교장실에서 이뤄지는 부장회의, 직장인의 전투화 슬리퍼를 갈아신는 교무실의 아침모습 등... 일상적이라 더 현실적인 모습이 좋았다.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMjVfMjkw/MDAxNjc3MjU2MzU1OTk3.2qKv-wmzB5-W0EPSEDFT8CTpAyqpH7CybTj2bMs3B2Yg.PwPvsR8rPhJC3ntGRo9_jiXYmBCTV3gAvcD21Nm4uggg.JPEG.whiteagle/%EC%A7%80%ED%95%B4%EC%9B%90.jpg?type=w966)
-
-지해원 선생
 
 일상적이고 자극적이지 않은 내용 뿐 아니라 틀에 갇히지 않은 메시지 전달에도 감동이 있다. 기간제 교사, 비정규직 청춘의 고민과 애환은 그리되 거기에 매몰되지 않고, 끝내 어려움을 극복하고 마는 캔디류의 결말도 아니며, 지해원 선생의 경우처럼 악역도 악역으로만 그리지 않고 입체적으로 그린다. 갈등은 극단으로 치닫지 않고, 미친개와 똘아이는 '아! 우리회사에도 있지' 수준이다. 착한이가 손해보기도 하고, 그러다가 이악물고 복수하기도 하고 또 그 복수에 미안해 손내밀기도 하고. 우리 삶의 압축판이 '대치고등학교'와 '교무실'이란 공간에 녹아들어 있었다.
 
-2.성순이가 바나나와 수박 두 개를 샀다
+**2.성순이가 바나나와 수박 두 개를 샀다**
 
 두번째 이야기는 블랙독 8화에 등장했던 '바나나의 난' 에피소드다. 처음에는 말도 안되는 블랙코메디 에피소드라는 의견이 많았지만, 현직교사가 '현실과 판박이' 심심찮게 겪는 일이라고 기고를 할만큼 흥미로운 소재기도 하다.
 
-[![](https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fojsfile.ohmynews.com%2FCRI_T_IMG%2F2020%2F0108%2FA0002602705_T.jpg%22&type=ff500_300)](https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0002602705)[
 
 **현직 교사가 본 '블랙독', 이 장면은 현실과 판박이**
 
 \[TV 리뷰\] 기존 학교 드라마 문법을 탈피한 tvN 월화드라마 <블랙독>
 
-star.ohmynews.com
-
-](https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0002602705)
+(https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0002602705)
 
 바나나 사건의 결론이 옳은지, 실화인지 궁금해하고 설전을 벌이는 네티즌들이 많았고, 실제로 한 커뮤니티에선 6000여명이 투표까지 했다. 결과는 '정답으로 인정해야 한다'와 '정답으로 인정할 수 없다'가 거의 5:5로 비겼다.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMjVfMTky/MDAxNjc3MjU2NTQ4MzUx.5AD3HiTvmfdy8oOLfpWOOPOy_jhEFR-XOyICWdcrrBMg.eWkFascrFKrVGQ-_h_KezY0LPCs5u3mJpOmXKaSJUQUg.PNG.whiteagle/%EB%B0%94%EB%82%98%EB%82%98.png?type=w966)
-
-극중 바나나 사건
 
 짧게 내용을 설명하면, 국어 기출문제로 문장을 보고 해석될 수 있는 문장 3가지를 서술하는 문제였다.
 
@@ -110,29 +90,24 @@ star.ohmynews.com
 
 스토리의 전개나 흐름상, 똑똑한 상위권 아이들의 되바라진 주장처럼 묘사된 측면이 있지만 개인적으로는 '문제의 모호함이 있다면 당연히 정답을 정정해야 하는 것 아닌가' 라고 생각했었다. 학생들이 이의를 제기한 날짜가 '스승의 날'로 나오는데, 은연중에 선생의 지식이나 권위가 약해지고 있고 존경이 사라지고 있다는 느낌을 전하는 듯 했다.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMjVfMjc5/MDAxNjc3MjU2NjM5Njky.D6X3XC_tDKu7148K1iwccjdDfX-ObcjvGFiPXE41hKog.nRYaJEcdnaya-RhABBn1Sw5FZ0vvJbAL6bNjFML_Y0Ag.PNG.whiteagle/%EA%B5%90%EB%AC%B4%EC%8B%A4%EC%9E%A5%EB%A9%B4.png?type=w966)
 
-블랙독 교무실 장면
 
 벌써 20년도 넘었지만 나도 학창 시절 중간기말 내신 시험에서 자주 '문제가 정확한 것인지'를 따지러 교무실에 자주 내려갔고, 정확하진 않지만 두번에 한번 꼴로는 복수정답 처리되었던 것 같다. 각종 문제집이나 근거를 모아서 문제를 제기했기에 선생님들도 당혹스러워 했을 것 같다. 그 때는 복수정답 인정에 따른 부수적인 문제가 드라마에서 본 것처럼 많은 줄 몰랐는데, 학생의 의견을 납득하고 정답으로 인정해 준 당시 선생님이 대단했구나 싶다는...
 
 여튼 바나나 사건은, 선생님들이 문제 하나를 낼때도 얼마나 신중하게 고민을 많이 하는지 그리고 우리가 살아가며 짤로나 보던 상황들을 얼마나 많이 마주치게 되는지를 상기하게 만들었다. 
 
-3.강남 8학군 대치동 사립고
+
+**3.강남 8학군 대치동 사립고**
 
 최근 아이가 초등학교 입학할 나이가 되며 이사 고민을 하고 있다. 아이가 어릴 때는 장인장모님 댁 근처에 사는게 정서적으로나 현실적으로 좋다고 생각해 강북에 자리를 잡았지만, 예전과 달리 괜찮은 학원이나 학군 같은 문제가 자꾸 눈에 밟히는 요즘이다. 아직 초등학교도 안갔는데 라는 생각이 들면서도, 벌써 초등학교에 갈 나이인데.. 라는 두가지 생각이 교차하는 중.
 
 블랙독에 나온 대치고등학교는 가상의 학교다. 하지만 '대치동'이라는 키워드가 우리 사회에 의미하는 바는 너무 선명하다. 학원가, 교육열, 강남, 경쟁, 입시... 대한민국의 모든 욕망이 모이는 곳. 사실 실제로 강남에서 살거나 강남에서 일해 보면 그 또한 일상이 되고, 삶이 되지만 극적인 소재이자 키워드인 건 맞다.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMjVfMTYw/MDAxNjc3MjU2NzQ4NTY4.yeE0QFXDW2BBbbFu8hVwMhtUnXNesPKD9OJI0xLdA84g.L-hBdz0j5l8wQrj_-R9GGosLejLO7KL2rkRT19yZUAgg.PNG.whiteagle/%EA%B5%90%EC%9C%A1.png?type=w966)
-
-*교육 통계 자료*
 
 사실 앞서 입시와 관련해선 사회적으로 이슈가 됐던 드라마들이 있다. 대표적인 것이 스카이캐슬. 스카이캐슬은 에두르지 않고 서울대 의대, 서울대 법대를 언급한다. 최근 인기 몰이중인 일타스캔들도 마찬가지다. 대학은 목적이고 목표다. 형이 경찰에 잡혀가도 중간고사가 먼저다.
 
 하지만 아이를 키워보니, 부모 욕심이란게 끝이 없다. 머리로는 말로는 아내와 함꼐 아이가 원하는 걸 하고 싶은 속도로 해주자고 하면서도, 이런 저런 이유로 다른 아이들과 비교하게 된다. 또 그 비교의 잣대는 워낙 높아 TV에 나오는 영재 아이들은 벌써 저런데.. 라는 생각을 은연중에 하게 된다. 나 또한 어린 시절에 그렇지 못했고, 스트레스를 받았을텐데. 시대와 상황, 살고 있는 곳이 달라졌다지만 이상을 현실에서 실천하기엔 나를 포함해 모든 부모가 나약하다.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMjVfNiAg/MDAxNjc3MjU2ODI2Njgy.yjVzX_3AZeekGKghmjv_wj9y_oncO44_ZnEpkd57DvMg.VpM7tLUP98EkFMkUgebRfSTywAOBi5a_3oM36LfVxVcg.JPEG.whiteagle/%EC%98%81%EC%9E%AC%EB%B0%9C%EA%B5%B4%EB%8B%A8.jpg?type=w966)
 
 영재발굴단을 보면.... 마음이 급해진다..
 
@@ -142,23 +117,12 @@ star.ohmynews.com
 
 더 다양한 경험을, 더 재미있게 아이와 함께 쌓아가고 싶은데. 드라마에 비친 학교 모습을 보고 있으면 이런 마음과 결심을 앞으로도 지켜갈 수 있을지 자신이 없다.
 
-[![](https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fdigitalspecial.joongang.co.kr%2F_o%2Fimg%2Fnewsroom%2F2017%2F0921_realty%2F1%2F610_thumb.jpg%22&type=ff500_300)](https://www.joongang.co.kr/digitalspecial/211)[
 
-**‘당신의 집은 안녕하십니까’ Ⅰ - 강남 집값의 비밀**
 
-강남 집값은 왜 비쌀까. 데이터로 보니 비밀은 OO이었다
-
-www.joongang.co.kr
-
-](https://www.joongang.co.kr/digitalspecial/211)
-
-4.이카로스와 황보통
+**4.이카로스와 황보통**
 
 나는 고등학교 때 심화반이었다. 우리학교는 사립 고등학교였는데 문이과를 통합해 70명 정도 심화반을 만들었다. 당시엔 심화반이 특별하다거나 차별의 소지가 있다는 생각을 전혀 못했다. 3학년 반 자체가 성적순으로 만들어졌는데 문과 1등 부터 40등까지가 1반, 이과 1등부터 40등까지가 13반(제일 끝반) 이런 식이었다. 심화반은 그 두반을 모아서 더 늦게 까지 자습하는 반 정도로 생각했다. 야자할때 심화반으로 이동해서 1시간 정도 수업을 듣고, 다른 아이들은 야간자율학습이 10시까지인데 심화반은 1시간이 추가되어 11시까지라는 것 정도만 달랐다고 기억했다.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMjVfNjYg/MDAxNjc3MjU2ODU1MDM1.udISa2OzBDBdFleUEP9BlZvuJIFhyeXie_4SywPz8-Yg.GvGcLer4qganMWUpsFNe0bAPoK2Kb0bM0--1SNekjjkg.JPEG.whiteagle/%EC%9D%B4%EC%B9%B4%EB%A1%9C%EC%8A%A4.jpg?type=w966)
-
-이카로스 모집장면
 
 하지만 블랙독의 이카로스(심화반-동아리로 위장)를 보고선 좀 생각이 달라졌다. 특별반을 만든다는 것 자체가, 그리고 그 반에 따로 선생님이 수업을 해준 다는 것 자체가 큰 차별일 수 있겠구나라는 생각이었다. 극중 이카로스에 우유로 테러를 하는 장면이 2번 정도 나왔고, 이전에도 학생들과 학부모의 항의 및 교육청의 제재로 심화반이 폐지되었다는 이야기가 나온다.
 
@@ -166,21 +130,16 @@ www.joongang.co.kr
 
 아마도 작가는 고하늘 선생님과 박성순 선생님을 통해 학교란 어떠해야 하는가에 대한 질문을 계속해서 던지고 있었던 것일지도 모른다. 그리고 이질문은 고하늘 선생님의 2년차 제자 황보통이 등장하며 더 구체화 된다. 자퇴라는 클리셰를 제외하면 황보통은 정말 보통의 남자 고등학생이다. 대치고에서는 낯설지 모르지만 지방 고등학교로 갈수록, 일반고, 실업계고로 갈수록 그런 친구들은 더 많다. 분명 누구나 talent는 가지고 있는데, 학교라는 곳은 몇몇 과목으로 그 능력을 줄세우기 때문에 그걸 보여줄 수 없는 아이들.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMjVfMjkw/MDAxNjc3MjU2OTE2ODIz.Xp1Jsd5TewR9FwT-ADfW4ejQ2VnR7coAvhCQfvweCvIg.yN80fKWfO8axRO3I7sBrHaTLOvsApLKS6-7brfz_7bcg.JPEG.whiteagle/%ED%99%A9%EB%B3%B4%ED%86%B5.jpg?type=w966)
-
 극중 황보통 학생
 
 드라마에선 황보통의 비중이 극의 전반부를 끌고간 고하늘 선생의 첫 제자 2명(진유라, 구재현) 못지 않다. 그리고 진유라나 구재현이 기존 체제 내 성장을 택한 인물이라면, 황보통은 틀 밖을 선택하는 인물이다. 조금은 다르지만 황보통을 보며 예전에 취업 전 함께 스터디를 했던 한 형님이 떠올랐다. 성과 이름이 비슷해서일까. 나보다 몇 년 늦게 취업한 그 형은 여러 회사를 거쳐 내가 다녔던 전 회사에 입사했다. 부서가 달라 한번 제대로 본적은 없지만, 블랙독을 보며 떠오른 그분은 아마도 더 폭넓게 세상을 경험하고 원하는 일을 향해 걸어왔을 것 같다는 생각이 들었다.
 
 황보통도 극 밖에서, 자신이 원하는 웹툰이란 일을 해 갈 것으로 기대한다. 혹시 시즌2가 나온다면 성공한 작가까진 아니더라도, 꾸준히 의미 있게 세상에 부딪치는 인물로 등장하길 기대해 본다.
 
-5.교사는 있지만, 스승은 없다.
+
+**5.교사는 있지만, 스승은 없다.**
 
 박성순 선생님은 강하다. 학교에선 미친개고, 교사로서 이상실현을 위해 열정을 잃지 않는다. 그러면서도 힘의 균형을 위해 교내 정치의 흐름 속에 몸을 맡기기도 한다. 그런 그도 가정에선 엄마고 아내다. 박성순 쌤의 남편인 여세창 분이 대단하다고 느껴지는 이유다.
-
-![](https://postfiles.pstatic.net/MjAyMzAyMjVfMjQ5/MDAxNjc3MjU2OTcxMDQz.bUT1B2Mu93j1OBOCOjD333xAwvnvd7mDeQNHiNUXlJUg.8xOKNrDKJ6-vQ6-HaqgsKfRk7V2a32T3t66aQPRZebMg.PNG.whiteagle/%EB%B0%95%EC%84%B1%EC%88%9C.png?type=w966)
-
-극중 박성순 선생님으로 나오는 라미란 분
 
 가정에서 아내의 빈자리를 10년이상 메워오기란 쉽지 않다. 그도 직장인이고, 만년 과장을 떼고 싶은 1인 이다. 직장에서의 성공을 미뤄두더라도 자녀에 대한 관심이나, 집안에 대한 애정을 볼 때 성순 쌤을 능가하는 인격자일테다.
 
@@ -190,19 +149,16 @@ www.joongang.co.kr
 
 말이 많은 동네라, 내가 이직을 택한 후에도 많은 소문을 들었다. 누군가는 안타까워 했고, 어떤 사람은 어리석을 결정이라고 했으며, 많은 사람들은 내 새로운 선택에 박수를 보내주기도 했다. 아직 채 1년도 되지 않았지만, 나는 아직 새로 묶은 운동화 끈이 마냥 편하진 않다. 밖에서 보는 선생님이라는 존재가 과거 존경할 '스승'의 이미지와 얼마만큼 일치하는지 모르겠고, 내가 몸담았던 일도 얼마나 공기로서 역할을 하는지 모르겠다.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMjVfMjI1/MDAxNjc3MjU3MTMzNzEw.Dm1orDr5MT8enpDcPe5gP32Fjtn_yHUKv3KPyaV1f2gg.Wis9LYBO2OIc48KbnDGAliYvuZbZJQpOEhhLucJFaJsg.JPEG.whiteagle/%EB%8F%84%EC%97%B0%EC%9A%B0.jpg?type=w966)
-
-극중 도연우 쌤
 
 아마도 박성순 선생님은 복직을 하고, 주요보직을 맡으며 학교에 오래 남을 것이다. 하지만 EBC 강의를 하는 도연우 선생님은 끝까지 교단에 남을까? 그 안에서 의미 있는 변화를 만들 수 있을까. 그리고 그 변화의 한계에 좌절하지 않을까. 알 수 없는 일이다. 누구도 다른 이의 선택을 온전히 이해할 수 없고, 따라서 그 것을 비난할 수도 없을테다.
 
-6.연애의 부재.. 아이스 아메리카노 같은
+
+**6.연애의 부재.. 아이스 아메리카노 같은**
 
 블랙독에서 많은 분들이 좋아하고 아쉬워한 부분은 연애의 부재다. 고하늘, 박성순, 도연우, 배명수로 이루어진 진학부 4인방은 불꽃 케미를 보여줬지만, 그 안에 사랑은 없었다. 우정이라 부르기에도 조금은 가볍고 쌉쌀한 느낌. 직장 동료로서 동지애를 가지지만 어떤 보이지 않는 선이 있고 각자는 각자의 삶의 고민을 이고 버텨낸다.
 
 누군가와 억지로 연애라인을 만들지 않고, 로코라는 당의정을 입히지 않은 건 대단하다고 생각한다. (아마도 시청률만 고려한다면 최소 1-2%는 더 나왔을텐데.. ) 사실 우리가 삶에서 일터에서 '사랑'을 '연애'를 중심에 놓고 사는 시간은 생각보다 짧다. 가슴설레고 뜨거운 시기라는 걸 부정하진 않겠지만 그 강력한 기억과 별개로 인생은 길고, 신경써야 할 것들은 너무 많다.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMjVfMTUg/MDAxNjc3MjU3MjAzNjAz.JceGL-s5zGAIrHek3TNM5gJzVr5qdEE7BXvBrtd-NDAg.7Jjd7iQiMSPctbNICIzhOXI5VRZ8P8IjFZiSnWFx8uwg.PNG.whiteagle/%EC%95%84%EC%95%84.png?type=w966)
 
 아아 마시고 싶다.
 
@@ -210,11 +166,9 @@ www.joongang.co.kr
 
 번외로 극 마지막에 배명수 선생님이 결혼한다며 고하늘 선생님과 도연우에게 청첩장을 주는 장면이 나오는데, 청첩장에 신부 이름이 김나리라고 적혀 있었다 시청자들인 김나리 찾기에 돌입했고 사실은 스텝이름이었다고....
 
-![](https://postfiles.pstatic.net/MjAyMzAyMjVfMjcg/MDAxNjc3MjU3Mjc4NzQ3.axMycTr8cbHwm44HIQt2dMuH1K6WsxYsOnBTZ6calYAg.rMqb85kr8bRojbN-R7FFuIdNax-BMNC5coTHcc64hMAg.PNG.whiteagle/%EA%B9%80%EB%82%98%EB%A6%AC%EC%8C%A4.png?type=w966)
 
-명수쌤 청첩장.
 
-7.나가며 : 블랙독 시즌2 만들어 주시실
+**7.나가며 : 블랙독 시즌2 만들어 주세요**
 
 이렇게 글이 길어질 줄은 몰랐다. 하지만 오랫만에 어린 학창시절을 생각하고 전 직장을 생각하고, 가족을 생각하고, 교육을 생각하며 봤던 드라마다.
 

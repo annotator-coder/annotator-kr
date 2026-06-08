@@ -2,7 +2,7 @@
 title: '''블랙홀 옆에서'' 서평 1편 - 우리가 우주를 지금 쳐다봐야 하는 이유'
 date: '2023-03-17'
 category: 서평
-excerpt: 미국인들이 가장 좋아하는 천체물리학자 닐 디그래스 타이슨의 책. 국내에선 우주천체 관련 서적이 큰 인기...
+excerpt: 미국인들이 가장 좋아하는 천체물리학자 닐 디그래스 타이슨의 책. 
 readingTime: 5
 relatedPortfolioSlugs: []
 sourceUrl: >-
@@ -10,7 +10,7 @@ sourceUrl: >-
 ---
 '블랙홀 옆에서' 서평 1편 - 우리가 우주를 지금 쳐다봐야 하는 이유
 
- [![프로파일](https://blogpfthumb-phinf.pstatic.net/MjAyMzEwMTNfMjA0/MDAxNjk3MTgxMTM5MTA2.EEA8VHZxZ9eRy07PHZ9jU4O6ZuWSFFO9SvWTqpH5qP4g.QnMuhZvISYOc2aoiWKVFm1D1knvqjRynpx2o3gHwE68g.PNG.whiteagle/letter-ano.png/letter-ano.png?type=s1)](https://blog.naver.com/annotator) [annotator](https://blog.naver.com/annotator) *・* 2023\. 3. 17. 6:00
+ *・* 2023\. 3. 17. 6:00
 
 ![](https://postfiles.pstatic.net/MjAyMzAzMTZfMTI0/MDAxNjc4OTAyMjEyOTgw.pjYWrx2UX55hteaOF7fCIJqq1B0Ja3_nWAvwPJDPaIog.8u8WUUWLUypceEw7RMPKxEokmBcvV9yV95vvFqESgegg.PNG.whiteagle/%EB%B8%94%EB%9E%99%ED%99%80%EC%98%86%EC%97%90%EC%84%9C_(1).png?type=w966)
 
@@ -22,9 +22,6 @@ sourceUrl: >-
 
 사진과 여행을 좋아해서일까. 한번씩 해외에서 끝없이 펼쳐진 지평선 위로 검은 밤하늘을 보거나, 은하수가 정말 흐른다는 걸 체감 해보고 나면 **우주에 대한 신비와 경외감을 놓기 힘들다**.
 
-![](https://postfiles.pstatic.net/MjAyMzAzMTZfMTc4/MDAxNjc4OTAwMzM1NTA1.Jk2LnC7X6cLXmIOkHyp-gonvb2fdArmMgzlWXKAp8Xwg.NWCHYlLVlR8JbuP5xEa6-44S677rxna9m_JDaxOCTYsg.JPEG.whiteagle/g0ca88d0fc459db7c7b7aa60bc51fa331d451538147b8826d99b43f134302dc0b22d38ebba0c.jpg?type=w966)
-
-[© FelixMittermeier, 출처 Pixabay](https://pixabay.com/users/FelixMittermeier)
 
 **우주는 철학과 종교의 근원이며, 동시에 과학이 궁극적으로 도달하고자 하는 목표**이기도 하다. 최근엔 우주 또한 산업으로서 주목받으며 일론머스크의 스페이스X 같은 곳이 주목받아왔고, 국내에서도 우주항공청을 만들자는 이야기가 나오는 등 우주에 대한 관심이 조금씩 늘고 있다.
 
@@ -38,23 +35,11 @@ sourceUrl: >-
 
 ---
 
-[
 
 ![](https://shopping-phinf.pstatic.net/main_3248145/32481452506.20221019114429.jpg)
 
 **블랙홀 옆에서**
 
-저자
-
-닐 디그래스 타이슨
-
-출판
-
-사이언스북스
-
-발매
-
-2018.04.30.
 
 **1부 우리가 안다는 것**
 
@@ -110,9 +95,7 @@ sourceUrl: >-
 
 **주.** **우주를 이해한다는 것. 우리가 눈으로 가서 보고, 듣고, 맛보며 오감으로 뭔가를 느끼는 일이 아니다. 이는 필연적으로 왜곡이 수반될 수 밖에 없다. 대신 물리학자들은 완전한 법칙을 통해 우주를 이해한다. 이는 어쩌면 앞으로의 인공지능이 세상을 이해하는 방식과 닮아 있을지 모른다. 데이터를 기반으로 정합성을 따져 하나의 법칙을 학습하게 되면, 그 잣대로 세상을 이해하게 될 것이다.**
 
-![](https://postfiles.pstatic.net/MjAyMzAzMTZfMTIx/MDAxNjc4OTAxNDI1MDcy.2cBF8JDrc442n0tr4vTIBs9TPJJlcotc4DYRJ7zNT9Eg._nmOtaKdpKRyzqX7fei_hRUtmxYPWa7Mu_TPFmFqIdkg.JPEG.whiteagle/g27ad267b7974d5b234e2b6fb959d1113549b7936ffb2a5b6b4478fff3898544c1755c861a5b.jpg?type=w966)
 
-[© DeltaWorks, 출처 Pixabay](https://pixabay.com/users/DeltaWorks)
 
 ---
 
@@ -142,9 +125,6 @@ sourceUrl: >-
 
 ****
 
-![](https://postfiles.pstatic.net/MjAyMzAzMTZfMjYw/MDAxNjc4OTAxNjI4ODgx.etvvljAFOCYsHRKnfMCFXMGSkwNEaSnSeLzq-SbjQ8Ag.KK_STQzv-vGAYcK8rPGNP_sh0kiNHXzULC9RioqEPukg.PNG.whiteagle/image.png?type=w966)
-
-슬램덩크의 유명한 장면. 변덕규가 깨달음을 주는 장면.
 
 ---
 
@@ -162,9 +142,6 @@ sourceUrl: >-
 
 **주1.** **에두아르 알베르 로슈는 프랑스의 천문학자다. 1850년 로슈한계를 계산했다. 이에 따르면 중심이 되는 행성에 외부에서 접근하는 소행성이나 혜성이 가까워지면 부서지고 만다. 그 이후엔 토성의 고리처럼 부서진 것들이 고리가 된다.**
 
-![](https://postfiles.pstatic.net/MjAyMzAzMTZfMTgx/MDAxNjc4OTAxNzMxNDYy.P8N4XdBdvOc0P7yjMh2Td4SRkuMQkrq5_FiLLLj5PoIg.sZOp-XowNphZZu11DEB4aqo6qa2U0gOJYDOovZSAL4sg.PNG.whiteagle/image.png?type=w966)
-
-토성의 고리는 멀리서 보면 아름답지만 사실은 파편이다. 출처=구글
 
 **주2.** **누군가를 끌어당기는 사람들이 있다. 너무 매력적인 부분이 있는 이도 있고, 왠지 모를 끌림이 있는 이도 있다. 하지만 로슈한계로 보자면 그 끌림에도 적절한 한계선이 필요하다. 너무 가까우면 붕괴되고, 파편이 되어 그 사람의 주위를 맴돌게 될 뿐일지 모른다.**
 
@@ -178,9 +155,6 @@ sourceUrl: >-
 
 **주.** **우세함이 기준이 된다. 시계의 바늘은 오른쪽으로 돈다고 누구나 생각하지만, 결국 사람이, 인류가, 문명이 북반구에서 시작되어 우세했기 때문이다. 만일 남반구에서 인류가 먼저 부흥기를 맞았다면 시계는 반대로 돌고 있을지도 모른다.**
 
-![](https://postfiles.pstatic.net/MjAyMzAzMTZfMTk0/MDAxNjc4OTAxNzcxODcx.hNKTsEOLw5-WQkiO4CH1BMYMA57gR20GIQovbOO5wnAg.uhDiDTgeuoFNth50xzHA0_F2fWdEayPMnSKGz5ujas4g.JPEG.whiteagle/1509308.jpg?type=w966)
-
-[© CoolPubilcDomains, 출처 OGQ](https://www.ogqbackgrounds.com/backgrounds/1509308)
 
 ---
 
@@ -192,8 +166,5 @@ sourceUrl: >-
 
 글을 보시는 분들도 각자의 주석을 달아보시길 권한다. 2편에서 돌아오겠다.
 
-![](https://postfiles.pstatic.net/MjAyMzAzMTZfMTMy/MDAxNjc4OTAwMjgzMjU2.Oezx_PbPdUDgtML_Mpyb-BtitBPeybobPZhVIJyt8pEg.GlqD0GzRVCHvrsWJx-IMAkeLFRavmKu0ZDywfCoLckUg.JPEG.whiteagle/%EB%8B%90.jpg?type=w966)
-
-저자 닐 디그래스 타이슨
 
 ---

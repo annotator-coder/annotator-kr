@@ -3,22 +3,23 @@ order: 30
 title: Blood Donor Dog Edge — A Detection Dog's Letter
 category: Public Interest Journalism
 tags:
-  - Public Interest
-  - First-Person Narrative
-  - Animal Welfare
-  - Social Change
-  - Detection Dog
+  - InvestigativeReporting
+  - FirstPersonNarrative
+  - AnimalWelfare
+  - SocialChange
+  - DetectionDog
 year: '2012'
 tagline: >-
-  One article written from a detection dog's perspective — led to SBS broadcast,
-  a children's book, and a national Hyundai campaign
+  One article written from a detection dog's perspective — led to SBS Animal
+  Farm, a children's book, and a Hyundai Motor nationwide campaign
 description: >-
   The story of Edge, a Labrador Retriever who served 9 years — first as a drug
   detection dog, then as a blood donor dog. Discovered during a visit to Seoul
-  National University veterinary hospital; written from Edge's first-person
-  perspective. Generated 100+ adoption applications, SBS Animal Farm coverage, a
-  children's book publication, and eventually a Hyundai Motor nationwide blood
-  donor dog campaign.
+  National University Animal Hospital; written from Edge's first-person
+  perspective, the article generated enormous response. It led to 100+
+  adoption applications, SBS Animal Farm coverage, a children's book
+  publication, and eventually a Hyundai Motor nationwide blood donor dog
+  campaign.
 problem: >-
   Blood donor dogs existed but were almost unknown to the public. A data-heavy,
   institutional article wouldn't move readers emotionally. Telling the story
@@ -26,8 +27,8 @@ problem: >-
   convey the institutional problem and deliver genuine emotion.
 approach:
   - >-
-    Stumbled upon Edge's story during a vet interview at Seoul National
-    University's animal hospital; developed it into an exclusive feature
+    Stumbled upon Edge's story through a veterinarian during a visit to Seoul
+    National University Animal Hospital; developed it into an exclusive feature
   - >-
     Chose first-person narration from Edge's perspective instead of conventional
     3rd-person reporting — from detection dog training to blood donation service
@@ -36,8 +37,8 @@ approach:
     prompt reader action
   - >-
     Published 2 follow-up pieces after successful adoption — responses included
-    a primary school student's cash donation, a former National Assembly member,
-    and an overseas consulate
+    a primary school student with a cash donation, a former National Assembly
+    member, and an overseas consulate
 outcome:
   - >-
     Hundreds of adoption inquiries after publication; 100+ formal adoption

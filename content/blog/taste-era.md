@@ -2,7 +2,7 @@
 title: 취향 시대
 date: '2018-07-11'
 category: 에세이·칼럼
-excerpt: "취향 중심주의에 대하여 | #취향 시대   이게 통할까? 콘텐츠를 만들다 보면\_\\\"이건 통할까?\\\"라는\_생각을 많이 한다. 콘텐츠는 제작은 오래 걸리지만, 제작이 완료되면 배포와 반응이 거의 실시간으로 이뤄지는 경우가 대부분이라 답안지를 제출하자마자 '성적표'를 받는 "
+excerpt: "취향 중심주의에 대하여"
 readingTime: 3
 relatedPortfolioSlugs: []
 sourceUrl: 'https://brunch.co.kr/@louisjung/3'
@@ -29,9 +29,10 @@ sourceUrl: 'https://brunch.co.kr/@louisjung/3'
 
 아직까지 '네이버'의 영향으로 주류 독자들은 네이버가 선택한 큐레이션에 따라 콘텐츠를 소비(네이버는 활자 중심에서는 아직 왕이다)한다. 첫 화면에 있는 기사는 50~60만 뷰를 쉽게 찍는다.
 
-![](https://img1.daumcdn.net/thumb/R1280x0.fwebp/?fname=http://t1.daumcdn.net/brunch/service/user/yRY/image/jPPKAYEPQV1Uel7rAijDdkd5SNs.PNG) 네이버 메인에 걸린다 = 성공한 콘텐트 라는 깨기 어려운 공식
 
 하지만 점차 독자의 관심사는 다양해지고, 분화하는 방향으로 나가고 있다. 여러 가지 이유가 있겠지만, 두 가지 정도를 언급해 보고자 한다.
+
+
 
 **1\. 페이스북이나 인스타그램 등 SNS의 영향**
 
@@ -51,7 +52,7 @@ SNS는 소셜 네트워크 서비스다. 여기의 핵심은 **네트워크** �
 
 기사 하나를 언급하자면.... (중략) **합정 '취향관'은 사색과 대화가 있는 프랑스 살롱 문화를 재현하는 걸 목표로 한다. 온라인 플랫폼에서 지친 이들이 찾는다.**
 
-<관련기사: “대화가 필요해” 요즘 다시 뜨는 살롱문화: [http://news.joins.com/article/22746947](http://news.joins.com/article/22746947) >
+<관련기사: “대화가 필요해” 요즘 다시 뜨는 살롱문화:[http://news.joins.com/article/22746947](http://news.joins.com/article/22746947) >
 
 > 흥미로운 트렌드다.  
 
@@ -93,12 +94,3 @@ SNS는 소셜 네트워크 서비스다. 여기의 핵심은 **네트워크** �
 
 자 다시 내일 뭘 먹고 살지 고민하러 가자.
 
-**keyword**[빨리 자라고자, 속성으로 인생을 경험할 수 있겠다 싶은 기자가 됐지만, 플레이어가 아닌 관찰자로 사는게 못내 아쉬워 스타트업으로 옮겼습니다. 다양 일상과 이야기를 남겨보고자 합니다](https://brunch.co.kr/@louisjung)[**오늘만 무료**](https://brunch.co.kr/@rokafhwang/2618)
-
- [![오늘만 무료 슬롯](https://img1.kakaocdn.net/thumb/C720x360.fpng/?fname=http://t1.kakaocdn.net/brunch/service/user/4gFr/image/cbpSYDkSwkKhsM7O_5znKRTScic.png) brunch membership
-
-좋은 서평을 쓰는 다섯 가지 방법
-
-by황상열](https://brunch.co.kr/@rokafhwang/2618)
-
-[매거진의 이전글 **매일이 똑같고 허무한가요?**](https://brunch.co.kr/@bogeum/34)[**F5 누르기에 대하여** 매거진의 다음글](https://brunch.co.kr/@louisjung/4)

@@ -9,50 +9,26 @@ tags:
   - Brand Journalism
   - Integrated Campaign
 year: '2025'
-tagline: >-
-  A full-scale integrated campaign planned and produced entirely in-house,
-  without an external agency
+tagline: 'A full-scale integrated campaign — planned, produced, and executed entirely in-house without an external agency'
 description: >-
-  An integrated campaign developed around the message "The most radiant energy
-  is people" for an energy company's 58th anniversary. 40 black-and-white photos
-  of frontline workers anchored an online trilingual site
-  (Korean/English/Japanese), an offline touring exhibition (4 venues from Seoul
-  to Yeosu), AI video, gas station media facades, and newspaper ads — all
-  delivered simultaneously. Planning, AI video production, and web development
-  were handled entirely in-house by the PR team.
+  An integrated campaign built around the message "The most radiant energy is people" for an energy company's 58th anniversary. 40 black-and-white photos of frontline workers anchored an online special site (Korean/English/Japanese trilingual), an offline touring exhibition (4 venues from Seoul to Yeosu), AI video, gas station media facades, and newspaper ads — all executed simultaneously. Planning, AI video production, and web development were handled entirely by the in-house PR team without any external agency.
 problem: >-
-  The routine of limiting anniversary communications to press releases and
-  internal events needed to be broken. The challenge was to deliver the message
-  "people's energy is hope" both internally and externally — to an industry and
-  region facing hardship — while combining employee pride and industry
-  authenticity in a single campaign.
+  The convention of limiting anniversary communications to press releases and internal events needed to be broken. The challenge was to deliver the message "people's energy is hope" simultaneously to internal and external audiences — to an industry and region facing difficulty — while weaving employee pride and industry authenticity into a single campaign.
 approach:
+  - 'Campaign concept design: 40 B&W field worker photos organized under 4 themes — I (Self) / You (Other) / We (Together) / Future'
+  - 'Online special site built in-house — trilingual (KO/EN/JP), online photo exhibition, AI motion video screening'
+  - Online photo exhibition and acrostic poem event planned and operated via the company's fuel app
   - >-
-    Designed campaign concept: 40 B&W field worker photos organized under 4
-    themes — I / You / We / Future
-  - >-
-    Built the online special site in-house — trilingual (KO/EN/JP), online photo
-    exhibition, AI motion video screening
-  - >-
-    Planned and operated an online photo exhibition + acrostic poem event linked
-    to the company's fuel app
-  - >-
-    Offline touring exhibition: Seoul HQ (5/12–5/23) → Seoul city gallery
-    (5/25–6/23) → Yeosu cultural venue (6/24–7/25) → Yeosu plant (7/26–8/31)
-  - >-
-    Deployed 3 gas station media facades, outdoor ads at Yeocheon Station,
-    simultaneous placement in 18 print outlets
+    Offline touring exhibition: Seoul HQ (5/12–5/23) → Seoul city gallery (5/25–6/23) → Yeosu cultural venue (6/24–7/25) →
+    Yeosu plant (7/26–8/31)
+  - '3 gas station media facades, outdoor ads at Yeocheon Station, simultaneous newspaper placement across 18 outlets'
   - Integrated press release distribution and media response management
 outcome:
-  - 'Online site: 15,255 cumulative visits (5/12–7/10)'
+  - 'Online site cumulative visits: 15,255 (5/12–7/10)'
   - 'App event: 38,964 visitors, 2,232 participants'
-  - Covered by 73 media outlets including OBS and MTN broadcast
-  - >-
-    18-outlet newspaper ad placement, outdoor ads and media facades deployed
-    simultaneously
-  - >-
-    Entire campaign — planning, AI video, web development — executed entirely
-    in-house by the PR team
+  - '73 media outlets covered the campaign, including OBS and MTN broadcasts'
+  - '18-outlet newspaper ad placement, outdoor ads and media facades executed simultaneously'
+  - Entire campaign — planning, AI video production, web development — completed entirely in-house by the PR team
 links:
   - label: Online Photo Exhibition (Media Hub)
     url: 'https://gscaltexmediahub.com/gsc-exhibition/?lang=ko'

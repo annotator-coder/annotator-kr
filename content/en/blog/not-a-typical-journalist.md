@@ -1,11 +1,8 @@
 ---
-title: Not a Typical Journalist
-date: '2012-01-01'
+title: "Not a Typical Journalist"
+date: '2021-04-01'
 category: Essay & Column
-excerpt: >-
-  Dev-journalist, design-journalist, PD-journalist, data-journalist. Colleagues
-  gave me these nicknames. I kept hearing I didn't seem like a journalist — and
-  at some point that stopped sounding like an insult.
+excerpt: "Dev-journalist, design-journalist, PD-journalist, data-journalist. Nicknames my colleagues gave me. I kept hearing I didn't seem like a journalist — and at some point that stopped sounding like an insult."
 readingTime: 7
 relatedPortfolioSlugs:
   - factpl
@@ -13,59 +10,54 @@ relatedPortfolioSlugs:
 ---
 My colleagues gave me several nicknames.
 
-Dev-journalist (developer + journalist), design-journalist, PD-journalist, data-journalist.
+Dev-journalist (developer + journalist), design-journalist (designer + journalist), PD-journalist (PD + journalist), data-journalist (data analyst + journalist).
 
 I kept hearing that I didn't seem like a journalist, and at some point that stopped bothering me.
 
----
 
-When people hear you've been a journalist for over ten years, they have a picture. Breaking news, exclusives, sources, deadline endurance. I had that chapter — covering courts and police in the social desk, at one point living by my phone waiting for the right moment to break a story. That life existed.
+When people hear you've been a journalist for over ten years, they have a picture: reporting chops, exclusives, sources, the ability to make deadlines. There was a time I fit that picture — covering the police beat on the social desk, living with my phone in hand waiting for the right moment to break a story. That life existed.
 
 But even then, I was thinking about other things.
 
-In 2011 I made a Twitter account called "Underliner." The concept: only post sentences worth underlining from books. No explanation, just the sentences. No particular reason — it just seemed interesting. A few years later, services like "Bookend" appeared. I'd already been doing it; I just didn't know it was an idea.
+In 2011, I created a Twitter account called "Underliner." The idea was to post only sentences worth underlining from books I was reading — nothing else. No particular reason. It just seemed like fun. A few years later, services like "Bookend" emerged. I'd already been doing it; I just didn't know it was an idea.
 
-In 2017 I made a Facebook page called "Bitcoin News." Bitcoin was just starting to be known. The page did well. I heard "hey, was that you?" quite a few times afterward.
+In 2017 I made a Facebook page called "Bitcoin News." Bitcoin was just beginning to be known. The page did well. "Hey, was that you who made it?" — I heard that quite a few times afterward.
 
-I started an R study group inside the company. We'd study data analysis together. "Why are journalists learning R?" was the look I got. I thought: what's it to you?
+I started an R study group at the company — a group to study data analysis together. Journalists learning R drew some skeptical looks. My reaction: what's it to you?
 
----
 
-It wasn't common for a journalist to walk into the editor's office with a business proposal.
+It's not common for a journalist to walk into the editor's office with a proposal.
 
-I did that occasionally. "What if we tried something like this?" That's how I got involved with FactPL, with the newslab.
+I did occasionally. "What if we tried something like this?" That's how I ended up involved with FactPL, and then the newslab.
 
-When we were building FactPL, I wasn't just someone writing articles. I designed the newsletter format, laid out the homepage wireframes myself, analyzed subscriber data to understand which content types drove open rates. I proposed a StoryPoll — an integrated survey-plus-content format — and ran it. Readers responded. I made responsive racing chart videos of IT company growth histories. When Clubhouse blew up, I opened a creator economy room and talked directly with readers.
+When we were building FactPL, I wasn't just someone writing articles. I designed the newsletter format, laid out homepage wireframes myself, analyzed subscriber data to understand which kinds of content drove open rates. I proposed a StoryPoll — an integrated survey-and-content format — and actually ran it. Readers responded. I made responsive racing charts tracing the growth histories of major tech companies. When Clubhouse blew up, I opened a room on creator economy and talked directly with readers.
 
-"There he goes again with something new." Something colleagues said often. They were right.
+"There he goes again with something new." Something my colleagues said often. And they were right.
 
-I showed up at early Publy and pitched a "Presidential Election User's Manual" collaboration. The bespoke 3040 economics media, the Know/edge algorithm-filter-fighting personalization service — those proposals are still in files somewhere. None were actually built. But those ideas accumulated and eventually became things like FactPL.
+I showed up at early-stage Publy and pitched a co-production: "Presidential Election User's Manual." Business plans for *bespoke*, an economics outlet targeting people in their 30s and 40s, and *Know/edge*, a personalization service designed to counteract algorithmic filter bubbles — those proposals are still in some file somewhere. None were actually built. But those thoughts accumulated, and I believe they eventually turned into things like FactPL.
 
----
 
-One thing is consistent looking back.
+Looking back, there's one consistent thread.
 
 Community.
 
-Underliner was built because reading alone and not showing anyone felt like waste. That became a Twitter gathering that exceeded 1,000 followers — a Google Doc where we'd collect and vote on good sentences, with offline meetups. In retrospect, quite a serious community, though at the time I just did it because it was fun.
+Underliner was built because reading alone and showing no one felt like waste. That became a Twitter gathering with over 1,000 followers — a Google Doc where we collected good sentences together, held votes, and organized offline meetups. In retrospect, quite a serious community — but at the time I just did it because it was fun.
 
-The Bitcoin page was similar. Early on, people gathering to share information. Later, actual buyers emerging. Trades being arranged in the page. By 2017 standards — before Bitcoin was widely known — that was real.
+The Bitcoin page was similar. Early on, it was people gathering to share information. Later, people were actually buying and selling. Trade information was passing through the page. By 2017 standards — before Bitcoin was widely known — that was real activity.
 
-When I was on the data journalism team in 2018 and invited readers to an event, same logic: I was tired of putting out articles and having it end there. I wanted to hear the reactions directly.
+In 2018, when I was on the data journalism team and invited readers to a meetup, the logic was the same: I was tired of putting out articles and having it end there. I wanted to hear reactions directly.
 
-I think I kept hitting the limit of unilateral content delivery. I report alone, write alone, file to a portal alone. See whether it worked in numbers. But behind those numbers are people.
+I think I kept hitting the limit of one-way content delivery. I report alone, write alone, file to a portal alone. See if it worked through numbers. But behind those numbers are people.
 
----
 
-There's one more story.
+There's one more thread.
 
-I once rented and renovated a house in Manwon-dong and ran it as a guesthouse. The conversations I had with people I met there became a column called "Manwon-dong Silk Stocking." I made YouTube interviews with an independent bookshop owner and a carpentry studio owner, got deep into woodworking, and went around declaring "if I quit journalism I'm becoming a furniture designer." (It didn't happen.)
+I once rented a house in Manwon-dong, renovated it, and ran it as a guesthouse. The conversations I had there with the people I met became a column called "Manwon-dong Silk Stocking." I made YouTube interviews with an independent bookshop owner and a carpentry studio owner, got deep into woodworking, and went around declaring: "If I quit journalism, I'm going to be a furniture designer." (It didn't happen.)
 
-I kept having this interest in lifestyle. I think the more precise version is: I was more interested in whether articles reached into someone's life than in writing the articles. Content connected to living. Somewhere where content and life intersected. That's something I never found inside the newsroom.
+I kept coming back to lifestyle. I think the more precise statement is: I was more interested in whether articles actually reached into someone's life than in writing the articles themselves. Content connected to living. Somewhere where content and life intersected. That's something I never found inside the newsroom.
 
----
 
-There's a fixed image of a journalist.
+There's a fixed image of what a journalist is.
 
 I kept departing from it. That's why I kept hearing I didn't seem like a journalist, and eventually why I ended up somewhere else.
 

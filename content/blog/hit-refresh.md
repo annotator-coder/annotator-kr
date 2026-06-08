@@ -3,8 +3,7 @@ title: F5 누르기에 대하여
 date: '2018-07-13'
 category: 에세이·칼럼
 excerpt: >-
-  <히트 리프레시> | p.15. (               )는 관료주의가 혁신을 대체했고, 사내 정치가 팀워크를 대신했다. 우리는
-  낙오했다. p.111 대부분의 직원이 (                )가 올바른 방향으로 가고 있지 않으며, 혁신 역량을 갖췄는지에도 
+  <히트 리프레시> 
 readingTime: 4
 relatedPortfolioSlugs: []
 sourceUrl: 'https://brunch.co.kr/@louisjung/4'
@@ -22,6 +21,8 @@ sourceUrl: 'https://brunch.co.kr/@louisjung/4'
 자 첫번째 문제. 괄호안에 들어갈 단어는?
 
 1.마이크로소프트 2. 우리 회사 3.남의 회사
+
+
 
 '성장'하고 있는 회사에 다니고 계신다면 3번을 골랐을지 모르겠다.
 
@@ -104,13 +105,3 @@ MS 관련해서 보도 내용을 잠깐 보면..
 근데... 이런 질문을 왜 내가 하고 있는거지????
 
 자 역시나 일하러 갈 시간이다.
-
-**keyword**[빨리 자라고자, 속성으로 인생을 경험할 수 있겠다 싶은 기자가 됐지만, 플레이어가 아닌 관찰자로 사는게 못내 아쉬워 스타트업으로 옮겼습니다. 다양 일상과 이야기를 남겨보고자 합니다](https://brunch.co.kr/@louisjung)[**오늘만 무료**](https://brunch.co.kr/@rokafhwang/2618)
-
- [![오늘만 무료 슬롯](https://img1.kakaocdn.net/thumb/C720x360.fpng/?fname=http://t1.kakaocdn.net/brunch/service/user/4gFr/image/cbpSYDkSwkKhsM7O_5znKRTScic.png) brunch membership
-
-좋은 서평을 쓰는 다섯 가지 방법
-
-by황상열](https://brunch.co.kr/@rokafhwang/2618)
-
-[매거진의 이전글 **취향 시대**](https://brunch.co.kr/@louisjung/3) [**NC소프트, 배달의 민족이 미디어를 만든 이유** 매거진의 다음글](https://brunch.co.kr/@louisjung/5)

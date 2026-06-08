@@ -18,7 +18,7 @@ approach:
   - 'Vercel 배포, 대외 공유용 URL 운영'
 outcome:
   - 주요 IR·미디어 배포 채널로 활용
-  - 업계 관계자로부터 "이런 형태의 브로슈어 처음 봤다" 반응
+  - 수천 만원대 홍보 디지털 브로슈어를 대체하는 자체 제작 브로슈어로 신속한 업데이트
 href: 'https://gs-caltex-brochure-annotator-s-projects.vercel.app'
 featured: false
 relatedBlogSlugs: []
