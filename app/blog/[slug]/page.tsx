@@ -6,6 +6,7 @@ import remarkGfm from 'remark-gfm'
 import { getPostBySlug, posts } from '@/lib/blog'
 import { getProjectBySlug } from '@/lib/portfolio'
 import JsonLd from '@/components/JsonLd'
+import { getKoAlternates } from '@/lib/hreflang'
 
 interface Props {
   params: Promise<{ slug: string }>
@@ -22,7 +23,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: post.title,
     description: post.excerpt,
-    alternates: { canonical: `https://annotator.kr/blog/${slug}` },
+    alternates: getKoAlternates(`/blog/${slug}`),
     openGraph: {
       title: post.title,
       description: post.excerpt,

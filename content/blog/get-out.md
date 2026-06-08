@@ -1,0 +1,123 @@
+---
+title: '비현실적 현실 영화 겟아웃 Get out, 무거운 그러나 지금도 답하지 못한 광기에 관한 질문'
+date: '2023-03-09'
+category: 영화·드라마
+excerpt: 서로 다름은 어디까지 인정받을 수 있을까. 공포 스릴러라는 형식을 차용해 묵직한 질문을 던지는 영화 겟 ...
+readingTime: 2
+relatedPortfolioSlugs: []
+sourceUrl: >-
+  https://blog.naver.com/PostView.naver?blogId=annotator&logNo=223038085601&categoryNo=20&parentCategoryNo=&from=thumbnailList
+---
+비현실적 현실 영화 겟아웃 Get out, 무거운 그러나 지금도 답하지 못한 광기에 관한 질문
+
+ [
+
+**겟 아웃**
+
+감독
+
+조던 필
+
+출연
+
+브래드리 휘트포드, 앨리슨 윌리암스, 캐서린 키너, 다니엘 칼루야
+
+개봉
+
+2017\. 05. 17.
+
+****
+
+---
+
+****
+
+**스토리 요약**
+
+기대되는 사진작가인 크리스 워싱턴(대니얼 칼루야)는 백인 여자친구 로즈 아미티지(앨리슨 윌리엄스)와 사귀고 있습니다.
+
+로즈의 집으로 초대받은 크리스는 걱정하며 로즈의 집으로 가지만 의외로 로즈의 부모님은 그를 환대합니다. 집안 곳곳을 안내하며 가정부 조지나와 정원사 월터를 소개해 주기도 하죠.
+
+**23 아이덴티티**
+
+감독
+
+M. 나이트 샤말란
+
+출연
+
+제임스 맥어보이, 안야 테일러 조이
+
+개봉
+
+2017\. 02. 22.
+
+그 밖에도 겟아웃은 탈출, 회피란 의미 외에 '**알려지다**'라는 뜻도 가지고 있습니다. 영화에서는 흑인에 대한 차별과 동시에 질시 등 추악한 민낯이 폭로되고 알려진다는 의미도 가진다고 해석할 수 있습니다.
+
+---
+
+****
+
+**인종 우열적 사고**
+
+이 마을의 백인은 흑인의 신체적인 능력을 탐합니다. 더 건강하고 탄력있는 몸을 취하고자 마을 전체를 일종의 영생의 도구로 만든 것이죠. 로즈는 일반사회에서 흑인을 유인해 마을로 데려오는 역할을 맡았구요. 마을에 온 흑인은 뇌이식을 통해 백인에게 몸을 빼앗깁니다. 가정부 조지나는 로즈 할머니의 뇌를, 정원자 월터는 할아버지 뇌를 이식 받았다는 걸 우리는 뒤늦게 알아챕니다.
+
+이는 서구가 백인중심적인 사고로 세상을 바라본다는 측면에선 오래된 패러독스입니다. 백인과 흑인이라는 틀을 벗어나 봐도 마찬가지입니다. 아돌프 히틀러는 게르만 민족이라는 프레임으로 민족우월주의에 광기에 휩싸였고, 반유대주의에 미쳐 홀로코스트라는 역사적 비극을 만들었죠.
+
+**미드소마**
+
+감독
+
+아리 에스터
+
+출연
+
+윌 폴터, 플로렌스 퓨, 윌리엄 잭슨 하퍼, 잭 레이너
+
+개봉
+
+2019\. 07. 11. / 2019\. 10. 03. 재개봉 / 2020\. 04. 22. 재개봉
+
+---
+
+**나가며 (스포일러 포함)**
+
+앞쪽에서 다하지 못한 스토리를 이어가면
+
+로즈의 집에 있는 조지나와 월터 두 사람은 흑인이 자주 쓰는 단어를 이해하지 못하거나, 전 세대의 백인들이 주로 쓰던 언어를 쓰기도 합니다.
+
+그리고 크리스가 도망치려는 순간 여자친구 로즈의 짐에서 수많은 다른 흑인들과 찍은 사진을 발견하죠. 가정부였던 조지나, 정원사였던 로즈와도 연인처럼 사진을 찍었죠. 실종된 많은 사람들을 외부에서 끌고 온 것이 여자친구였던 로즈인겁니다.
+
+![](https://postfiles.pstatic.net/MjAyMzAzMDhfODIg/MDAxNjc4MjEwNDc2NDQ0.vowZKle70IU8OnM7XuKFNp7PpcD8_mXD4nNuppCPqE8g.Zp7Aa07pLQoJL3XK3MZ2so6ToiOfYHFpADNOfn2oImsg.JPEG.whiteagle/CHAIR.jpg?type=w966)
+
+의자에 묶인 크리스
+
+서둘러 떠나려던 크리스를 집안사람들은 가로막습니다. 그리고 최면을 걸죠. 크리스는 온몸이 묶인 채 한 영상을 봅니다. 흑인의 몸에 백인의 뇌를 이식하는 모습이죠. 크리스에게는 파티에 참석한 눈먼 백인의 뇌를 이식할 예정이었습니다.
+
+크리스는 솜으로 귀를 막고, 수술 직전에 도망치는데 성공합니다. 하지만 조지나와 월터가 그를 가로막습니다. 몸싸움을 벌이며 탈출을 시도하지만 총을 든 로즈가 그를 붙잡고 휴대폰의 플래시를 이용해 다시 도망친 그는 총으로 그녀를 쏘고 목을 졸라 죽이려 시도합니다. 그순간 경찰이 도착하고 크리스가 죄를 뒤집어 쓸뻔 했지만, 극적으로 그는 살아남고 그를 구하러온 친구 로드와 함께 마을을 벗어납니다. 로즈와 가족은 모두 죽고 크리스는 불타는 저택을 바라보며 빠져나옵니다.
+
+---
+
+영화는 이렇게 끝나지만 사실 겟아웃은 원작과 다른 엔딩도 있습니다. 크리스가 로즈의 목을 졸라 죽인 후 경찰에 체포되어 감옥에 수감되는 시나리오입니다. 친구 로드는 로즈 가족의 비밀에 대해 캐묻지만 크리스는 진실을 말하지 않습니다.
+
+조던 필 감독은 인종차별의 현실을 반영하고자 이런 다른 엔딩도 만들었습니다. 사실 흑인이 살인 후 죄를 뒤집어 쓰는 경우가 많기 때문이겠죠. 당시 미국에선 경찰이 흑인을 강경진압하거나 심지어 위험하지 않은 상황에서도 총격을 가해 논란이 되는 경우가 많았습니다. 유명한 블랙라이브스매터 Blacklivesmatter 운동의 배경이죠.
+
+![](https://postfiles.pstatic.net/MjAyMzAzMDhfMjgx/MDAxNjc4MjExNDcyOTY2.sZu_yNLpA5TAqjq6ocSOtUa5K0zKgwDm6-qppZ5JIEMg.8ZF1cC6JBl12sAc97-MpgBTP4X6vh28xN0jCmJZ1KNog.JPEG.whiteagle/photo-1594838323182-f71a4409d467.jpg?type=w966)
+
+[© safesolvent, 출처 Unsplash](https://unsplash.com/photos/0EyTi0Avs7s?utm_source=naversmarteditor&utm_medium=referral&utm_campaign=api-credit)
+
+워싱턴포스트(WP)에 따르면 흑인의 경우 무장 여부를 떠나 경찰의 총격에 의해 2015년부터 해마다 거의 1000명 정도가 사망합니다. 지난해 7월에도 비무장 흑인이 경찰에게 60발의 총을 맞아 사망해 논란이 되기도 했습니다. 겟아웃은 그렇기에 더 **현실적인 비현실 영화**라 불러 마땅할지 모릅니다.
+
+![](https://postfiles.pstatic.net/MjAyMzAzMDhfMjcw/MDAxNjc4MjExMzYzNzQ5.Pg1jTKEWhqJYt-qLDoAnZPUJOvRDfYB_hchNMlcyxtkg.eQfWoPyp-_abUW84a777-j0BO6l1vU0ZtnvIRBmw9_Yg.PNG.whiteagle/%ED%9D%91%EC%9D%B8%EC%82%AC%EB%A7%9D%EC%9E%90.png?type=w966)
+
+[
+
+**Police shootings database 2015-2023: Search by race, age, department**
+
+Filter the Washington Post database, which includes police shooting statistics since January 2015, by unarmed police shootings, race and age of victim and more.
+
+www.washingtonpost.com
+
+](https://www.washingtonpost.com/graphics/investigations/police-shootings-database/)
+
+늦게나마 겟아웃에 대한 후기를 쓴 건 지난 몇년간 우리사회에도 광기와 욕망의 서사가 많아졌기 때문입니다. 금융의 작전이나 투기, 한탕주의. 최근 넷플릭스에서 화제를 몰고 있는 나는신이다에서 보여지는 추악한 종교의 광기. 인종갈등 못지 않은 남녀간 갈등과 배척 등 극단의 시대가 바로 우리가 살고 있는 지금이 아닌가 생각이 듭니다.

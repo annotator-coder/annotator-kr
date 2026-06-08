@@ -1,0 +1,58 @@
+---
+title: 정규 분포의 붕괴와 멱함수의 시대
+date: '2016-01-27'
+category: 에세이·칼럼
+excerpt: 통계학에는 정규분포(normal distribution)이라는 게 있다. 통계학적 방법을 사용할 때 가장 중요하게 활용...
+readingTime: 1
+relatedPortfolioSlugs: []
+sourceUrl: >-
+  https://blog.naver.com/PostView.naver?blogId=annotator&logNo=220609919607&categoryNo=18&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=postList&userTopListOpen=true&userTopListCount=30&userTopListManageOpen=false&userTopListCurrentPage=1
+---
+정규 분포의 붕괴와 멱함수의 시대 ![]
+2016\. 1. 27. 8:34 ![]
+
+**통**계학에는 정규분포(normal distribution)이라는 게 있다. 통계학적 방법을 사용할 때 가장 중요하게 활용되는 개념 중 하나다.
+
+  
+
+정규분포의 모양은 평균을 중심으로 좌우 대칭형이며 사람의 키, 몸무게 등 다양한 자연현상이 정규분포를 따른다. 아래에서 보듯 평균을 중심으로 어린왕자에 나오는 모자(혹은 보아뱀) 모양으로 분포가되어 있는 것이다. 가운데 가장 많은 부분에 68.3%가 속해있고 2번째(2시그마) 내에 95.4%가 속해있다. 
+
+  
+
+![](https://postfiles.pstatic.net/20160127_71/whiteagle_1453850751739HxPMT_JPEG/%C1%A4%B1%D4%BA%D0%C6%F7.JPG?type=w1)
+
+ 이는 100명 중 임의로 누군가를 골라 키를 재었을 때 4명을 제외하고 96명은 예상되는 2시그마 내 평균 범주에 속한다는 의미다. 이를 정규(normal) 분포라 부른다. 세상 모든 것들이 정규분포를 따르지는 않겠지만 우리가 이를 정규(normal)라 이름붙인 이유는 이런 상태가 정상(normal)에 가깝기 때문이다. 
+
+  하지만 우리가 살고 있는 세계는 정규적인 상황보다는 비정규적(abnormal)인 상황이 많이 발생한다. 흔히 정규직과 비정규직이라 부르는 것이 대표적이다. 지난해 한국사회의 임금근로자 중 비정규직이 차지하는 비율은 32.5%(627만명)다. 이는 정상적(normal)인 구조가 아니다. 유연화와 경쟁력이라는 이름으로 사회 구조의 안정성을 담보하는 정규분포 곡선을 비틀고 왜곡한 거다. 
+
+ 비정규적(abnormal)인 상황은 정상적인 삶을 위협받는 다는 것을 말한다. 정규직의 경우 한달 평균 270만원을 버는데 반해 비정규직은 146만원에 그친다. 절반이 조금 넘는 수치(54.4%)다. 정규직 임금 상승률이 비정규직보다 높기에 임금 격차는 계속해서 벌어질 수 밖에 없다.
+
+ 경향신문이 26일 보도한 ‘소득이 이렇게 불평등합니다’라는 기사를 보면 평균소득에 대한 왜곡이 선명히 드러난다. 한국에서 돈 버는 모든 사람들을 일렬로 세운 일러스트는 우리사회의 비정상적(abnormal)인 상황을 직관적으로 보여준다. 소득을 키로 그리면 평균이 175cm인데 1227미터의 거인도 나온다고 한다.
+
+  
+
+![](https://postfiles.pstatic.net/20160127_294/whiteagle_1453851033841PLI1i_JPEG/2016012701003712200300426.jpg?type=w1)
+
+ \[출처=경향신문, [http://news.khan.co.kr/kh\_news/khan\_art\_view.html?artid=201601262240595&code=940100\]](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201601262240595&code=940100])
+
+[![](https://dthumb-phinf.pstatic.net/?src=%22http%3A%2F%2Forgimg.khan.co.kr%2Fnews%2F2016%2F01%2F26%2Fl_2016012701003712200300426.jpg%22&type=f220)](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201601262240595&code=940100)
+
+[
+
+\[부들부들 청년\]“흙 심은 데 흙 나고…” 공부머리부터 교육·취업까지 대물림
+
+ㆍ부모·자녀세대 ‘쌍봉형 빈곤’ 고착, 이유는
+
+news.khan.co.kr
+
+](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201601262240595&code=940100)
+
+![](https://ssl.pstatic.net/static/blog/blank.gif)
+
+\*관심 있으신 분들은 기사를 읽어 보시라 
+
+  
+
+ 이를 통계의 멱법칙(power law)으로 생각해 볼 수 있다. 멱법칙은 이상해 보이는 수학패턴으로 ‘부익부 빈익빈’의 통계라고 부를 수 있다. 대도시가 점점 커지는 현상, SNS에서 인기인들이 점점 더 인기를 얻는 현상 같은 것들이 이런 멱법칙의 대표적인 예다. 경향신문이 지적했듯 오늘날 자본주의에서는 부가 부를 낳는다. 거인은 점점 더 빨리 키가 자라고, 키가 작은 이들은 영양실조에 허덕인다. 지난해 한국사회를 달궜던 ‘수저론’도 이런 맥락과 닿아 있다. 
+
+ 흥미로운 건 이 멱함수를 power law라 부른다는 점이다. power는 흔히 권력으로 번역된다. 권력의 집중이 normal한 표준분포를 멱함수의 세계로 바꾸는 셈이다. **멱함수(power law)의 시대**. 다시 말해 권력(power)=법칙(law)이 되는 시대. 이는 정규분포의 붕괴를 말하며 정상(normal)적이지 않은 비정상(abnormal)의 시대를 상징한다.

@@ -1,0 +1,60 @@
+---
+order: 25
+title: Space LikeIT
+category: Interactive Content
+tags:
+  - Interactive
+  - 3D
+  - Multimedia
+  - UX Planning
+  - Digital Special
+year: '2018'
+tagline: >-
+  An interactive experience that sends readers on a space journey. 300,000+
+  experiences.
+description: >-
+  Scroll once to rise to actual altitude; tilt your phone and the space image
+  follows. An experiential content piece that lets readers personally book a
+  space trip across 4 packages — from Blue Origin to the Moon.
+problem: >-
+  Space stories captivate everyone, but articles don't get read to the end. It
+  started with a question: what if readers could feel themselves actually
+  ascending?
+approach:
+  - >-
+    On-site interviews with Seattle space startups and Prof. Neil F. Comins;
+    verified with Korea Aerospace Research Institute
+  - >-
+    Prototyped with Adobe XD; dynamically mapped scroll pixels to real altitude
+    (switching from 1px/10m to 1px/100m past 120km)
+  - >-
+    Built 4 real space travel packages interactively: Blue Origin (107km), LEO,
+    Lunar trip (384,000km)
+  - >-
+    Included ISS and orbital debris belt illustrations, rocket stage separation
+    simulation
+  - >-
+    Mobile tilt feature for space image experience; user name input ticketing →
+    certificate issuance
+  - Produced a space movie quiz as a viral element for marketing
+outcome:
+  - '300,000+ cumulative experiences'
+  - >-
+    Featured by design and interactive media outlet ditoday — "an indirect
+    experience closer to reality than imagination"
+  - Used as aerospace education material
+  - 2018 Korean Online Journalism Award — Best Multimedia Storytelling
+href: 'https://www.joongang.co.kr/digitalspecial/419'
+links:
+  - label: ditoday feature article
+    url: >-
+      https://ditoday.com/%EC%9A%B0%EC%A3%BC%EC%97%AC%ED%96%89%EC%9D%84-%EC%B2%B4%ED%97%98%ED%8C%90%EC%9C%BC%EB%A1%9C-%EC%A6%90%EA%B2%A8%EB%B3%B4%EC%9E%90/
+images:
+  - src: /portfolio/space-likeit-ui.png
+    caption: >-
+      Space travel ticketing interface: explore altitude, flight time, and price
+      per package on an interactive orbital map
+featured: false
+relatedBlogSlugs: []
+---
+

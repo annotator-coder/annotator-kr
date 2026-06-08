@@ -1,10 +1,12 @@
 import type { Metadata } from 'next'
 import { posts } from '@/lib/blog'
 import BlogFilter from '@/components/BlogFilter'
+import { getKoAlternates } from '@/lib/hreflang'
 
 export const metadata: Metadata = {
   title: 'Blog',
   description: '살면서, 일하면서, 여행하면서, 놀면서 느낀 것들.',
+  alternates: getKoAlternates('/blog'),
 }
 
 export default function Blog() {
