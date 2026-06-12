@@ -37,6 +37,7 @@ links:
   - label: 뉴스룸 보도자료
     url: 'https://ohstory.io/press/pressrelease/5562'
 featured: false
-relatedBlogSlugs: []
+relatedBlogSlugs:
+  - csr-restructuring
 ---
 
