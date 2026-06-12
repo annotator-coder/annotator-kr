@@ -58,6 +58,7 @@ links:
   - label: Newsroom press release
     url: 'https://ohstory.io/press/pressrelease/5562'
 featured: false
-relatedBlogSlugs: []
+relatedBlogSlugs:
+  - csr-restructuring
 ---
 
