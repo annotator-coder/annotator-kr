@@ -2,7 +2,7 @@
 title: "Platform Crises Are Contagious: A 4-Week Tmon-WeMakePrice Response Record"
 date: '2024-09-10'
 category: Crisis Communications
-excerpt: "When Tmon and WeMakePrice stopped paying sellers, the first question we faced wasn't 'are we safe?' — it was how consumers and sellers would see us. A record of four-scenario crisis management."
+excerpt: "When Tmon and WeMakePrice stopped paying sellers, the first question we faced wasn't 'are we safe?' — it was how consumers and sellers would see us. A crisis we didn't cause, compounded by an RCPS accounting illusion: a record of four-scenario crisis management."
 readingTime: 7
 relatedPortfolioSlugs:
   - ohouse-newsroom
@@ -16,7 +16,7 @@ Ohouse is an e-commerce platform. We sell interior products — not the same cat
 
 **Crisis Spreads Even When You Didn't Cause It**
 
-In PR, the most dangerous crisis is the situation where "anxiety spreads to us even when we've done nothing wrong." Ohouse had an entirely different structure from Tmon and WeMakePrice. Our direct-sale ratio was higher; our settlement system was different. The facts were clear.
+In PR, the most dangerous crisis is the situation where "anxiety spreads to us even when we've done nothing wrong." Ohouse had an entirely different structure from Tmon and WeMakePrice. Our direct-sale ratio was higher; our settlement system was different. The particular problem was an accounting illusion caused by RCPS (redeemable convertible preferred stock): converting to K-IFRS standards ahead of an IPO surfaced liabilities that hadn't shown up before, leaving room for misunderstanding. But the facts were clear.
 
 But fighting on facts alone sometimes loses. Anxiety spreads faster than facts. Four separate actors were moving at four different speeds: journalists' perceptions, political movements, sellers' anxiety, and consumer community sentiment.
 
@@ -38,7 +38,7 @@ The fourth was consumer communities. If "isn't Ohouse also dangerous?" started c
 
 We assembled a risk task force. Legal, CS, and communications — three functions with different roles.
 
-Legal laid out the structural differences between Tmon-WeMakePrice and Ohouse precisely: settlement method, escrow structure, liquidity risk assessment. This was the factual foundation for everything we'd say to journalists.
+Legal laid out the structural differences between Tmon-WeMakePrice and Ohouse precisely: settlement method, escrow structure, liquidity risk assessment — the RCPS-driven illusion versus our company's actual financial soundness. This was the factual foundation for everything we'd say to journalists.
 
 CS tracked consumer inquiry patterns in real time. "Aren't you going to be like Tmon-WeMakePrice?" was actually coming in. We built a standard response manual quickly.
 
