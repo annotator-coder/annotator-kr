@@ -77,6 +77,11 @@ const mdComponents = {
   hr: () => (
     <hr style={{ border: 'none', borderTop: '1px solid var(--color-separator)', margin: '2em 0' }} />
   ),
+  table: (props: React.TableHTMLAttributes<HTMLTableElement>) => (
+    <div className="md-table-wrap">
+      <table className="md-table" {...props} />
+    </div>
+  ),
 }
 
 export default async function BlogPost({ params }: Props) {
