@@ -1,6 +1,6 @@
 ---
 title: 'Tech Bipolarization and the AI Chip'
-date: '2026-06-15'
+date: '2026-05-23'
 category: Essays & Columns
 excerpt: "In Korea, the AI-chip conversation begins and ends with Samsung and SK — HBM and memory. The press looks only there. But in the bipolarization of US-China tech supremacy, is there nothing we're missing?"
 readingTime: 8
