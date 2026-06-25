@@ -89,13 +89,13 @@ export default function About() {
             <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
               <p className="section-label">나의 이야기</p>
               <p style={{ fontSize: '1.125rem', lineHeight: 1.8, color: 'var(--color-label-muted)' }}>
-                중앙일보에서 11년간 사회·정치·기술을 취재했다. 구글 인앱결제 정책 공론화 시리즈, 판문점 3D 재현, 미중 기술패권 심층분석—복잡한 현실을 독자가 이해할 수 있는 언어로 만드는 것이 기자의 일이었다. Google News Lab Fellowship 심사위원으로도 활동했다.
+                중앙일보에서 11년간 기자로 일했다. 정치·사회·기술을 취재했다. 구글 인앱결제 정책 공론화 연재, 판문점 3D 재현 인터랙티브, 미중 기술패권 심층 기획을 맡았다. Google News Lab Fellowship 심사위원으로도 참여했다.
               </p>
               <p style={{ fontSize: '1.125rem', lineHeight: 1.8, color: 'var(--color-label-muted)' }}>
-                코드를 짜는 동료들 사이에서 일하다 보니 자연스럽게 도구를 직접 만들게 됐다. 유니콘 스타트업(오늘의집)에서 뉴스룸을 창간하고 위기대응 AI 프로토타입을 설계했다. 티메프 사태 같은 외부 충격을 4주 만에 통제한 것은 데이터와 시나리오 기반의 접근 덕분이었다.
+                기자처럼 판단하고 PM처럼 운영한다. 무엇이 진짜 이야기이고 누가 진짜 독자인지 먼저 묻고, 데이터와 시스템과 AI 도구로 푼다. 오늘의집에서는 뉴스룸을 만들고 위기대응 AI 프로토타입을 설계했다. 티메프 사태 때는 데이터로 상황을 읽고 시나리오를 미리 짜 4주 만에 대응을 정리했다.
               </p>
               <p style={{ fontSize: '1.125rem', lineHeight: 1.8, color: 'var(--color-label-muted)' }}>
-                지금은 PR 팀리드로 일하며 AI·HTML·JavaScript로 커뮤니케이션 도구를 직접 만든다. 저널리즘의 언어와 엔지니어링의 사고방식을 함께 가진 사람이 어떤 역할을 할 수 있는지 계속 실험 중이다.
+                지금은 대기업 PR 팀을 이끈다. 데일리 스탠드업, A/B 테스트, 데이터 기반 업무 결정, 회고 시스템을 적용해 팀을 운영하고 있다. 최근 관심사는 기술과 가치, 커뮤니케이션이 만나는 지점이다.
               </p>
             </div>
             <div style={{ display: 'flex', flexDirection: 'column', gap: '32px' }}>

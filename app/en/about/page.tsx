@@ -90,13 +90,13 @@ export default function EnAbout() {
             <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
               <p className="section-label">My Story</p>
               <p style={{ fontSize: '1.125rem', lineHeight: 1.8, color: 'var(--color-label-muted)' }}>
-                I spent 11 years at JoongAng Ilbo covering society, politics, and technology. From leading public discourse on Google's in-app billing policy to recreating Panmunjeom in 3D, to deep analyses of the US-China tech rivalry — the journalist's job was to translate complex reality into language readers could understand. I also served as a judge for the Google News Lab Fellowship.
+                I spent 11 years as a reporter at JoongAng Ilbo, covering politics, society, and technology. I ran a series that pushed Google's in-app billing policy into public debate, an interactive that rebuilt Panmunjeom in 3D, and a deep report on the US-China tech rivalry. I also served as a judge for the Google News Lab Fellowship.
               </p>
               <p style={{ fontSize: '1.125rem', lineHeight: 1.8, color: 'var(--color-label-muted)' }}>
-                Working alongside engineers, I naturally started building my own tools. At Ohouse (a unicorn startup), I launched a newsroom and designed a crisis response AI prototype. When external shocks like the TMON/WeMakePrice crisis hit, it was a data-driven, scenario-based approach that brought things under control within four weeks.
+                I think like a journalist and run like a product manager. First I ask what the real story is and who the real audience is, then I solve it with data, systems, and AI tools. At Ohouse I built a newsroom and designed a crisis-response AI prototype. During the TMON/WeMakePrice crisis, I read the situation through data and mapped out the scenarios in advance, and we closed it in four weeks.
               </p>
               <p style={{ fontSize: '1.125rem', lineHeight: 1.8, color: 'var(--color-label-muted)' }}>
-                Now I work as a PR team lead, building communication tools directly with AI, HTML, and JavaScript. I keep experimenting with what someone who holds both the language of journalism and the mindset of engineering can uniquely do.
+                Now I lead a PR team at a large company. I run it with daily stand-ups, A/B tests, data-driven decisions, and a retrospective system. Lately what interests me is where technology, values, and communication meet.
               </p>
             </div>
             <div style={{ display: 'flex', flexDirection: 'column', gap: '32px' }}>
