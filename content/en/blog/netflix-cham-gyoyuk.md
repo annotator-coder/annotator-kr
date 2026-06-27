@@ -1,5 +1,5 @@
 ---
-title: "More Addictive Than Bitter Americano — A Review of Netflix's *Cham Gyoyuk* (True Education)"
+title: "Netflix Review: Cham Gyoyuk — More Addictive Than Bitter Americano"
 date: '2026-06-27'
 category: Film & Drama
 excerpt: 'Top 10 in 85 countries, #1 in 19. This is not a corporal punishment fantasy — it is a longing for someone who refuses to give up.'
@@ -17,10 +17,6 @@ Espresso is bitter and intense. The first time I watched Italians drinking nothi
 👥 **Cast**: Jung Ji-so, Shin Hye-sun and others
 📅 **Release**: Netflix Original, 2025
 ⭐ **Performance**: Top 10 in 85 countries, #1 in 19 countries
-
----
-
-**※ This review contains spoilers.**
 
 ---
 
