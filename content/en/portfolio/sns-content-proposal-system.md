@@ -21,7 +21,7 @@ problem: >-
   copy, a sky-blue isometric look, and looser timeliness — so every cycle started from scratch, which
   made the work slow and inconsistent in quality.
 approach:
-  - 'Designed a shared 7-stage pipeline — collect → reference → shortlist → draft → image → assemble → email draft — as a common skeleton for both channels, implemented as two separate skills (`/insta-제안`, `/linkedin-제안`)'
+  - Designed a shared 7-stage pipeline — collect → reference → shortlist → draft → image → assemble → email draft — as a common skeleton for both channels, implemented as two separate skills (/insta-제안, /linkedin-제안)
   - Differentiated the research rules per channel — Instagram strictly enforces a D-7-to-D 7-day window to stay newsy, while LinkedIn blends evergreen insight content with looser timeliness in a hybrid model
   - Reverse-engineered color, typography, and card types from existing official content (2 Instagram carousel samples, 8 LinkedIn brand assets) into a fixed style template, then reproduced the card mockups in HTML/CSS so copy edits show up instantly
   - Scoped image generation to photo/illustration areas only (flat hand-drawn style for Instagram, 3D isometric for LinkedIn) to keep brand tone consistent
