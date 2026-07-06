@@ -9,14 +9,14 @@ import './globals.css'
 export const metadata: Metadata = {
   metadataBase: new URL('https://annotator.kr'),
   title: {
-    default: 'Annotator',
+    default: 'Annotator — 기자 출신 PR 리드의 AI·커뮤니케이션 기록',
     template: '%s | Annotator',
   },
   description: '11년 기자 출신 PR 리드. AI 도구를 직접 만들며 커뮤니케이션과 엔지니어링의 경계에서 일합니다.',
   authors: [{ name: 'Annotator', url: 'https://annotator.kr/about' }],
   creator: 'Annotator',
   openGraph: {
-    title: 'Annotator',
+    title: 'Annotator — 기자 출신 PR 리드의 AI·커뮤니케이션 기록',
     description: '11년 기자 출신 PR 리드. AI 도구를 직접 만들며 커뮤니케이션과 엔지니어링의 경계에서 일합니다.',
     url: 'https://annotator.kr',
     siteName: 'Annotator',
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Annotator',
+    title: 'Annotator — 기자 출신 PR 리드의 AI·커뮤니케이션 기록',
     description: '11년 기자 출신 PR 리드. AI 도구를 직접 만들며 커뮤니케이션과 엔지니어링의 경계에서 일합니다.',
   },
   alternates: {
@@ -54,10 +54,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="ko">
       <head>
-        <link
-          rel="stylesheet"
-          href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css"
-        />
+        <link rel="stylesheet" href="/fonts/pretendard/pretendardvariable-dynamic-subset.css" />
       </head>
       <body>
         <Nav />
