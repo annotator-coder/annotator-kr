@@ -46,8 +46,7 @@ export const metadata: Metadata = {
   },
   verification: {
     google: 'yRPBN7XlSpfWE5nK7AEP7pe2T-I8ArPVQAn1KJ2o4Ig',
-    // TODO: 네이버 서치어드바이저 소유확인 코드 발급 후 주석 해제
-    // other: { 'naver-site-verification': '발급받은코드' },
+    other: { 'naver-site-verification': '16cdb634d1a42559f26ebec105b4265771127ffb' },
   },
 }
 
