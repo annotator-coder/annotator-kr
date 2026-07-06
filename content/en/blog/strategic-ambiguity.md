@@ -1,7 +1,7 @@
 ---
 title: "Strategic Ambiguity and the Push-Pull"
 date: '2023-01-01'
-category: Essay & Column
+category: Essays & Columns
 excerpt: "Strategic ambiguity — the diplomatic technique Korea has long relied on between great powers — turns out to have a surprising parallel in the early stages of romance."
 readingTime: 2
 relatedPortfolioSlugs: []

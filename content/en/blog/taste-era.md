@@ -1,7 +1,7 @@
 ---
 title: "The Age of Taste"
 date: '2018-07-11'
-category: Essay & Column
+category: Essays & Columns
 excerpt: "On taste-centrism: why personal aesthetic sensibility has become the defining currency of the content economy."
 readingTime: 3
 relatedPortfolioSlugs: []

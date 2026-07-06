@@ -1,7 +1,7 @@
 ---
 title: "The End of Print May Never Come... The Golden Age of Small Magazines"
 date: '2023-01-01'
-category: Essay & Column
+category: Essays & Columns
 excerpt: "I thought the age of paper was over. But I was half wrong. Independent magazines with strong editorial identities are quietly flourishing."
 readingTime: 4
 relatedPortfolioSlugs: []

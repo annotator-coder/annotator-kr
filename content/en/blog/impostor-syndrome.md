@@ -1,7 +1,7 @@
 ---
 title: "Impostor Syndrome"
 date: '2015-10-06'
-category: Essay & Column
+category: Essays & Columns
 excerpt: "On living with anxiety — the psychological experience of believing your success is the product of luck and deceit."
 readingTime: 2
 relatedPortfolioSlugs: []

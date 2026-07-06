@@ -1,7 +1,7 @@
 ---
 title: "On Pressing F5"
 date: '2018-07-13'
-category: Essay & Column
+category: Essays & Columns
 excerpt: "Hit Refresh — on Satya Nadella's Microsoft transformation, and what it reveals about organizations that have lost their sense of purpose."
 readingTime: 4
 relatedPortfolioSlugs: []

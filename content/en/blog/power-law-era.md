@@ -1,7 +1,7 @@
 ---
 title: "The Collapse of the Normal Distribution and the Age of Power Laws"
 date: '2016-01-27'
-category: Essay & Column
+category: Essays & Columns
 excerpt: "Statistics has something called the normal distribution — one of the most important concepts in statistical analysis. But the world we live in produces far more abnormal situations than normal ones."
 readingTime: 1
 relatedPortfolioSlugs: []

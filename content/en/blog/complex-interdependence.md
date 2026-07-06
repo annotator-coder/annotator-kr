@@ -1,7 +1,7 @@
 ---
 title: "Complex Interdependence Theory"
 date: '2009-03-31'
-category: Essay & Column
+category: Essays & Columns
 excerpt: "Studying IR turns up some surprisingly entertaining ideas — especially when power dynamics apply just as well to daily life..."
 readingTime: 2
 relatedPortfolioSlugs: []

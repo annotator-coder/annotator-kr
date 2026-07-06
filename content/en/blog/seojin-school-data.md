@@ -1,7 +1,7 @@
 ---
 title: "Special Schools Are Too Far Away: What the Data Says About the Seojin School Controversy"
 date: '2023-01-01'
-category: Essay & Column
+category: Essays & Columns
 excerpt: "When residents opposed a special school and parents of disabled children were driven to kneel before them, the question was: is there really a shortage of special schools? The data answers."
 readingTime: 4
 relatedPortfolioSlugs: []

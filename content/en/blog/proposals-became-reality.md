@@ -1,7 +1,7 @@
 ---
 title: "Eleven Years of Proposals That Became Reality"
 date: '2022-03-01'
-category: Essay & Column
+category: Essays & Columns
 excerpt: '"Let''s open a creator economy room on an audio-based SNS." "Let''s do a StoryPoll." "Let''s do racing chart videos." These proposals all became real.'
 readingTime: 6
 relatedPortfolioSlugs:

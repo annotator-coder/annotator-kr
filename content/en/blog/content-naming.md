@@ -1,7 +1,7 @@
 ---
 title: "The Difficulty of Naming Content"
 date: '2019-05-23'
-category: Essay & Column
+category: Essays & Columns
 excerpt: "Episode 1 of 'Don't Hold Back, King of Rage' was originally called 'Rage King Kim Chimchak.' Naming has never been easy — capturing the essence and summarizing the story is hard enough, and calling it 'branding' makes it feel even heavier."
 readingTime: 2
 relatedPortfolioSlugs: []

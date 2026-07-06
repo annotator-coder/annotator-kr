@@ -1,7 +1,7 @@
 ---
 title: "Why NC Soft and Baemin Are Building Media"
 date: '2018-07-18'
-category: Essay & Column
+category: Essays & Columns
 excerpt: "The boundaries are dissolving. Red Bull proved the formula. Now Korean companies like NC Soft and Baemin are following. What does it mean when companies become media?"
 readingTime: 5
 relatedPortfolioSlugs: []
