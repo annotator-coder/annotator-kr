@@ -35,6 +35,9 @@ export const metadata: Metadata = {
       en: 'https://annotator.kr/en',
       'x-default': 'https://annotator.kr',
     },
+    types: {
+      'application/rss+xml': 'https://annotator.kr/feed.xml',
+    },
   },
   robots: {
     index: true,
@@ -43,6 +46,8 @@ export const metadata: Metadata = {
   },
   verification: {
     google: 'yRPBN7XlSpfWE5nK7AEP7pe2T-I8ArPVQAn1KJ2o4Ig',
+    // TODO: 네이버 서치어드바이저 소유확인 코드 발급 후 주석 해제
+    // other: { 'naver-site-verification': '발급받은코드' },
   },
 }
 
