@@ -6,7 +6,7 @@ import JsonLd from '@/components/JsonLd'
 import { getKoAlternates } from '@/lib/hreflang'
 
 export const metadata: Metadata = {
-  title: 'Annotator',
+  title: { absolute: 'Annotator — 기자 출신 PR 리드의 AI·커뮤니케이션 기록' },
   description: '11년 기자 출신 PR 리드. AI 도구를 직접 만들며 커뮤니케이션과 엔지니어링의 경계에서 일합니다.',
   alternates: getKoAlternates('/'),
 }

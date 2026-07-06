@@ -6,11 +6,11 @@ import JsonLd from '@/components/JsonLd'
 import { getEnAlternates } from '@/lib/hreflang'
 
 export const metadata: Metadata = {
-  title: 'Annotator',
+  title: { absolute: 'Annotator — AI & Communications by a Journalist-turned PR Lead' },
   description: 'PR Lead with 11 years as a journalist. Building AI tools at the intersection of communication and engineering.',
   alternates: getEnAlternates('/en'),
   openGraph: {
-    title: 'Annotator',
+    title: 'Annotator — AI & Communications by a Journalist-turned PR Lead',
     description: 'PR Lead with 11 years as a journalist. Building AI tools at the intersection of communication and engineering.',
     url: 'https://annotator.kr/en',
     siteName: 'Annotator',
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Annotator',
+    title: 'Annotator — AI & Communications by a Journalist-turned PR Lead',
     description: 'PR Lead with 11 years as a journalist. Building AI tools at the intersection of communication and engineering.',
   },
 }
