@@ -7,28 +7,31 @@ import { postsEn } from '@/lib/blog-en'
 const BASE_URL = 'https://annotator.kr'
 
 export default function sitemap(): MetadataRoute.Sitemap {
+  // 최신 글 날짜 = 홈·블로그 목록의 실제 갱신 시점
+  const latestKo = new Date(posts[0]?.date ?? Date.now())
+  const latestEn = new Date(postsEn[0]?.date ?? Date.now())
+
   // KR static pages
   const koStatic: MetadataRoute.Sitemap = [
-    { url: BASE_URL, lastModified: new Date(), changeFrequency: 'weekly', priority: 1 },
-    { url: `${BASE_URL}/about`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.8 },
-    { url: `${BASE_URL}/portfolio`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.8 },
-    { url: `${BASE_URL}/blog`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.8 },
-    { url: `${BASE_URL}/contact`, lastModified: new Date(), changeFrequency: 'yearly', priority: 0.5 },
+    { url: BASE_URL, lastModified: latestKo, changeFrequency: 'weekly', priority: 1 },
+    { url: `${BASE_URL}/about`, changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${BASE_URL}/portfolio`, changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${BASE_URL}/blog`, lastModified: latestKo, changeFrequency: 'weekly', priority: 0.8 },
+    { url: `${BASE_URL}/contact`, changeFrequency: 'yearly', priority: 0.5 },
   ]
 
   // EN static pages
   const enStatic: MetadataRoute.Sitemap = [
-    { url: `${BASE_URL}/en`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.9 },
-    { url: `${BASE_URL}/en/about`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.7 },
-    { url: `${BASE_URL}/en/portfolio`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.7 },
-    { url: `${BASE_URL}/en/blog`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.7 },
-    { url: `${BASE_URL}/en/contact`, lastModified: new Date(), changeFrequency: 'yearly', priority: 0.4 },
+    { url: `${BASE_URL}/en`, lastModified: latestEn, changeFrequency: 'weekly', priority: 0.9 },
+    { url: `${BASE_URL}/en/about`, changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${BASE_URL}/en/portfolio`, changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${BASE_URL}/en/blog`, lastModified: latestEn, changeFrequency: 'weekly', priority: 0.7 },
+    { url: `${BASE_URL}/en/contact`, changeFrequency: 'yearly', priority: 0.4 },
   ]
 
-  // KR portfolio + blog
+  // KR portfolio + blog (포트폴리오는 연도만 있어 lastModified 생략)
   const koPortfolio: MetadataRoute.Sitemap = projects.map((p) => ({
     url: `${BASE_URL}/portfolio/${p.slug}`,
-    lastModified: new Date(),
     changeFrequency: 'monthly' as const,
     priority: 0.7,
   }))
@@ -43,7 +46,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // EN portfolio + blog
   const enPortfolio: MetadataRoute.Sitemap = projectsEn.map((p) => ({
     url: `${BASE_URL}/en/portfolio/${p.slug}`,
-    lastModified: new Date(),
     changeFrequency: 'monthly' as const,
     priority: 0.6,
   }))
