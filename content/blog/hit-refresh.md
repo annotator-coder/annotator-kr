@@ -2,8 +2,7 @@
 title: F5 누르기에 대하여
 date: '2018-07-13'
 category: 에세이·칼럼
-excerpt: >-
-  <히트 리프레시> 
+excerpt: 사티아 나델라의 ‘히트 리프레시’를 읽고, 병든 조직이 다시 목적과 혁신을 회복하는 조건을 생각했다.
 readingTime: 4
 relatedPortfolioSlugs: []
 sourceUrl: 'https://brunch.co.kr/@louisjung/4'
@@ -58,7 +57,7 @@ MS 관련해서 보도 내용을 잠깐 보면..
 
 지금 시점에서 대다수 언론사의 상황을 되짚어 보자면 '여전히' Hit Refresh 하지 못했다. 물론 F5 키를 여러번 눌러온 건 맞다. 누군가는 F5키를 누르고 인내심이 없어서 폭발했고, 누군가는 F5를 타다다다 누르다가 그냥 하던대로 하자고 한 것 같다. 그리고 지금도 우리는 F5 키를 누르고 커서위에 돌아가는 모래시계를 초조하게 쳐다보고 있다. (사실 hit refresh는 단순 새로고침이 아니라 초기화에 가깝다... 흔히 말하는 format... 밀어버리는 개념에 더 가깝다고 봐야 할 것 같다)
 
-![](https://img1.daumcdn.net/thumb/R1280x0.fgif/?fname=http://t1.daumcdn.net/brunch/service/user/yRY/image/vK4idb0hCUgBs2Kwy17vJq87WpI.gif) 이런 느낌적인 느낌
+![조직이 새로고침되는 느낌을 표현한 GIF](https://img1.daumcdn.net/thumb/R1280x0.fgif/?fname=http://t1.daumcdn.net/brunch/service/user/yRY/image/vK4idb0hCUgBs2Kwy17vJq87WpI.gif) 이런 느낌적인 느낌
 
 성과가 없었던 건 아니다. 책에도 나오듯 싯타르타(부처)의 깨달음도 첫번째 단계는 현실인식이었고, 4苦를 목도하는 게 아니었나. 다들 '위기'라는 건 인식을 하고 롤모델을 찾아 방향을 제시하려고 노력은 하고 있다. 유저 데이터 수집이나 신규서비스를 런칭하기도 하고 외부 컨설팅을 받고, 내부 혁신보고서를 쓰고... 그럼에도 건너야 할 '강'의 끝이 안 보이는 건 왜일까?
 

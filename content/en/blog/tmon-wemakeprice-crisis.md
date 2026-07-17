@@ -2,7 +2,7 @@
 title: "Platform Crises Are Contagious: A 4-Week Tmon-WeMakePrice Response Record"
 date: '2024-09-10'
 category: Crisis Communications
-excerpt: "When Tmon and WeMakePrice stopped paying sellers, the first question we faced wasn't 'are we safe?' — it was how consumers and sellers would see us. A crisis we didn't cause, compounded by an RCPS accounting illusion: a record of four-scenario crisis management."
+excerpt: "A four-week record of responding to the Tmon-WeMakePrice platform crisis, where seller-payment failure became a contagious trust problem."
 readingTime: 7
 relatedPortfolioSlugs:
   - ohouse-newsroom

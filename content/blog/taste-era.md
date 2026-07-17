@@ -2,7 +2,7 @@
 title: 취향 시대
 date: '2018-07-11'
 category: 에세이·칼럼
-excerpt: "취향 중심주의에 대하여"
+excerpt: 콘텐츠 제작에서 데이터보다 먼저 작동하는 취향의 힘, 그리고 취향 중심 시대에 기획자가 겪는 불안을 정리했다.
 readingTime: 3
 relatedPortfolioSlugs: []
 sourceUrl: 'https://brunch.co.kr/@louisjung/3'
@@ -21,7 +21,7 @@ sourceUrl: 'https://brunch.co.kr/@louisjung/3'
 
 반복해서 기획을 하다 보면, 이 '감'이라는 게 조금씩이지만 늘어서 타율이 좀 올라가긴 하지만, 당연하게도 빗나가는 경우가 많다.
 
-![](https://img1.daumcdn.net/thumb/R1280x0.fwebp/?fname=http://t1.daumcdn.net/brunch/service/user/yRY/image/GiUvZcGZ1cE9L8WvZ4gpzmqDP74.PNG) 주로 만드는 콘텐츠들 http://news.joins.com/digitalspecial/list
+![중앙일보 디지털 스페셜 콘텐츠 목록](https://img1.daumcdn.net/thumb/R1280x0.fwebp/?fname=http://t1.daumcdn.net/brunch/service/user/yRY/image/GiUvZcGZ1cE9L8WvZ4gpzmqDP74.PNG) 주로 만드는 콘텐츠들 http://news.joins.com/digitalspecial/list
 
 한 가지 분야가 아니라 어제는 북한, 오늘은 선거, 모레는 맥주 콘텐츠를 만드는 상황에서 독자들의 흥미를 끄는 게 쉬운 일은 아니다. 물론 매일 만들지는 않지만, 이게 또 뉴스가 적절한 때를 지나버리면 더 이상 뉴스로 인정을 받지 못하는 터라, 타이밍 싸움도 여기서는 굉장히 중요하다는 걸 배우고 또 배운다.(심지어 이들은 '뉴스'를 보러 온 사람들이 아닌가?? 서점에 온 사람들에게 라면을 팔아야 하는 숙명인가...)
 
@@ -93,4 +93,3 @@ SNS는 소셜 네트워크 서비스다. 여기의 핵심은 **네트워크** �
 그게 지금 콘텐츠 생산자로서 주목해야 할 지점일지도 모르겠다. 주류가 1원을 쓰고, 비주류가 1000원을 쓴다면 주류 1만 명보다, 비주류 10명이 나은 거 아닌가? (1\*10000 = 1000 \* 10이지만, 관리비용 등을 생각하면 팬 10명이 무관심한 1만 명보다 낫다)
 
 자 다시 내일 뭘 먹고 살지 고민하러 가자.
-

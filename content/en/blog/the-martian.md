@@ -2,7 +2,7 @@
 title: "The Martian: Chicago Cubs, Beer, and the G2"
 date: '2015-10-22'
 category: Film & Drama
-excerpt: "A friend once told me that wearing a NASA t-shirt in America marks you as a geek. Notes on The Martian — including the Chicago Cubs metaphor, the power of beer, and what China's role in the story really means."
+excerpt: "Notes on The Martian, from NASA geek culture and the Chicago Cubs metaphor to beer, loneliness, and China's role in the story."
 readingTime: 6
 relatedPortfolioSlugs: []
 sourceUrl: >-

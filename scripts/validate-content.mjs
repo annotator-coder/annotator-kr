@@ -37,6 +37,10 @@ function fm(dir, file) {
   return matter(fs.readFileSync(path.join(ROOT, dir, file), 'utf-8')).data
 }
 
+function parsedMd(dir, file) {
+  return matter(fs.readFileSync(path.join(ROOT, dir, file), 'utf-8'))
+}
+
 function checkRequired(dir, file, data, required) {
   for (const key of required) {
     if (data[key] === undefined || data[key] === null || data[key] === '') {
@@ -46,6 +50,36 @@ function checkRequired(dir, file, data, required) {
   if (data.date && !/^\d{4}-\d{2}-\d{2}$/.test(String(data.date).slice(0, 10))) {
     errors.push(`${dir}/${file}: date 형식 오류 (YYYY-MM-DD 필요) — ${data.date}`)
   }
+  if (data.updatedAt && !/^\d{4}-\d{2}-\d{2}$/.test(String(data.updatedAt).slice(0, 10))) {
+    errors.push(`${dir}/${file}: updatedAt 형식 오류 (YYYY-MM-DD 필요) — ${data.updatedAt}`)
+  }
+}
+
+function checkSeoDescription(dir, file, data) {
+  const description = String(data.seoDescription || data.excerpt || '').trim()
+  if (!description) return
+
+  if (description.length < 45) {
+    warnings.push(`${dir}/${file}: SEO 설명이 짧음 (${description.length}자) — seoDescription 또는 excerpt 보강 권장`)
+  }
+  if (description.length > 170) {
+    warnings.push(`${dir}/${file}: SEO 설명이 김 (${description.length}자) — 80~160자 권장`)
+  }
+  if (/…$|\.{3}$/.test(description) || description.includes('...')) {
+    warnings.push(`${dir}/${file}: SEO 설명이 잘린 문장처럼 보임 — 검색 결과용 완결 문장 권장`)
+  }
+  if (/^#/.test(description) || /<[^>]+>/.test(description)) {
+    warnings.push(`${dir}/${file}: SEO 설명에 마크다운/HTML 흔적 있음 — 순수 문장 권장`)
+  }
+}
+
+function checkMarkdownImages(dir, file, content) {
+  const imageMatches = content.matchAll(/!\[([^\]]*)\]\([^)]+\)/g)
+  for (const match of imageMatches) {
+    if (!match[1].trim()) {
+      warnings.push(`${dir}/${file}: alt 없는 마크다운 이미지 있음`)
+    }
+  }
 }
 
 // ── 블로그: ko/en 쌍 + 카테고리 매핑 검증 ──
@@ -53,16 +87,20 @@ const koBlog = mdFiles('content/blog')
 const enBlog = mdFiles('content/en/blog')
 
 for (const file of koBlog) {
-  const data = fm('content/blog', file)
+  const { data, content } = parsedMd('content/blog', file)
   checkRequired('content/blog', file, data, BLOG_REQUIRED)
+  checkSeoDescription('content/blog', file, data)
+  checkMarkdownImages('content/blog', file, content)
   if (data.category && !(data.category in CATEGORY_MAP)) {
     warnings.push(`content/blog/${file}: 미등록 카테고리 "${data.category}" — 새 카테고리면 CATEGORY_MAP에 추가`)
   }
   if (!enBlog.includes(file)) {
     errors.push(`content/blog/${file}: EN 번역본 없음 (content/en/blog/${file})`)
   } else {
-    const enData = fm('content/en/blog', file)
+    const { data: enData, content: enContent } = parsedMd('content/en/blog', file)
     checkRequired('content/en/blog', file, enData, BLOG_REQUIRED)
+    checkSeoDescription('content/en/blog', file, enData)
+    checkMarkdownImages('content/en/blog', file, enContent)
     const expected = CATEGORY_MAP[data.category]
     if (expected && enData.category !== expected) {
       errors.push(`content/en/blog/${file}: 카테고리 불일치 — "${enData.category}" (표준: "${expected}")`)

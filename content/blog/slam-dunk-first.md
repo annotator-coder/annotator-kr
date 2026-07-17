@@ -2,7 +2,7 @@
 title: 슬램덩크 더 퍼스트에 대한 주석  (스포 있음)
 date: '2023-02-02'
 category: 영화·드라마
-excerpt: '''스포츠의 진정한 힘은 그것이 각본없는 스토리'''
+excerpt: ‘더 퍼스트 슬램덩크’를 보고 스포츠가 왜 각본 없는 스토리로 작동하는지, 세대적 기억과 함께 풀었다.
 readingTime: 3
 relatedPortfolioSlugs: []
 sourceUrl: >-

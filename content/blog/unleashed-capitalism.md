@@ -2,7 +2,7 @@
 title: '[서평] 고삐 풀린 자본주의'
 date: '2009-08-02'
 category: 서평
-excerpt: "고삐 풀린 자본주의, 1980년 이후 앤드류 글린 "
+excerpt: 앤드류 글린의 ‘고삐 풀린 자본주의’를 읽고 신자유주의 이후 금융, 세계화, 복지의 균열을 짚은 서평.
 readingTime: 4
 relatedPortfolioSlugs: []
 sourceUrl: >-

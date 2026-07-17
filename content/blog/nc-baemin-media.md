@@ -11,7 +11,7 @@ sourceUrl: 'https://brunch.co.kr/@louisjung/5'
 
 많이들 아는 이야기를 해보자. **레드불을** 가끔 마시는지 모르겠다. 편의점에 가면 파는데, 나는 장거리 운전을 할 때 가끔 한 캔씩 마신다. (물론 한국에는 대체재가 있다. 박카스가 대표적이고, 딱 타게팅해서는 핫식스가 있다) 사실 레드불은 맛없고 비싸다. 나 원 참. 맛없게 만들고 비싸게 팔다니... 하지만 어느 순간에는 레드불을 계산대에 놓고 있다. 레드불 회사도 자기 음료가 맛없고 비싸다는 걸 안다. 농담 삼아, "우리는 어쩌다가 에너지음료를 팔게 된 회사"라고 한다.
 
-![](https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/yRY/image/HPIR7Pl2rVxD1ozRo2tVk6Po0Q4.jpg) 요즘 우주 관련 기획을 하다보니 일론머스크샷을...
+![우주 관련 기획을 떠올리게 하는 일론 머스크 이미지](https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/yRY/image/HPIR7Pl2rVxD1ozRo2tVk6Po0Q4.jpg) 요즘 우주 관련 기획을 하다보니 일론머스크샷을...
 
 2005년 포뮬러 1 스폰서였던 '레드불'은 당시 커다란 인쇄기를 경기장에 가져와 시합이 끝나면 그 자리에서 결과를 찍어서 배포했다. (마치 경마장에서 승패를 기록한 표를 나눠주듯이) 이들은 2년 후 '익스트림'이라는 자신들의 콘셉트를 담은 남성 라이프스타일 잡지를 만들기로 결정했고, 레드 불레틴(Red bulltin)을 출간하기 시작했다.
 
@@ -67,7 +67,7 @@ sourceUrl: 'https://brunch.co.kr/@louisjung/5'
 
 현실적인 상상을 해보자. 얼마 전 우리는 **맥주 이상형 월드컵** ([http://news.joins.com/DigitalSpecial/301](http://news.joins.com/DigitalSpecial/301)) 이라는 콘텐츠를 만들었다. 심플하고 직관적인 콘텐츠인데 (별로 많이 알려지지는 않아 아쉽다... ㅠ.ㅠ) 상상력을 보태보자. 요즘(?) 핫한 브루어리 문화가 있다. 뉴욕 등에서는 유행한 지 몇 년 됐고 한국도 꽤 많이 들어서긴 했는데, 가장 유명한 건 ' **어메이징 브루어리** '(성수동 본점)인 듯하다. 만약 '어메이징 브루어리'가 오리지널 콘텐츠를 만든다면? (잡지/웹진/TV 등 무한하다) 그리고 맥주와 언뜻 무관해 보이는 이벤트를 기획한다면 어떨까?
 
-![](https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/yRY/image/ySdI0MDfy-RrO9Hf6UFwbqxBi5w.jpg) 어메이징브루어리
+![어메이징브루어리 참고 이미지](https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/yRY/image/ySdI0MDfy-RrO9Hf6UFwbqxBi5w.jpg) 어메이징브루어리
 
 나라면 여름에 양양에다 서핑+맥주 브루어리 관련 이벤트를 한번 해보겠다. 실제로 어메이징 브루잉 컴퍼니는 '지난 수십 년간 취하기 위해서 술을 마셨던 이 땅의 사람들에게 맥주의 맛을 전파하기 위해 노력하고 있다'라고 본인들의 미션을 언급하고 있다. 성수동에 자리한 본사는 '성수(성스러운 물, Holy water)'라는 의미를 부여하고 있으며, 실질적으로 수제 맥주 아카데미를 운영하고 있다. 이야기를 만들어 내고 있는 거다.
 

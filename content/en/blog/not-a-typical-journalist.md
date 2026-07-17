@@ -2,7 +2,7 @@
 title: "Not a Typical Journalist"
 date: '2021-04-01'
 category: Essays & Columns
-excerpt: "Dev-journalist, design-journalist, PD-journalist, data-journalist. Nicknames my colleagues gave me. I kept hearing I didn't seem like a journalist — and at some point that stopped sounding like an insult."
+excerpt: "A personal essay on being called a dev-journalist, design-journalist, and data-journalist, and why not fitting the newsroom mold became useful."
 readingTime: 7
 relatedPortfolioSlugs:
   - factpl

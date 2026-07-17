@@ -2,7 +2,7 @@
 title: "The Difficulty of Naming Content"
 date: '2019-05-23'
 category: Essays & Columns
-excerpt: "Episode 1 of 'Don't Hold Back, King of Rage' was originally called 'Rage King Kim Chimchak.' Naming has never been easy — capturing the essence and summarizing the story is hard enough, and calling it 'branding' makes it feel even heavier."
+excerpt: "Naming content is hard because it has to capture the essence, compress the story, and carry the brand before anyone watches the first episode."
 readingTime: 2
 relatedPortfolioSlugs: []
 sourceUrl: 'https://brunch.co.kr/@louisjung/10'

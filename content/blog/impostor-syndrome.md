@@ -2,7 +2,7 @@
 title: 가면증후군
 date: '2015-10-06'
 category: 에세이·칼럼
-excerpt: "불안함이라는 심리를 안고 살아간다면"
+excerpt: 가면증후군이라는 불안을 안고 살아가는 사람의 마음, 자기 의심, 인정 욕구를 개인적 경험으로 풀어낸 글.
 readingTime: 2
 relatedPortfolioSlugs: []
 sourceUrl: >-

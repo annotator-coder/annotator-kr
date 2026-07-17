@@ -2,7 +2,7 @@
 title: 'The Illusion of Being a "Physical AI Powerhouse": What Shenzhen Showed Me About the Real Gap'
 date: '2026-07-02'
 category: Essays & Columns
-excerpt: I spent four days in Shenzhen in late March. Behind the pride of "world's No.1 robot density" was an illusion that confuses automation with intelligence. What BYD, LimX Dynamics, and Huaqiangbei showed me was an overwhelming gap in the speed of accumulating real-world data.
+excerpt: Four days in Shenzhen showed that Korea's robot-density pride confuses automation with intelligence. The real gap is field data and deployment speed.
 readingTime: 10
 relatedPortfolioSlugs: []
 ---

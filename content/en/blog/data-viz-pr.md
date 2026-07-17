@@ -2,7 +2,7 @@
 title: "How Data Visualization Changes the PR Story"
 date: '2026-04-10'
 category: Data Journalism
-excerpt: "What happened when we turned dense energy statistics into an interactive map journalists could use right away — and what data journalism methods actually look like inside corporate PR."
+excerpt: "How turning dense energy statistics into an interactive map changed PR storytelling and brought data journalism methods into corporate communication."
 readingTime: 6
 relatedPortfolioSlugs:
   - oil-map

@@ -2,7 +2,7 @@
 title: "The One-Click Era and the People Who Carve"
 date: '2026-06-12'
 category: Essays & Columns
-excerpt: "When AI can build anything with a single click, the scarce resource isn't execution — it's a problem you've actually lived. This is the moment for the side-projecters who start from a real need and carve, one cut at a time."
+excerpt: "In the one-click AI era, the scarce resource is not execution but lived problems. This essay argues for side projects built from real needs."
 readingTime: 6
 relatedPortfolioSlugs: []
 ---

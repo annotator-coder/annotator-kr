@@ -30,6 +30,21 @@ AI 도구를 직접 만들고 코드를 짜는 스토리텔러.
 
 PR 커리어, AI in Communications, 데이터 저널리즘, 위기 커뮤니케이션 전략, 에세이(기자 생활·커리어 전환), 여행, 서평, 영화 리뷰
 
+주제별 모음 페이지 (영문판은 /en/blog/category/<slug>):
+
+- /blog/category/ai-communications — AI를 PR·콘텐츠 업무에 적용한 실험과 기록
+- /blog/category/data-journalism — 데이터로 사회 현상·커뮤니케이션 이슈 읽기
+- /blog/category/career — 기자→PR 커리어 전환과 일에 대한 생각
+- /blog/category/strategy-communications — 메시지·이해관계자 관점의 커뮤니케이션 전략
+- /blog/category/international-pr-campaign — 국제 행사·캠페인·글로벌 커뮤니케이션
+- /blog/category/crisis-communications — 위기 대응 PR 시스템·시나리오·판단 기준
+- /blog/category/journalism — 기자 경험과 미디어 산업의 변화
+- /blog/category/platform-strategy — 플랫폼·미디어·커머스 접점 분석
+- /blog/category/book-review — 서평
+- /blog/category/film-drama — 영화·드라마 리뷰
+- /blog/category/essays-columns — 에세이·칼럼
+- /blog/category/travel-space — 여행·공간
+
 ## Contact
 
 Email: no1.annotator@gmail.com

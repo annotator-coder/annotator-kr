@@ -2,7 +2,7 @@
 title: 'The One Who Holds the Valve Asks: From the US-Iran War to Fable 5'
 date: '2026-06-17'
 category: Essays & Columns
-excerpt: "The valve of the 1973 oil shock has moved to AI in 2026. The US block on Fable 5 pulled the unit of control all the way down from the nation to the individual's nationality. The one who can lock it now asks — what country are you from?"
+excerpt: "From the 1973 oil shock to AI compute in 2026, this essay traces how the power to close the valve moved from nations to individual identity."
 readingTime: 11
 relatedPortfolioSlugs:
   - us-china-tech-hegemony

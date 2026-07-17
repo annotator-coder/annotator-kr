@@ -2,7 +2,7 @@
 title: "Edge Wrote Me a Letter"
 date: '2012-12-01'
 category: Essays & Columns
-excerpt: "I wrote a blood donor dog story from the first-person perspective of a detection dog named Edge. Readers cried. Letters came. Cash came. It was the first time in my journalism career that I truly felt a story could change the world."
+excerpt: "How a first-person story by a blood donor dog named Edge moved readers, generated letters and donations, and showed what journalism can change."
 readingTime: 6
 relatedPortfolioSlugs:
   - blood-donor-dog-edge

@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation'
 import Link from 'next/link'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
+import { getPostDescription, getPostModifiedDate } from '@/lib/blog'
 import { getPostEnBySlug, postsEn } from '@/lib/blog-en'
 import { getProjectEnBySlug } from '@/lib/portfolio-en'
 import JsonLd from '@/components/JsonLd'
@@ -20,24 +21,29 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params
   const post = getPostEnBySlug(slug)
   if (!post) return {}
+  const description = getPostDescription(post)
+  const imageUrl = post.image ?? `https://annotator.kr/en/blog/${slug}/opengraph-image`
   return {
     title: post.title,
-    description: post.excerpt,
+    description,
     alternates: getEnAlternates(`/en/blog/${slug}`),
     openGraph: {
       title: post.title,
-      description: post.excerpt,
+      description,
       url: `https://annotator.kr/en/blog/${slug}`,
       type: 'article',
       publishedTime: post.date,
+      modifiedTime: getPostModifiedDate(post),
       authors: ['https://annotator.kr/en/about'],
       section: post.category,
       locale: 'en_US',
+      images: [{ url: imageUrl, width: 1200, height: 630, alt: post.title }],
     },
     twitter: {
       card: 'summary_large_image',
       title: post.title,
-      description: post.excerpt,
+      description,
+      images: [imageUrl],
     },
   }
 }
@@ -93,18 +99,33 @@ export default async function EnBlogPost({ params }: Props) {
     .map((s) => getProjectEnBySlug(s))
     .filter(Boolean)
 
+  const description = getPostDescription(post)
+  const modifiedDate = getPostModifiedDate(post)
+  const imageUrl = post.image ?? `https://annotator.kr/en/blog/${slug}/opengraph-image`
+  const isUpdated = post.updatedAt && post.updatedAt.slice(0, 10) !== post.date.slice(0, 10)
+
   const articleSchema = {
     '@context': 'https://schema.org',
-    '@type': 'Article',
+    '@type': 'BlogPosting',
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': `https://annotator.kr/en/blog/${slug}`,
+    },
     headline: post.title,
-    description: post.excerpt,
+    description,
     url: `https://annotator.kr/en/blog/${slug}`,
     datePublished: post.date,
+    dateModified: modifiedDate,
+    image: [imageUrl],
     inLanguage: 'en',
     author: {
       '@type': 'Person',
       name: 'Annotator',
       url: 'https://annotator.kr/en/about',
+      sameAs: [
+        'https://www.linkedin.com/in/wonyeob-jung-4583754b',
+        'https://github.com/annotator-coder',
+      ],
     },
     publisher: {
       '@type': 'Person',
@@ -113,6 +134,7 @@ export default async function EnBlogPost({ params }: Props) {
     },
     articleSection: post.category,
     timeRequired: `PT${post.readingTime}M`,
+    ...(post.sourceUrl ? { isBasedOn: post.sourceUrl } : {}),
   }
 
   return (
@@ -132,6 +154,11 @@ export default async function EnBlogPost({ params }: Props) {
             <span style={{ fontSize: '0.6875rem', color: 'var(--color-label-subtle)' }}>
               {new Date(post.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
             </span>
+            {isUpdated && (
+              <span style={{ fontSize: '0.6875rem', color: 'var(--color-label-subtle)' }}>
+                · Updated {new Date(post.updatedAt as string).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+              </span>
+            )}
             <span style={{ fontSize: '0.6875rem', color: 'var(--color-label-subtle)' }}>
               · {post.readingTime} min read
             </span>

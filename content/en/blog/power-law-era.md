@@ -2,7 +2,7 @@
 title: "The Collapse of the Normal Distribution and the Age of Power Laws"
 date: '2016-01-27'
 category: Essays & Columns
-excerpt: "Statistics has something called the normal distribution — one of the most important concepts in statistical analysis. But the world we live in produces far more abnormal situations than normal ones."
+excerpt: "Why the normal distribution no longer explains many parts of today's world, and why power laws, extremes, and winner-take-all dynamics matter more."
 readingTime: 1
 relatedPortfolioSlugs: []
 sourceUrl: >-
@@ -15,7 +15,7 @@ The Collapse of the Normal Distribution and the Age of Power Laws
 
 The shape of the normal distribution is symmetrical around the mean. Many natural phenomena, such as human height and weight, follow a normal distribution. As shown below, the distribution takes the shape of a hat (or a boa constrictor swallowing an elephant, as in *The Little Prince*), centered on the mean. 68.3% of values fall within the center, and 95.4% fall within two standard deviations.
 
-![](https://postfiles.pstatic.net/20160127_71/whiteagle_1453850751739HxPMT_JPEG/%C1%A4%B1%D4%BA%D0%C6%F7.JPG?type=w1)
+![Normal distribution graph](https://postfiles.pstatic.net/20160127_71/whiteagle_1453850751739HxPMT_JPEG/%C1%A4%B1%D4%BA%D0%C6%F7.JPG?type=w1)
 
 This means that if you randomly pick someone from a group of 100 and measure their height, 96 out of 100 will fall within the expected two-sigma range, with only 4 as outliers. We call this a "normal" distribution because this state is closest to what we consider normal.
 

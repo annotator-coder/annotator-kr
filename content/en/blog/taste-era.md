@@ -21,7 +21,7 @@ Most of the time, a project moves forward based on instinct — a feeling of "I 
 
 The more you repeat the process, the more that instinct slowly sharpens and the hit rate goes up a little — but of course, it misses far more often than not.
 
-![](https://img1.daumcdn.net/thumb/R1280x0.fwebp/?fname=http://t1.daumcdn.net/brunch/service/user/yRY/image/GiUvZcGZ1cE9L8WvZ4gpzmqDP74.PNG) Content I mostly work on: http://news.joins.com/digitalspecial/list
+![JoongAng digital special content list](https://img1.daumcdn.net/thumb/R1280x0.fwebp/?fname=http://t1.daumcdn.net/brunch/service/user/yRY/image/GiUvZcGZ1cE9L8WvZ4gpzmqDP74.PNG) Content I mostly work on: http://news.joins.com/digitalspecial/list
 
 Making content about North Korea one day, elections the next, and beer the day after that — sustaining readers' interest is not easy. Projects also don't happen every day, and news that misses the right moment loses its news value fast — so the timing battle is also something I keep learning and relearning. (And these readers came to read "news" — it's a bit like being sentenced to sell ramen to people who walked into a bookstore...)
 

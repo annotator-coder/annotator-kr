@@ -2,7 +2,7 @@
 title: 복합적상호의존론(Complex Interdependence)
 date: '2009-03-31'
 category: 에세이·칼럼
-excerpt: IR을 공부하다보면 재미있는 이야기들이 있다. 특히나 권력관계를 다루고 있는 정치의 영역이다 ...
+excerpt: 복합적 상호의존론을 국제정치 이론에만 두지 않고, 일상과 관계의 권력 구조를 읽는 렌즈로 확장해 본 글.
 readingTime: 2
 relatedPortfolioSlugs: []
 sourceUrl: >-

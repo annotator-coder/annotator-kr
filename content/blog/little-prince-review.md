@@ -2,7 +2,7 @@
 title: <어린 왕자 Le petit prince> 서평
 date: '2009-03-11'
 category: 서평
-excerpt: "어린 왕자(Le petit Prince) 그 뒷이야기 (Behind story) "
+excerpt: ‘어린 왕자’를 다시 읽으며 어른의 세계, 순수성, 각자의 별에 사는 존재라는 질문을 서평으로 풀었다.
 readingTime: 4
 relatedPortfolioSlugs: []
 sourceUrl: >-

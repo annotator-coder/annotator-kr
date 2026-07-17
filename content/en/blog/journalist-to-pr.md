@@ -2,7 +2,7 @@
 title: "From Journalist to PR: Same Language, Different Direction"
 date: '2026-03-05'
 category: Career
-excerpt: "On making the transition from newsroom to PR after twelve years in journalism — the difference in how both professions use language, and what I found at the boundary between them."
+excerpt: "A reflection on moving from newsroom to PR after twelve years in journalism, and how both jobs use the same language in opposite directions."
 readingTime: 8
 relatedPortfolioSlugs: []
 ---

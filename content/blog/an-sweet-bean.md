@@ -2,7 +2,7 @@
 title: '앙 : 단팥 인생 이야기'
 date: '2015-10-19'
 category: 영화·드라마
-excerpt: '앙: 단팥 인생 이야기 감독 가와세 나오미 출연 키키 키린, 나가세 마사토시, 우치다 카라 개봉 2015 프랑...'
+excerpt: '영화 ‘앙: 단팥 인생 이야기’를 통해 일본 문화의 직선적 정서와 담백함, 그리고 관계를 대하는 태도를 읽어본 기록.'
 readingTime: 2
 relatedPortfolioSlugs: []
 sourceUrl: >-

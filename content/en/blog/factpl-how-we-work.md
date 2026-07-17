@@ -2,7 +2,7 @@
 title: "Can Collaboration Tools Change How Journalists Work?"
 date: '2021-12-16'
 category: Journalism
-excerpt: "The journey of the Factpl team migrating to Slack, Google Docs, and Stibee — and how our way of working shifted from vertical reporting chains to horizontal information sharing."
+excerpt: "How the Factpl team moved to Slack, Google Docs, and Stibee, and what collaboration tools changed about newsroom information sharing."
 readingTime: 7
 relatedPortfolioSlugs:
   - factpl

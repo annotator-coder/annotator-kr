@@ -3,24 +3,18 @@
 import { useState } from 'react'
 import Link from 'next/link'
 import type { BlogPost } from '@/lib/blog'
+import {
+  BLOG_CATEGORY_TOPICS,
+  PR_CAREER_EN_CATEGORIES,
+  countEnCategory,
+} from '@/lib/blog-categories'
 
-const FILTERS = ['All', 'PR & Career', 'Book Review', 'Film & Drama', 'Essay & Column', 'Travel & Space'] as const
+const FILTERS = ['All', 'PR & Career', 'Book Review', 'Film & Drama', 'Essays & Columns', 'Travel & Space'] as const
 type Filter = typeof FILTERS[number]
-
-const PR_CAREER_CATS = new Set([
-  'AI in Communications',
-  'Data Journalism',
-  'Career',
-  'Strategy & Communications',
-  'Platform Strategy',
-  'Journalism',
-  'International PR & Campaign',
-  'Crisis Communications',
-])
 
 function matchFilter(post: BlogPost, filter: Filter): boolean {
   if (filter === 'All') return true
-  if (filter === 'PR & Career') return PR_CAREER_CATS.has(post.category)
+  if (filter === 'PR & Career') return PR_CAREER_EN_CATEGORIES.has(post.category)
   return post.category === filter
 }
 
@@ -76,6 +70,33 @@ export default function BlogFilterEn({ posts }: { posts: BlogPost[] }) {
           )
         })}
       </div>
+
+      <nav
+        aria-label="Browse posts by topic"
+        style={{
+          display: 'flex',
+          gap: '8px',
+          flexWrap: 'wrap',
+          padding: '16px var(--section-px, 24px) 0',
+          maxWidth: 'var(--max-w)',
+          margin: '0 auto',
+        }}
+      >
+        {BLOG_CATEGORY_TOPICS.map((topic) => {
+          const count = countEnCategory(posts, topic)
+          if (count === 0) return null
+          return (
+            <Link
+              key={topic.slug}
+              href={`/en/blog/category/${topic.slug}`}
+              className="pill"
+              style={{ textDecoration: 'none' }}
+            >
+              {topic.enTitle} {count}
+            </Link>
+          )
+        })}
+      </nav>
 
       {/* POST LIST */}
       <section style={{ background: 'var(--color-bg-secondary)', marginTop: '20px' }}>

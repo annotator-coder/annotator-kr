@@ -1,18 +1,19 @@
 import { ImageResponse } from 'next/og'
 import { readFileSync } from 'fs'
 import { join } from 'path'
-import { getPostBySlug, getPostDescription, posts } from '@/lib/blog'
+import { getPostDescription } from '@/lib/blog'
+import { getPostEnBySlug, postsEn } from '@/lib/blog-en'
 
 export const size = { width: 1200, height: 630 }
 export const contentType = 'image/png'
 
 export async function generateStaticParams() {
-  return posts.map((p) => ({ slug: p.slug }))
+  return postsEn.map((p) => ({ slug: p.slug }))
 }
 
 export default async function Image({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params
-  const post = getPostBySlug(slug)
+  const post = getPostEnBySlug(slug)
 
   const boldFont = readFileSync(join(process.cwd(), 'public/fonts/Pretendard-Bold.otf'))
   const regularFont = readFileSync(join(process.cwd(), 'public/fonts/Pretendard-Regular.otf'))
@@ -34,10 +35,8 @@ export default async function Image({ params }: { params: Promise<{ slug: string
           fontFamily: 'Pretendard',
         }}
       >
-        {/* Top accent */}
         <div style={{ position: 'absolute', top: 0, left: 0, right: 0, height: '5px', background: '#007AFF' }} />
 
-        {/* Category */}
         <div style={{ display: 'flex', marginBottom: '28px' }}>
           <span style={{
             fontSize: '15px', fontWeight: 600, color: '#007AFF',
@@ -48,9 +47,8 @@ export default async function Image({ params }: { params: Promise<{ slug: string
           </span>
         </div>
 
-        {/* Title */}
         <div style={{
-          fontSize: title.length > 20 ? '52px' : '60px',
+          fontSize: title.length > 34 ? '44px' : '54px',
           fontWeight: 700,
           color: '#000000',
           letterSpacing: '-0.03em',
@@ -62,7 +60,6 @@ export default async function Image({ params }: { params: Promise<{ slug: string
           {title}
         </div>
 
-        {/* Excerpt */}
         <div style={{
           fontSize: '22px',
           fontWeight: 400,
@@ -72,16 +69,15 @@ export default async function Image({ params }: { params: Promise<{ slug: string
           maxWidth: '840px',
           flex: 1,
         }}>
-          {excerpt.length > 80 ? excerpt.slice(0, 80) + '…' : excerpt}
+          {excerpt.length > 100 ? excerpt.slice(0, 100) + '...' : excerpt}
         </div>
 
-        {/* Footer */}
         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', borderTop: '1px solid #C6C6C8', paddingTop: '24px' }}>
           <div style={{ fontSize: '18px', fontWeight: 700, color: '#000000', display: 'flex' }}>
             Annotator
           </div>
           <div style={{ fontSize: '16px', color: '#AEAEB2', display: 'flex' }}>
-            annotator.kr/blog
+            annotator.kr/en/blog
           </div>
         </div>
       </div>

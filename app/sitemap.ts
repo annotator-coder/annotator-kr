@@ -3,6 +3,7 @@ import { projects } from '@/lib/portfolio'
 import { posts } from '@/lib/blog'
 import { projectsEn } from '@/lib/portfolio-en'
 import { postsEn } from '@/lib/blog-en'
+import { BLOG_CATEGORY_TOPICS, getEnPostsByCategory, getKoPostsByCategory } from '@/lib/blog-categories'
 
 const BASE_URL = 'https://annotator.kr'
 
@@ -36,9 +37,21 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }))
 
+  const koBlogCategories: MetadataRoute.Sitemap = BLOG_CATEGORY_TOPICS
+    .flatMap((topic) => {
+      const categoryPosts = getKoPostsByCategory(posts, topic.slug)
+      if (categoryPosts.length === 0) return []
+      return [{
+        url: `${BASE_URL}/blog/category/${topic.slug}`,
+        lastModified: new Date(categoryPosts[0]?.updatedAt ?? categoryPosts[0]?.date ?? Date.now()),
+        changeFrequency: 'weekly' as const,
+        priority: 0.7,
+      }]
+    })
+
   const koBlog: MetadataRoute.Sitemap = posts.map((p) => ({
     url: `${BASE_URL}/blog/${p.slug}`,
-    lastModified: new Date(p.date),
+    lastModified: new Date(p.updatedAt ?? p.date),
     changeFrequency: 'monthly' as const,
     priority: 0.6,
   }))
@@ -50,9 +63,21 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }))
 
+  const enBlogCategories: MetadataRoute.Sitemap = BLOG_CATEGORY_TOPICS
+    .flatMap((topic) => {
+      const categoryPosts = getEnPostsByCategory(postsEn, topic.slug)
+      if (categoryPosts.length === 0) return []
+      return [{
+        url: `${BASE_URL}/en/blog/category/${topic.slug}`,
+        lastModified: new Date(categoryPosts[0]?.updatedAt ?? categoryPosts[0]?.date ?? Date.now()),
+        changeFrequency: 'weekly' as const,
+        priority: 0.6,
+      }]
+    })
+
   const enBlog: MetadataRoute.Sitemap = postsEn.map((p) => ({
     url: `${BASE_URL}/en/blog/${p.slug}`,
-    lastModified: new Date(p.date),
+    lastModified: new Date(p.updatedAt ?? p.date),
     changeFrequency: 'monthly' as const,
     priority: 0.5,
   }))
@@ -61,8 +86,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...koStatic,
     ...enStatic,
     ...koPortfolio,
+    ...koBlogCategories,
     ...koBlog,
     ...enPortfolio,
+    ...enBlogCategories,
     ...enBlog,
   ]
 }

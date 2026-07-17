@@ -2,7 +2,7 @@
 title: "Philomena: Plain, Yet Heavy"
 date: '2015-10-27'
 category: Film & Drama
-excerpt: "Philomena: Plain, Yet Heavy"
+excerpt: "A review of Philomena as a restrained but heavy story about loss, faith, forgiveness, and the long search for truth."
 readingTime: 3
 relatedPortfolioSlugs: []
 sourceUrl: >-

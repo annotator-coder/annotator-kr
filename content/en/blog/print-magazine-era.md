@@ -20,7 +20,7 @@ I believed print books would survive as a niche indulgence for a small number of
 
 As of 2021, the average number of books read per person per year stood at 4.5 — roughly half of the 7.5 books recorded in 2019. Only 47.5% of Koreans (as of 2020) read more than one book per year.
 
-![](https://postfiles.pstatic.net/MjAyMzAzMDdfMTMw/MDAxNjc4MTkyMTU3NDI5.OUNGXyH1ynFtCdueysxxzAiiGdGD76bDEIzR1nwhlHYg.P9JIzjZU88db1p8LceZav-zbVJYDMPeghpn-GEU24sAg.JPEG.whiteagle/benjamin-dada-EDZTb2SQ6j0-unsplash.jpg?type=w966)
+![Books suggesting print magazines and independent publishing](https://postfiles.pstatic.net/MjAyMzAzMDdfMTMw/MDAxNjc4MTkyMTU3NDI5.OUNGXyH1ynFtCdueysxxzAiiGdGD76bDEIzR1nwhlHYg.P9JIzjZU88db1p8LceZav-zbVJYDMPeghpn-GEU24sAg.JPEG.whiteagle/benjamin-dada-EDZTb2SQ6j0-unsplash.jpg?type=w966)
 
 Photo: [Benjamin Dada](https://unsplash.com/@dadaben_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/ko/s/%EC%82%AC%EC%A7%84/%EC%9D%B8%ED%84%B0%EB%84%B7?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
@@ -38,7 +38,7 @@ The results are well known. Nobody carries an e-reader today.
 
 Someone might mention the iPad as a substitute. But honestly, who would use a tablet capable of streaming video, playing games, drawing, and taking notes just to read books in a conventional way?
 
-![](https://postfiles.pstatic.net/MjAyMzAzMDdfOTAg/MDAxNjc4MTkyMjk4NTM4.LZ_RvwOfjAiKJbEKBYi7Z8hGY_uT1l8iHxQ0vvstjwkg.zufnDETA3hFSQYZKvCIBnYE7DtyBXit1DeXZazGCGkIg.JPEG.whiteagle/SE-bfba9396-2eb5-4ce1-a133-b617faf4685e.jpg?type=w966)
+![Covers and pages from small independent magazines](https://postfiles.pstatic.net/MjAyMzAzMDdfOTAg/MDAxNjc4MTkyMjk4NTM4.LZ_RvwOfjAiKJbEKBYi7Z8hGY_uT1l8iHxQ0vvstjwkg.zufnDETA3hFSQYZKvCIBnYE7DtyBXit1DeXZazGCGkIg.JPEG.whiteagle/SE-bfba9396-2eb5-4ce1-a133-b617faf4685e.jpg?type=w966)
 
 Photo: [Alessia C\_Jpg](https://unsplash.com/@alessiac_jpg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/ko/s/%EC%82%AC%EC%A7%84/kindle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
@@ -50,13 +50,13 @@ The limited attention of users fragmented into photos, videos, online communitie
 
 Going to a bookstore became less of a purchasing act and more of an exploratory experience — a way to express one's cultural sensibility.
 
-![](https://postfiles.pstatic.net/MjAyMzAzMDdfMTM3/MDAxNjc4MTkyNTA1NTMz.Pzvp2clofe6-AfN0DnE__Lnu0s_tgdU5qsWtWIV49hsg.uFBcL5rFcHA2wdGDUlh2XQ_KRsaT-K_kZZjLhxsh3Nsg.JPEG.whiteagle/20190810_120439.jpg?type=w966)
+![Independent magazines displayed in a bookstore](https://postfiles.pstatic.net/MjAyMzAzMDdfMTM3/MDAxNjc4MTkyNTA1NTMz.Pzvp2clofe6-AfN0DnE__Lnu0s_tgdU5qsWtWIV49hsg.uFBcL5rFcHA2wdGDUlh2XQ_KRsaT-K_kZZjLhxsh3Nsg.JPEG.whiteagle/20190810_120439.jpg?type=w966)
 
 Used bookstore — Photo by annotator
 
 As reading itself became a rarity, vertical markets targeting readers began to emerge. The most prominent example is **Trevarri**, a service that combines book clubs with community. This offline gathering-based service aims to deliver not just knowledge from reading, but also the insights gained through discussion and the exchange of ideas.
 
-![](https://postfiles.pstatic.net/MjAyMzAzMDdfMjk5/MDAxNjc4MTkyMzk1MDk2.GDw30obvA_hZoyZjaj5D-d6QS2F97RQtdxz36dByt8gg.1pVga3VbINH7tsBEWMek8ZrTbqiPgrNRCaOPHqpqJs4g.PNG.whiteagle/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2023-03-07_%EC%98%A4%ED%9B%84_9.32.42.png?type=w966)
+![Screenshot of an independent magazine website](https://postfiles.pstatic.net/MjAyMzAzMDdfMjk5/MDAxNjc4MTkyMzk1MDk2.GDw30obvA_hZoyZjaj5D-d6QS2F97RQtdxz36dByt8gg.1pVga3VbINH7tsBEWMek8ZrTbqiPgrNRCaOPHqpqJs4g.PNG.whiteagle/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2023-03-07_%EC%98%A4%ED%9B%84_9.32.42.png?type=w966)
 
 Trevarri service
 
@@ -70,7 +70,7 @@ The Decline of Print Magazines. Smaller Bodies, Wider Topics.
 
 The most interesting part of this story is what's happening with magazines. In their heyday, magazines were an excellent multimedia format. *Women Joongang*, founded in 1970, once printed 100,000 copies a month. Titles like *Samteo*, *Happiness Is Full*, and *Women Dong-A* were ubiquitous in beauty salons, hospitals, banks, government offices, and cafes — prime advertising real estate for brands.
 
-![](https://postfiles.pstatic.net/MjAyMzAzMDdfMTQ1/MDAxNjc4MTkyNjcxMjc1.mP7KmEW9OQEQD0RA9l1DVLbbVgrpNfspvJTEIvQFD2Qg._mL9agmB8qs48PZA4C6qiZaXQVm193O9VFUs8yIC_IUg.JPEG.whiteagle/SE-61f75149-da38-4c5d-8ec4-cff83a40b7fd.jpg?type=w966)
+![Design-focused independent magazine image](https://postfiles.pstatic.net/MjAyMzAzMDdfMTQ1/MDAxNjc4MTkyNjcxMjc1.mP7KmEW9OQEQD0RA9l1DVLbbVgrpNfspvJTEIvQFD2Qg._mL9agmB8qs48PZA4C6qiZaXQVm193O9VFUs8yIC_IUg.JPEG.whiteagle/SE-61f75149-da38-4c5d-8ec4-cff83a40b7fd.jpg?type=w966)
 
 With their vivid imagery and visual flair — somewhere between newspapers and television — magazines perhaps read the currents of the times faster than other media. They were more refined and sensuous, capturing attention in ways books and newspapers couldn't. But they too lost ground to the internet. According to industry statistics, the number of people employed in Korea's magazine sector fell from 18,729 in 2012 to 12,154 in 2017, and then to 6,926 in 2021.
 
@@ -82,7 +82,7 @@ This can be understood as a shift away from **large-scale magazines** toward a p
 
 In its place, independent magazines that focus on editorial content and emphasize book-like value have multiplied. Just among the titles I personally enjoy, there are magazines covering brands (**Magazine B**), urban culture stories (**Urban Life**, **Around**, **Magazine Brick**), and philosophy (**New Philosopher**) — a diverse range that readers have warmly embraced.
 
-![](https://postfiles.pstatic.net/MjAyMzAzMDdfNjgg/MDAxNjc4MTkyMDY4OTcw.B9cGsYASrPPuGoBuc9IgPZLYh_-xBvjwZE6oRV6TOY4g.sr9ZEyIs8oIORvLHTkVv64-i8o4za4on_Vtm17vVXQgg.JPEG.whiteagle/DSC_5488.jpg?type=w966)
+![Magazines and printed material on a shelf](https://postfiles.pstatic.net/MjAyMzAzMDdfNjgg/MDAxNjc4MTkyMDY4OTcw.B9cGsYASrPPuGoBuc9IgPZLYh_-xBvjwZE6oRV6TOY4g.sr9ZEyIs8oIORvLHTkVv64-i8o4za4on_Vtm17vVXQgg.JPEG.whiteagle/DSC_5488.jpg?type=w966)
 
 According to the Ministry of Culture, Sports and Tourism's periodic publication registry, the number of magazine titles — which had dropped to 4,931 in 2016 — climbed back to 5,495 by 2021. The age of the **High Quality Independent Magazine** has arrived. This rise is driven by readers seeking curated, verified knowledge delivered by someone with similar tastes — a desire for trustworthy editorial curation in an age of information overload.
 
@@ -96,7 +96,7 @@ These magazines prize an independent perspective that distinguishes them from ma
 
 The Age of Taste — Where Will Magazines Go?
 
-![](https://postfiles.pstatic.net/MjAyMzAzMDdfMTUw/MDAxNjc4MTkzMTIxMzU2.UGzWMzH-IeEoXa16kBUjONl2jYDefpN7pDhN-iT-Apsg.DhRVOtkm3cWuUGDXjpd0RA7dp4tfeNScNU8lrDL9ekAg.JPEG.whiteagle/IMG_7078.JPG?type=w966)
+![Physical copy of We Read Magazine](https://postfiles.pstatic.net/MjAyMzAzMDdfMTUw/MDAxNjc4MTkzMTIxMzU2.UGzWMzH-IeEoXa16kBUjONl2jYDefpN7pDhN-iT-Apsg.DhRVOtkm3cWuUGDXjpd0RA7dp4tfeNScNU8lrDL9ekAg.JPEG.whiteagle/IMG_7078.JPG?type=w966)
 
 Powell's bookstore in Portland. Packed with people, as always.
 
@@ -108,15 +108,15 @@ These magazines are closer to books than traditional periodicals, and they often
 
 These titles have been growing their circulation by about 7% annually, even amid the broader print magazine crisis. A prime example is **Monocle**, a business lifestyle magazine founded in 2007. **Monocle has grown into a brand in its own right, collaborating with various companies and becoming a new role model for what a magazine can be.**
 
-![](https://postfiles.pstatic.net/MjAyMzAzMDdfMTc5/MDAxNjc4MTkyOTQ3NDk2.lNBP2uVbQnlTIrF07FGqWZ3CZX9w0kCo0CTPjUWR9G8g.EQqB4oGP5FJUUCCIdQ68CTJ-c60qskk5kEVtOsjaTy8g.JPEG.whiteagle/igor-son-T3SPt4Y8sQ8-unsplash.jpg?type=w966)
+![Hands reading a printed book or magazine](https://postfiles.pstatic.net/MjAyMzAzMDdfMTc5/MDAxNjc4MTkyOTQ3NDk2.lNBP2uVbQnlTIrF07FGqWZ3CZX9w0kCo0CTPjUWR9G8g.EQqB4oGP5FJUUCCIdQ68CTJ-c60qskk5kEVtOsjaTy8g.JPEG.whiteagle/igor-son-T3SPt4Y8sQ8-unsplash.jpg?type=w966)
 
 Photo: [Igor Son](https://unsplash.com/@igorson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/ko/s/%EC%82%AC%EC%A7%84/monocle-magazine?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 In Korea, several magazines are also forging new paths. **Another point worth noting is startups.** Recently, startups have begun to take an interest in print magazines. Companies like Baemin (*Magazine F*) and Zigbang (*Directory*) have created distinctly focused publications, and Ohouse has produced limited-edition lifestyle magazines. These function almost like merchandise for their fan bases — creating a sense of community rooted in physical objects — while also communicating a brand's coolness and identity.
 
-![](https://postfiles.pstatic.net/MjAyMzAzMDdfMTUg/MDAxNjc4MTkzMjgxNTk3.K16dq7L1qGS8O8cBeoHoFJ0UozGRvNptPnJO79IzpXQg.zgJTxf3NRsJFnh44HiQTZNV88hv1DxQ2iGfSxEkxRqUg.JPEG.whiteagle/1.jpeg?type=w966)
+![First example spread from a magazine](https://postfiles.pstatic.net/MjAyMzAzMDdfMTUg/MDAxNjc4MTkzMjgxNTk3.K16dq7L1qGS8O8cBeoHoFJ0UozGRvNptPnJO79IzpXQg.zgJTxf3NRsJFnh44HiQTZNV88hv1DxQ2iGfSxEkxRqUg.JPEG.whiteagle/1.jpeg?type=w966)
 
-![](https://postfiles.pstatic.net/MjAyMzAzMDdfMTA1/MDAxNjc4MTkzMjgxNjAy.1T8l4rCil6y0_4y1Q9HiNQ2q44_dmAa3PJAKSHzRauAg.ymzMMB44fXLw-s_pXDSA1AA2_KEGv7lblPmbne4BBvAg.JPEG.whiteagle/2.jpeg?type=w966)
+![Second example spread from a magazine](https://postfiles.pstatic.net/MjAyMzAzMDdfMTA1/MDAxNjc4MTkzMjgxNjAy.1T8l4rCil6y0_4y1Q9HiNQ2q44_dmAa3PJAKSHzRauAg.ymzMMB44fXLw-s_pXDSA1AA2_KEGv7lblPmbne4BBvAg.JPEG.whiteagle/2.jpeg?type=w966)
 
 *Directory* magazine by Zigbang
 

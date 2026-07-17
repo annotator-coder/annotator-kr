@@ -2,7 +2,7 @@
 title: 'The Price of Innovation — Joongang and the Debt of Legacy Media'
 date: '2026-06-23'
 category: Essays & Columns
-excerpt: "In June 2026, the JoongAng Group and JTBC entered court receivership. It was the convergence of a decade of digital-transformation attempts, aggressive investment, and the structural collapse of the ad market. One media group's crisis is also a question for Korea's entire media ecosystem."
+excerpt: "A look at JoongAng and JTBC's 2026 receivership as the result of digital transformation debt, aggressive investment, and a collapsing ad market."
 readingTime: 12
 relatedPortfolioSlugs: []
 ---

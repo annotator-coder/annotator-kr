@@ -17,7 +17,7 @@ ep.1 \[참지마요 분노왕\]은 원래, '분노왕 김침착'이었다
 
 원래 우리는 유튜브 영상을 준비하며 참 다양한 지령(?)을 받았다. 마음이 맞아서 우리가 정말 잘하는 걸로 영상을 준비하기 보다는 '영상을 해야 한다'는 목적에 맞춰 할 수 있는 것들을 찾았기 때문이다.
 
-![](https://img1.daumcdn.net/thumb/R1280x0.fwebp/?fname=http://t1.daumcdn.net/brunch/service/user/yRY/image/q-xCX7WxNHhRMygoFxVJbTxM2yk) 초창기에는 정말 회의가 많았다. 구글 스프린트를 몇번이나 했는지...
+![콘텐츠 이름을 정하기 위해 회의하던 초기 기획 과정](https://img1.daumcdn.net/thumb/R1280x0.fwebp/?fname=http://t1.daumcdn.net/brunch/service/user/yRY/image/q-xCX7WxNHhRMygoFxVJbTxM2yk) 초창기에는 정말 회의가 많았다. 구글 스프린트를 몇번이나 했는지...
 
 당초 가제로 지어졌던 채널명은 - 아주 초기를 제외하고 - **'단짠단짠'** 이었다.
 
@@ -29,7 +29,7 @@ ep.1 \[참지마요 분노왕\]은 원래, '분노왕 김침착'이었다
 
 그리고 중립개념으로 맹탕편에서 뉴광(광고 같은 뉴스-대놓고 하는 광고), 멍콘(멍때리기 좋은 콘텐츠) 등을 준비했다. 물론 내용을 고민하고 내용에 맞게 상위에서 묶어주는 느낌으로 이름짓기를 하다보니 나온 건데, 지나고 보니 나쁘진 않은것 같다. 하지만 역시 '단짠단짠'은 20대 인생보다는 음식이나, 요리, 먹방 등에 최적화된 이름이라는 생각이 들기도 했고....
 
-![](https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/yRY/image/tzEyLW7XguJeU76RpZxVaiU_HN8.jpg) 대략 우리가 생각했던 국내외 포지셔닝 새롭게 뭔가를 한다면 자신의 위치를 고려해야 한다
+![국내외 콘텐츠 포지셔닝을 정리한 기획 이미지](https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/yRY/image/tzEyLW7XguJeU76RpZxVaiU_HN8.jpg) 대략 우리가 생각했던 국내외 포지셔닝 새롭게 뭔가를 한다면 자신의 위치를 고려해야 한다
 
 결과적으로는 좀 더 하위레벨에서 세부콘텐츠를 만들어야 했기에 일단은 접었다.
 

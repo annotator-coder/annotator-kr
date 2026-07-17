@@ -2,7 +2,7 @@
 title: "Annotating Concrete Utopia: The Questions This Film Asks"
 date: '2023-08-29'
 category: Film & Drama
-excerpt: "Does utopia exist? Or doesn't it?"
+excerpt: "A reading of Concrete Utopia as a film about disaster, community, survival ethics, class boundaries, and whether utopia can exist."
 readingTime: 6
 relatedPortfolioSlugs: []
 sourceUrl: >-

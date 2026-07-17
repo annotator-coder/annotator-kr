@@ -2,7 +2,7 @@
 title: 전략적 모호성과 '밀당'
 date: '2023-01-01'
 category: 에세이·칼럼
-excerpt: "전략적 모호성과 '밀당' \_ \_ 흔히 외교가에서 한국이라는 작은 나라가 할 수 있는 선택으..."
+excerpt: 외교의 전략적 모호성을 연애의 밀당에 비유하며, 선택을 미루는 전략이 언제 힘이 되고 언제 한계가 되는지 썼다.
 readingTime: 2
 relatedPortfolioSlugs: []
 sourceUrl: >-

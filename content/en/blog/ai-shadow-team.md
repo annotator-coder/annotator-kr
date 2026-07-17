@@ -2,7 +2,7 @@
 title: "I Built a Shadow Team"
 date: '2026-06-15'
 category: Essays & Columns
-excerpt: "In content work the human's thinking matters most, but there are times when it helps to have someone set the starting point. Three months of working with an AI shadow team."
+excerpt: "What happened after building an AI shadow content team: using agents for research, planning, writing, channel expansion, and team decisions."
 readingTime: 8
 relatedPortfolioSlugs:
   - ai-newsroom-team

@@ -2,7 +2,7 @@
 title: 정규 분포의 붕괴와 멱함수의 시대
 date: '2016-01-27'
 category: 에세이·칼럼
-excerpt: 통계학에는 정규분포(normal distribution)이라는 게 있다. 통계학적 방법을 사용할 때 가장 중요하게 활용...
+excerpt: 정규분포로 설명되지 않는 시대에 멱함수와 극단값이 왜 더 중요해졌는지, 통계 개념을 일상의 변화와 연결했다.
 readingTime: 1
 relatedPortfolioSlugs: []
 sourceUrl: >-
@@ -19,7 +19,7 @@ sourceUrl: >-
 
   
 
-![](https://postfiles.pstatic.net/20160127_71/whiteagle_1453850751739HxPMT_JPEG/%C1%A4%B1%D4%BA%D0%C6%F7.JPG?type=w1)
+![정규분포 그래프 이미지](https://postfiles.pstatic.net/20160127_71/whiteagle_1453850751739HxPMT_JPEG/%C1%A4%B1%D4%BA%D0%C6%F7.JPG?type=w1)
 
  이는 100명 중 임의로 누군가를 골라 키를 재었을 때 4명을 제외하고 96명은 예상되는 2시그마 내 평균 범주에 속한다는 의미다. 이를 정규(normal) 분포라 부른다. 세상 모든 것들이 정규분포를 따르지는 않겠지만 우리가 이를 정규(normal)라 이름붙인 이유는 이런 상태가 정상(normal)에 가깝기 때문이다. 
 

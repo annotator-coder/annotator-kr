@@ -56,7 +56,7 @@ I wasn't an owner, a CEO, an editor-in-chief, or even a team leader. But I felt 
 
 Looking back now at most news organizations, they still haven't managed to *Hit Refresh*. They've certainly pressed F5 any number of times. Someone pressed it and exploded in impatience. Someone else hammered it until they gave up and returned to the old way. And now we're still pressing F5, watching the spinning cursor with growing anxiety. (Actually, "hit refresh" isn't just a simple page reload — it's closer to a full reset, a format, the kind of wipe-and-restart we mean when we say "start from scratch.")
 
-![](https://img1.daumcdn.net/thumb/R1280x0.fgif/?fname=http://t1.daumcdn.net/brunch/service/user/yRY/image/vK4idb0hCUgBs2Kwy17vJq87WpI.gif) That feeling, exactly.
+![A GIF expressing the feeling of an organization refreshing itself](https://img1.daumcdn.net/thumb/R1280x0.fgif/?fname=http://t1.daumcdn.net/brunch/service/user/yRY/image/vK4idb0hCUgBs2Kwy17vJq87WpI.gif) That feeling, exactly.
 
 Results haven't been zero. As the book notes, even Siddhartha's enlightenment began with the first step of perceiving reality — witnessing the Four Sufferings. Everyone recognizes the "crisis" and is trying to find role models, set a direction. Collecting user data, launching new services, bringing in outside consultants, writing internal innovation reports... And yet, why does the far shore of the river we need to cross remain invisible?
 

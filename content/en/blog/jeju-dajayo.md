@@ -58,7 +58,7 @@ If you're curious about the Dajayo story, you can search for articles. Here's on
 
 I had hoped to spend most of the ten-plus-day trip staying at various Dajayo houses across Jeju, but many popular options were fully booked, and the routes didn't line up perfectly — so I had to settle for the Sinpung Vine House.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMTNfMjA1/MDAxNjc2MjM3OTgwNTA3.LMV1PoCvjP2YBKqzsf8aiqSK3SNLiF7g0vIloboCC9wg.tVvMj3cRG2SAwBQraA9sd3m4m_9w6Jfwqod8-wZH9uMg.PNG.whiteagle/%EB%8B%A4%EC%9E%90%EC%9A%94_%EC%88%99%EC%86%8C.png?type=w966)
+![Dazayo lodging image of Shinpung Vine House in Jeju](https://postfiles.pstatic.net/MjAyMzAyMTNfMjA1/MDAxNjc2MjM3OTgwNTA3.LMV1PoCvjP2YBKqzsf8aiqSK3SNLiF7g0vIloboCC9wg.tVvMj3cRG2SAwBQraA9sd3m4m_9w6Jfwqod8-wZH9uMg.PNG.whiteagle/%EB%8B%A4%EC%9E%90%EC%9A%94_%EC%88%99%EC%86%8C.png?type=w966)
 
 Dajayo has many charming properties through its vacant home revival program.
 

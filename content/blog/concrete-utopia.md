@@ -2,7 +2,7 @@
 title: '콘크리트유토피아에 주석달기 : 영화가 던지는 질문들'
 date: '2023-08-29'
 category: 영화·드라마
-excerpt: 유토피아는 있다? 없다?
+excerpt: 영화 ‘콘크리트 유토피아’가 재난 이후의 공동체, 생존 윤리, 계급의 경계를 어떻게 묻는지 주석처럼 정리했다.
 readingTime: 6
 relatedPortfolioSlugs: []
 sourceUrl: >-
@@ -17,7 +17,7 @@ sourceUrl: >-
 지난주 좀 늦게 본 영화는 **콘크리트 유토피아**다. 극장에 **오펜하이머**도 걸려 있고, 여름철 텐트폴이라는 밀수 같은 영화도 있어 어떤걸 고를까 고민했는데 평점이 꽤 높은 **콘크리트 유토피아**를 골랐다.(오펜하이머도 여유가 되는데로 곧 볼 것 같다.)
 
 
-![](https://s.pstatic.net/movie.phinf/20230809_114/1691559109714F3JPy_JPEG/movie_image.jpg?type=w640_2)
+![영화 콘크리트 유토피아 포스터](https://s.pstatic.net/movie.phinf/20230809_114/1691559109714F3JPy_JPEG/movie_image.jpg?type=w640_2)
 
 
 > 콘크리트유토피아
@@ -51,7 +51,7 @@ sourceUrl: >-
 
 이론적으로 보자면, 아무리 대형 지진이 발생한다고 하더라도 그 여파는 도시를, 국가를 넘기 힘들다. 그렇기에 다른 외부의 손길이나 도움이 이어지기 마련이지만, **영화는 그런 전형적 공식을 버린다**. 극장이라는 공간이 '단절'된 경험을 극대화하듯, 콘크리트 유토피아 또한 황궁 아파트와 그 주변으로 모든 시선과 관심을 집중시킨다.
 
-![](https://postfiles.pstatic.net/MjAyMzA4MjlfMjkw/MDAxNjkzMjU2MjczMDk3.j7uB5eaDTznAQ0OlhhcfRMXXkIh-w4lI7tBvJ08h0dgg.42hyEH6Rq7BmELfv2eS4PNqvYc1g5tmJaEakSyD8FO8g.JPEG.whiteagle/25.jpg?type=w966)
+![콘크리트 유토피아 속 황궁아파트 장면](https://postfiles.pstatic.net/MjAyMzA4MjlfMjkw/MDAxNjkzMjU2MjczMDk3.j7uB5eaDTznAQ0OlhhcfRMXXkIh-w4lI7tBvJ08h0dgg.42hyEH6Rq7BmELfv2eS4PNqvYc1g5tmJaEakSyD8FO8g.JPEG.whiteagle/25.jpg?type=w966)
 
 ---
 
@@ -84,11 +84,11 @@ sourceUrl: >-
 
 박서준 분이 되뇌는, '어쩔 수 없잖아.' 라는 말들. 이건 극단의 상황 속에서 모든 사람이 당연히 여기고, 평범하게 하는 것들이 악이 될 수 있다는 **악의 평범성(Banality of evil)**을 보여주는 사례다. 물론 감독도 정답을 갖고 있지는 않을테다. 역사는 지나간 뒤에 심판하는 자가 기록한 것에 불과하기에 황궁아파트의 이들이 '틀렸다'라고 말하기는 힘들다.
 
-![](https://postfiles.pstatic.net/MjAyMzA4MjlfMTQ5/MDAxNjkzMjU2NDI2ODU3.ZervlUGRo773McCksBvNr_B02PLrUiWzswU8S_Z9XLYg.yE0fbzc8g4pR_YAoxcEP56celMVRslpVmKLoaQ4RCucg.JPEG.whiteagle/%EC%95%85%ED%8F%89.jpg?type=w966)
+![콘크리트 유토피아 악평 화면 캡처](https://postfiles.pstatic.net/MjAyMzA4MjlfMTQ5/MDAxNjkzMjU2NDI2ODU3.ZervlUGRo773McCksBvNr_B02PLrUiWzswU8S_Z9XLYg.yE0fbzc8g4pR_YAoxcEP56celMVRslpVmKLoaQ4RCucg.JPEG.whiteagle/%EC%95%85%ED%8F%89.jpg?type=w966)
 
 몰래 사람을 숨겨준 주민에게, 이들도 주민이니 용서한다. 단 모두 앞에서 무릎을 꿇고 사과를 외쳐야 한다고 결론내리는 건, **묘한 인민재판의 모습을 보여주면서도 이들이 '따르거나, 떠나거나' 양재 택일의 상황을 준다**는 의미에서 또 홀로코스트와는 다른 모습을 보여준다.
 
-![](https://postfiles.pstatic.net/MjAyMzA4MjlfMjY3/MDAxNjkzMjU2ODg0MzQx.HBwg-L8MUX8_gFxqEtc7o4PwxnAQW2QyW-VuH6wboO0g.o9WIcrpuERtQ568xjSAn3t0ZCk3MdMbGsqypam2II2kg.PNG.whiteagle/image.png?type=w966)
+![콘크리트 유토피아 관련 설명 이미지](https://postfiles.pstatic.net/MjAyMzA4MjlfMjY3/MDAxNjkzMjU2ODg0MzQx.HBwg-L8MUX8_gFxqEtc7o4PwxnAQW2QyW-VuH6wboO0g.o9WIcrpuERtQ568xjSAn3t0ZCk3MdMbGsqypam2II2kg.PNG.whiteagle/image.png?type=w966)
 
 ---
 
@@ -140,7 +140,7 @@ sourceUrl: >-
 
 **내가 리더였다면 어떤 선택을 했을까**. 리차드 도킨슨의 책 이기적유전자처럼 우리도 어쩌면 생존머신이고 나라는 개체-혹은 확대된 개체로서의 공동체의 생존을 위해 모든 걸 희생시켜도 좋다고 생각하진 않았을까. 혹은 극중 박서준처럼 어느정도 순응하고 그 체제 내에서 나의 이득을 극대화하려고 하지 않았을가. 아마도 극장의 많은 사람들이 비슷한 생각과 고민을 했으리라.
 
-![](https://postfiles.pstatic.net/MjAyMzA4MjlfMTI1/MDAxNjkzMjU2Njk2OTY3.8lNeG08XLHBBatQ62dKpNo3R1Kx5ndhpufhfY70qIr8g.ziZkRCCgrF2o4ow8VrxrFhtouHgXKAzaEY4sCpZvkY4g.JPEG.whiteagle/10.jpg?type=w966)
+![콘크리트 유토피아 인물 장면](https://postfiles.pstatic.net/MjAyMzA4MjlfMTI1/MDAxNjkzMjU2Njk2OTY3.8lNeG08XLHBBatQ62dKpNo3R1Kx5ndhpufhfY70qIr8g.ziZkRCCgrF2o4ow8VrxrFhtouHgXKAzaEY4sCpZvkY4g.JPEG.whiteagle/10.jpg?type=w966)
 
 마지막 엔딩은, 서울역에서 황궁아파트 주민들이 선택하지 않은 삶을 사는 이들을 보여준다. 이들은 이들 나름의 선택과 방법으로 생존하고 있다. 하지만 감독이 '이런방법도 있었다'는 메세지를 주는 건 아니다. 이들 또한 알량한 쉘터가 있었다면, 무너지지 않은 아파트(기득권)이 있었다면 그걸 지키기 위해 무슨짓이든 다했을지 모르기 때문이다.
 

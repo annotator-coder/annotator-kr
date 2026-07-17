@@ -2,7 +2,7 @@
 title: '필로미나 : 담백한 그러나 묵직한'
 date: '2015-10-27'
 category: 영화·드라마
-excerpt: '필로미나 : 담백한 그러나 묵직한'
+excerpt: 영화 ‘필로미나’가 보여주는 상실, 용서, 진실 추적의 과정을 담백하지만 묵직한 이야기로 읽어낸 감상.
 readingTime: 3
 relatedPortfolioSlugs: []
 sourceUrl: >-
@@ -20,7 +20,7 @@ sourceUrl: >-
 
 ****
 
-**![](https://postfiles.pstatic.net/20151027_136/whiteagle_1445936146329WXIf6_JPEG/7.jpg?type=w1)**
+**![영화 필로미나 장면 이미지](https://postfiles.pstatic.net/20151027_136/whiteagle_1445936146329WXIf6_JPEG/7.jpg?type=w1)**
 
 **실제 필로미나씨와 영화에서 역을 맡은 주디 덴치**
 

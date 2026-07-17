@@ -3,18 +3,18 @@
 import { useState } from 'react'
 import Link from 'next/link'
 import type { BlogPost } from '@/lib/blog'
+import {
+  BLOG_CATEGORY_TOPICS,
+  PR_CAREER_KO_CATEGORIES,
+  countKoCategory,
+} from '@/lib/blog-categories'
 
 const FILTERS = ['전체', 'PR·커리어', '서평', '영화·드라마', '에세이·칼럼', '여행·공간'] as const
 type Filter = typeof FILTERS[number]
 
-const PR_CATS = new Set([
-  'AI in Communications', '데이터 저널리즘', '커리어', '전략 커뮤니케이션',
-  '국제 PR · 캠페인', '위기 커뮤니케이션', '저널리즘', '플랫폼 전략',
-])
-
 function matchFilter(post: BlogPost, filter: Filter): boolean {
   if (filter === '전체') return true
-  if (filter === 'PR·커리어') return PR_CATS.has(post.category)
+  if (filter === 'PR·커리어') return PR_CAREER_KO_CATEGORIES.has(post.category)
   return post.category === filter
 }
 
@@ -75,6 +75,33 @@ export default function BlogFilter({ posts }: { posts: BlogPost[] }) {
           )
         })}
       </div>
+
+      <nav
+        aria-label="주제별 글"
+        style={{
+          display: 'flex',
+          gap: '8px',
+          flexWrap: 'wrap',
+          padding: '16px var(--section-px, 24px) 0',
+          maxWidth: 'var(--max-w)',
+          margin: '0 auto',
+        }}
+      >
+        {BLOG_CATEGORY_TOPICS.map((topic) => {
+          const count = countKoCategory(posts, topic)
+          if (count === 0) return null
+          return (
+            <Link
+              key={topic.slug}
+              href={`/blog/category/${topic.slug}`}
+              className="pill"
+              style={{ textDecoration: 'none' }}
+            >
+              {topic.koTitle} {count}
+            </Link>
+          )
+        })}
+      </nav>
 
       {/* POST LIST */}
       <section style={{ background: 'var(--color-bg-secondary)', marginTop: '20px' }}>

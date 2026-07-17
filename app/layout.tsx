@@ -4,6 +4,7 @@ import { SpeedInsights } from '@vercel/speed-insights/next'
 import { GoogleAnalytics } from '@next/third-parties/google'
 import Nav from '@/components/Nav'
 import Footer from '@/components/Footer'
+import DocumentLang from '@/components/DocumentLang'
 import './globals.css'
 
 export const metadata: Metadata = {
@@ -57,6 +58,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <link rel="stylesheet" href="/fonts/pretendard/pretendardvariable-dynamic-subset.css" />
       </head>
       <body>
+        <DocumentLang />
         <Nav />
         <main>{children}</main>
         <Footer />

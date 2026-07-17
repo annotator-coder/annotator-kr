@@ -2,7 +2,7 @@
 title: '제주가족여행에 좋은 제주 신풍 넝쿨집, 제주돌담과 달팽이... 다자요'
 date: '2023-02-13'
 category: 여행·공간
-excerpt: '지난해 다녀온 제주의 넝쿨이 싱그러운 돌담집. #신풍넝쿨집 이야기입니다. '
+excerpt: 제주 신풍 넝쿨집에서 보낸 가족여행 기록. 돌담집의 공간감, 아이와 함께한 시간, 다자요 숙소 경험을 남겼다.
 readingTime: 6
 relatedPortfolioSlugs: []
 sourceUrl: >-
@@ -70,7 +70,7 @@ sourceUrl: >-
 
 [https://www.hani.co.kr/arti/economy/it/999207.html](https://www.hani.co.kr/arti/economy/it/999207.html)
 
-[![](https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fflexible.img.hani.co.kr%2Fflexible%2Fnormal%2F970%2F728%2Fimgdb%2Foriginal%2F2021%2F0613%2F20210613502202.jpg%22&type=ff500_300)](https://www.hani.co.kr/arti/economy/it/999207.html)
+[![제주 빈집 재생 숙박 브랜드 다자요 관련 기사 이미지](https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fflexible.img.hani.co.kr%2Fflexible%2Fnormal%2F970%2F728%2Fimgdb%2Foriginal%2F2021%2F0613%2F20210613502202.jpg%22&type=ff500_300)](https://www.hani.co.kr/arti/economy/it/999207.html)
 
 
 
@@ -89,7 +89,7 @@ sourceUrl: >-
 
 동선도 잘 맞지 않아 당시엔 신풍 넝쿨집으로 일단 만족해야 했습니다.
 
-![](https://postfiles.pstatic.net/MjAyMzAyMTNfMjA1/MDAxNjc2MjM3OTgwNTA3.LMV1PoCvjP2YBKqzsf8aiqSK3SNLiF7g0vIloboCC9wg.tVvMj3cRG2SAwBQraA9sd3m4m_9w6Jfwqod8-wZH9uMg.PNG.whiteagle/%EB%8B%A4%EC%9E%90%EC%9A%94_%EC%88%99%EC%86%8C.png?type=w966)
+![제주 신풍 넝쿨집 다자요 숙소 이미지](https://postfiles.pstatic.net/MjAyMzAyMTNfMjA1/MDAxNjc2MjM3OTgwNTA3.LMV1PoCvjP2YBKqzsf8aiqSK3SNLiF7g0vIloboCC9wg.tVvMj3cRG2SAwBQraA9sd3m4m_9w6Jfwqod8-wZH9uMg.PNG.whiteagle/%EB%8B%A4%EC%9E%90%EC%9A%94_%EC%88%99%EC%86%8C.png?type=w966)
 
 다자요가 빈집 재생으로 만든 숙소... 매력적인 곳이 많습니다.
 
@@ -320,4 +320,3 @@ sourceUrl: >-
 괜히 시골 할머니집을 나중에 리모델링해보고 싶다는 생각이 다시 불쑥 드네요.
 
 읽어주셔서 감사합니다.
-

@@ -2,7 +2,7 @@
 title: 넷플릭스 추천 힐링 드라마 '블랙독'... 쌉싸름한 아이스 아메리카노 같은 드라마
 date: '2023-02-25'
 category: 영화·드라마
-excerpt: '블랙독은 기대하지 않았다가, 빠져든 드라마다. '
+excerpt: 넷플릭스 드라마 ‘블랙독’을 통해 학교라는 조직, 초임 교사의 불안, 담백하지만 깊은 성장 서사를 읽었다.
 readingTime: 8
 relatedPortfolioSlugs: []
 sourceUrl: >-

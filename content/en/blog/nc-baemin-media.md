@@ -11,7 +11,7 @@ The Boundaries Are Dissolving
 
 Let's talk about something most people already know. You might occasionally drink Red Bull. You can find it at any convenience store. I'll grab one sometimes on long drives. (In Korea there are substitutes — Bacchus being the classic, and Hotgx targeting the same niche.) Honestly, Red Bull tastes bad and costs too much. And yet at some point you find yourself placing it on the counter. Red Bull knows its own drink is bad and expensive too. As a joke, they say "we accidentally got into the energy drink business."
 
-![](https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/yRY/image/HPIR7Pl2rVxD1ozRo2tVk6Po0Q4.jpg) Working on a space-related story lately, so a shot of Elon Musk...
+![Elon Musk image used as a reference for a space-related story](https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/yRY/image/HPIR7Pl2rVxD1ozRo2tVk6Po0Q4.jpg) Working on a space-related story lately, so a shot of Elon Musk...
 
 In 2005, Red Bull was a Formula 1 sponsor. At the time, they brought a large printing press to the race venue and distributed results on the spot right after each race — like the betting slips handed out at horse races. Two years later they decided to create a men's lifestyle magazine centered on their concept of "extreme," and began publishing the Red Bulletin.
 
@@ -67,7 +67,7 @@ Of course, making content with community as the foundation is different from mak
 
 Let's try a realistic thought experiment. Not long ago, we made content called a **Beer Ideal Type World Cup** (http://news.joins.com/DigitalSpecial/301) — simple and intuitive content. (Somewhat disappointed it didn't get more attention... ugh.) Let me add some imagination. There's a currently(?) hot craft brewery culture. It's been trending in New York and similar cities for years, and has taken root considerably in Korea too. The most well-known here is probably **Amazing Brewery** (Seongsu-dong flagship). What if Amazing Brewery created original content? (Magazines, webzines, TV — the possibilities are endless.) And what if they planned events that at first glance seemed unrelated to beer?
 
-![](https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/yRY/image/ySdI0MDfy-RrO9Hf6UFwbqxBi5w.jpg) Amazing Brewery
+![Amazing Brewery reference image](https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/yRY/image/ySdI0MDfy-RrO9Hf6UFwbqxBi5w.jpg) Amazing Brewery
 
 If it were me, I'd try a surfing + craft brewery event in Yangyang in the summer. In fact, Amazing Brewing Company states its mission as "working to spread the taste of beer to the people of this country who have been drinking for decades simply to get drunk." The flagship in Seongsu-dong embraces the meaning of "holy water" inherent in its neighborhood's name, and actually runs a craft beer academy. It's creating stories.
 

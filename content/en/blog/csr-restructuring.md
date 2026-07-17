@@ -2,7 +2,7 @@
 title: Gathering Scattered Goodwill
 date: '2026-06-12'
 category: Strategy & Communications
-excerpt: We're rebuilding the company's CSR framework. The problem wasn't that we'd done too little good. It was that we'd done too much of it. On sorting out the legacy and defining what the company actually stands for.
+excerpt: We're rebuilding a CSR framework by sorting scattered legacy projects and asking what kind of goodwill the company should stand for.
 readingTime: 5
 relatedPortfolioSlugs:
   - furniture-upcycling

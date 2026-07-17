@@ -2,7 +2,7 @@
 title: "How Do You Know If a CEO's Message Is Actually Landing?"
 date: '2026-02-18'
 category: Strategy & Communications
-excerpt: "New Year speeches, anniversary addresses, shareholder letters. What we learned trying to measure and improve CEO message effectiveness — and how to validate qualitative language with data."
+excerpt: "A look at measuring CEO messages, from New Year speeches to shareholder letters, and turning qualitative language into data-backed improvement."
 readingTime: 5
 relatedPortfolioSlugs:
   - pr-dashboard

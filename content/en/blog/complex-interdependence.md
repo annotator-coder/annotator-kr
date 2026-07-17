@@ -2,7 +2,7 @@
 title: "Complex Interdependence Theory"
 date: '2009-03-31'
 category: Essays & Columns
-excerpt: "Studying IR turns up some surprisingly entertaining ideas — especially when power dynamics apply just as well to daily life..."
+excerpt: "Studying IR can reveal useful ways to read everyday power dynamics. This essay applies complex interdependence theory beyond international politics."
 readingTime: 2
 relatedPortfolioSlugs: []
 sourceUrl: >-

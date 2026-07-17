@@ -2,7 +2,7 @@
 title: '''블랙홀 옆에서'' 서평 1편 - 우리가 우주를 지금 쳐다봐야 하는 이유'
 date: '2023-03-17'
 category: 서평
-excerpt: 미국인들이 가장 좋아하는 천체물리학자 닐 디그래스 타이슨의 책. 
+excerpt: "'블랙홀 옆에서'를 읽고 닐 디그래스 타이슨의 우주 설명이 왜 지금 우리에게 필요한 질문이 되는지 정리했다."
 readingTime: 5
 relatedPortfolioSlugs: []
 sourceUrl: >-
@@ -12,7 +12,7 @@ sourceUrl: >-
 
  *・* 2023\. 3. 17. 6:00
 
-![](https://postfiles.pstatic.net/MjAyMzAzMTZfMTI0/MDAxNjc4OTAyMjEyOTgw.pjYWrx2UX55hteaOF7fCIJqq1B0Ja3_nWAvwPJDPaIog.8u8WUUWLUypceEw7RMPKxEokmBcvV9yV95vvFqESgegg.PNG.whiteagle/%EB%B8%94%EB%9E%99%ED%99%80%EC%98%86%EC%97%90%EC%84%9C_(1).png?type=w966)
+![블랙홀 옆에서 서평 제목 이미지](https://postfiles.pstatic.net/MjAyMzAzMTZfMTI0/MDAxNjc4OTAyMjEyOTgw.pjYWrx2UX55hteaOF7fCIJqq1B0Ja3_nWAvwPJDPaIog.8u8WUUWLUypceEw7RMPKxEokmBcvV9yV95vvFqESgegg.PNG.whiteagle/%EB%B8%94%EB%9E%99%ED%99%80%EC%98%86%EC%97%90%EC%84%9C_(1).png?type=w966)
 
 미국인들이 가장 좋아하는 천체물리학자 **닐 디그래스 타이슨**의 책.
 
@@ -36,7 +36,7 @@ sourceUrl: >-
 ---
 
 
-![](https://shopping-phinf.pstatic.net/main_3248145/32481452506.20221019114429.jpg)
+![닐 디그래스 타이슨 책 블랙홀 옆에서 표지](https://shopping-phinf.pstatic.net/main_3248145/32481452506.20221019114429.jpg)
 
 **블랙홀 옆에서**
 
@@ -75,7 +75,7 @@ sourceUrl: >-
 
 ****
 
-![](https://dimg.donga.com/wps/NEWS/IMAGE/2012/09/07/49186576.1.edit.jpg)
+![우주와 지구를 보여주는 천문학 관련 이미지](https://dimg.donga.com/wps/NEWS/IMAGE/2012/09/07/49186576.1.edit.jpg)
 
 출처 : 동아일보
 
@@ -85,7 +85,7 @@ sourceUrl: >-
 
 **주.** **예전엔 물리학과에 진짜 천재들이 모였다. 과거엔 그저 복잡한 수식을 잘 이해하려면 천재여야지라고 생각했는데, 지나고 보니 가장 상상력이 뛰어난 선배들이 모였던게 아닌가 싶다. 결과가 예측가능하다는 것, 수학적이라는 것은 '음률'이라는 단어에서도 알 수 있듯 음악이나 법률 같은 것과도 닿아 있으며, 이는 아름다움과도 닿아 있다.**
 
-![](https://s3.orbi.kr/data/file/united/4aa5931a1e7fd75c9bdeb2a8543f2258.png)
+![우주와 블랙홀을 설명하는 참고 이미지](https://s3.orbi.kr/data/file/united/4aa5931a1e7fd75c9bdeb2a8543f2258.png)
 
 서울대 물리학과 리즈시절이라는 인터넷 밈 짤.
 
@@ -107,7 +107,7 @@ sourceUrl: >-
 
 **주.** **동서양 모두 달력은 익히 일,월,화,수,목,금,토 를 사용한다. 우리의 눈에 보이는 천체가 시간이라는 관념을 분절된 요일화 한 거다. 이는 다양한 서양의 신화나, 동양의 무속에도 자리잡고 있다. 일직차사, 월직차사 같은 개념이나 아폴론, 비너스 같은 신도 마찬가지다.**
 
-![](https://img1.daumcdn.net/thumb/R658x0.q70/?fname=https://t1.daumcdn.net/news/201709/11/joongang/20170911144352874ebpu.jpg)
+![천문학자가 우주를 설명하는 강연 이미지](https://img1.daumcdn.net/thumb/R658x0.q70/?fname=https://t1.daumcdn.net/news/201709/11/joongang/20170911144352874ebpu.jpg)
 
 아주 좋아했던 웹툰 신과함께의 일직차사, 강림도령, 월직차사
 
