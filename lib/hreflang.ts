@@ -10,6 +10,9 @@ export function getKoAlternates(koPath: string) {
       en: `${BASE}${enPath}`,
       'x-default': `${BASE}${koPath}`,
     },
+    types: {
+      'application/rss+xml': `${BASE}/feed.xml`,
+    },
   }
 }
 
@@ -22,6 +25,9 @@ export function getEnAlternates(enPath: string) {
       ko: `${BASE}${koPath}`,
       en: `${BASE}${enPath}`,
       'x-default': `${BASE}${koPath}`,
+    },
+    types: {
+      'application/rss+xml': `${BASE}/en/feed.xml`,
     },
   }
 }

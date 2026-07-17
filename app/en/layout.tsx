@@ -8,6 +8,9 @@ export const metadata: Metadata = {
       en: 'https://annotator.kr/en',
       'x-default': 'https://annotator.kr',
     },
+    types: {
+      'application/rss+xml': 'https://annotator.kr/en/feed.xml',
+    },
   },
 }
 
