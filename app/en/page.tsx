@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
-import { getFeaturedProjects } from '@/lib/portfolio'
-import { getRecentPosts } from '@/lib/blog'
+import { getFeaturedProjectsEn } from '@/lib/portfolio-en'
+import { getRecentPostsEn } from '@/lib/blog-en'
 import JsonLd from '@/components/JsonLd'
 import { getEnAlternates } from '@/lib/hreflang'
 
@@ -38,8 +38,8 @@ const websiteSchema = {
 }
 
 export default function EnHome() {
-  const featuredProjects = getFeaturedProjects()
-  const recentPosts = getRecentPosts(3)
+  const featuredProjects = getFeaturedProjectsEn()
+  const recentPosts = getRecentPostsEn(3)
 
   return (
     <>
