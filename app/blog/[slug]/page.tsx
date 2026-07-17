@@ -48,42 +48,42 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 const mdComponents = {
-  p: (props: React.HTMLAttributes<HTMLParagraphElement>) => (
+  p: ({ node: _node, ...props }: React.HTMLAttributes<HTMLParagraphElement> & { node?: unknown }) => (
     <p style={{ fontSize: '1.0625rem', lineHeight: 1.85, color: 'var(--color-label-muted)', margin: '0.75em 0' }} {...props} />
   ),
-  h2: (props: React.HTMLAttributes<HTMLHeadingElement>) => (
+  h2: ({ node: _node, ...props }: React.HTMLAttributes<HTMLHeadingElement> & { node?: unknown }) => (
     <h2 style={{ fontSize: '1.375rem', fontWeight: 700, letterSpacing: '-0.02em', color: 'var(--color-label)', margin: '2.5em 0 0.75em' }} {...props} />
   ),
-  h3: (props: React.HTMLAttributes<HTMLHeadingElement>) => (
+  h3: ({ node: _node, ...props }: React.HTMLAttributes<HTMLHeadingElement> & { node?: unknown }) => (
     <h3 style={{ fontSize: '1.125rem', fontWeight: 700, letterSpacing: '-0.02em', color: 'var(--color-label)', margin: '2em 0 0.5em' }} {...props} />
   ),
-  blockquote: (props: React.HTMLAttributes<HTMLElement>) => (
+  blockquote: ({ node: _node, ...props }: React.HTMLAttributes<HTMLElement> & { node?: unknown }) => (
     <blockquote style={{ borderLeft: '3px solid var(--color-separator)', paddingLeft: '1em', margin: '1.5em 0', color: 'var(--color-label-subtle)', fontStyle: 'italic' }} {...props} />
   ),
-  strong: (props: React.HTMLAttributes<HTMLElement>) => (
+  strong: ({ node: _node, ...props }: React.HTMLAttributes<HTMLElement> & { node?: unknown }) => (
     <strong style={{ color: 'var(--color-label)', fontWeight: 700 }} {...props} />
   ),
-  img: (props: React.ImgHTMLAttributes<HTMLImageElement>) => (
+  img: ({ node: _node, ...props }: React.ImgHTMLAttributes<HTMLImageElement> & { node?: unknown }) => (
     // 네이버 CDN(postfiles.pstatic.net)이 외부 referer를 403으로 차단하므로 referer를 보내지 않는다
     // eslint-disable-next-line @next/next/no-img-element
     <img {...props} alt={props.alt ?? ''} referrerPolicy="no-referrer" loading="lazy" style={{ maxWidth: '100%', borderRadius: '8px', margin: '1em 0', display: 'block' }} />
   ),
-  a: (props: React.AnchorHTMLAttributes<HTMLAnchorElement>) => (
+  a: ({ node: _node, ...props }: React.AnchorHTMLAttributes<HTMLAnchorElement> & { node?: unknown }) => (
     <a {...props} target="_blank" rel="noopener noreferrer" style={{ color: 'var(--color-primary)', textDecoration: 'underline' }} />
   ),
-  ul: (props: React.HTMLAttributes<HTMLUListElement>) => (
+  ul: ({ node: _node, ...props }: React.HTMLAttributes<HTMLUListElement> & { node?: unknown }) => (
     <ul style={{ paddingLeft: '1.5em', margin: '0.75em 0', color: 'var(--color-label-muted)' }} {...props} />
   ),
-  ol: (props: React.HTMLAttributes<HTMLOListElement>) => (
+  ol: ({ node: _node, ...props }: React.HTMLAttributes<HTMLOListElement> & { node?: unknown }) => (
     <ol style={{ paddingLeft: '1.5em', margin: '0.75em 0', color: 'var(--color-label-muted)' }} {...props} />
   ),
-  li: (props: React.LiHTMLAttributes<HTMLLIElement>) => (
+  li: ({ node: _node, ...props }: React.LiHTMLAttributes<HTMLLIElement> & { node?: unknown }) => (
     <li style={{ fontSize: '1.0625rem', lineHeight: 1.8, margin: '0.25em 0' }} {...props} />
   ),
   hr: () => (
     <hr style={{ border: 'none', borderTop: '1px solid var(--color-separator)', margin: '2em 0' }} />
   ),
-  table: (props: React.TableHTMLAttributes<HTMLTableElement>) => (
+  table: ({ node: _node, ...props }: React.TableHTMLAttributes<HTMLTableElement> & { node?: unknown }) => (
     <div className="md-table-wrap">
       <table className="md-table" {...props} />
     </div>
@@ -98,6 +98,10 @@ export default async function BlogPost({ params }: Props) {
   const relatedProjects = post.relatedPortfolioSlugs
     .map((s) => getProjectBySlug(s))
     .filter(Boolean)
+
+  const relatedPosts = posts
+    .filter((p) => p.category === post.category && p.slug !== slug)
+    .slice(0, 3)
 
   const description = getPostDescription(post)
   const modifiedDate = getPostModifiedDate(post)
@@ -201,6 +205,28 @@ export default async function BlogPost({ params }: Props) {
                   <div>
                     <p className="related-box-label">Case Study</p>
                     <p className="related-box-title">{project.title}</p>
+                  </div>
+                  <span className="related-box-arrow">→</span>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* RELATED POSTS */}
+      {relatedPosts.length > 0 && (
+        <section style={{ background: 'var(--color-bg)', borderTop: '1px solid var(--color-separator)' }}>
+          <div className="section-wrap" style={{ paddingTop: '40px', paddingBottom: '40px' }}>
+            <p className="section-label">함께 읽기 — {post.category}</p>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '12px', maxWidth: '660px' }}>
+              {relatedPosts.map((p) => (
+                <Link key={p.slug} href={`/blog/${p.slug}`} className="related-box">
+                  <div>
+                    <p className="related-box-label">
+                      {new Date(p.date).toLocaleDateString('ko-KR', { year: 'numeric', month: 'long', day: 'numeric' })} · 읽기 {p.readingTime}분
+                    </p>
+                    <p className="related-box-title">{p.title}</p>
                   </div>
                   <span className="related-box-arrow">→</span>
                 </Link>
