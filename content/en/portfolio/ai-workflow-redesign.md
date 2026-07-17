@@ -1,5 +1,5 @@
 ---
-order: 14
+order: 15
 title: 'PR Team AI Workflow Redesign Blueprint'
 category: Org Design · AI Transformation
 tags:

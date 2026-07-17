@@ -1,5 +1,5 @@
 ---
-order: 4
+order: 5
 title: PR팀 성과 대시보드
 category: 팀 운영 · 데이터
 tags:

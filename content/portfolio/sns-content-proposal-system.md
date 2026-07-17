@@ -1,5 +1,5 @@
 ---
-order: 13
+order: 14
 title: SNS 콘텐츠 제안 자동화 시스템 (인스타그램·LinkedIn)
 category: 콘텐츠 자동화 · AI
 tags:

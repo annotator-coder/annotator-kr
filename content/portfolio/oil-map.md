@@ -1,5 +1,5 @@
 ---
-order: 2
+order: 3
 title: 원유 수입 다변화 인터랙티브 지도
 category: 데이터 시각화
 tags:

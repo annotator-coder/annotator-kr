@@ -1,5 +1,5 @@
 ---
-order: 1
+order: 2
 title: Media Crisis Response AI System
 category: AI · Crisis Management
 tags:

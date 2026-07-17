@@ -1,5 +1,5 @@
 ---
-order: 4
+order: 5
 title: PR Team Performance Dashboard
 category: Team Operations · Data
 tags:

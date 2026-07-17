@@ -1,5 +1,5 @@
 ---
-order: 1
+order: 2
 title: 언론 위기대응 AI 시스템
 category: AI · 위기관리
 tags:

@@ -1,5 +1,5 @@
 ---
-order: 13
+order: 14
 title: SNS Content Proposal Automation System (Instagram · LinkedIn)
 category: Content Automation · AI
 tags:

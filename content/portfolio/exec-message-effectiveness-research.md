@@ -1,5 +1,5 @@
 ---
-order: 15
+order: 16
 title: 경영진 메시지 전달력 진단 시스템
 category: 사내 커뮤니케이션 · 리서치
 tags:

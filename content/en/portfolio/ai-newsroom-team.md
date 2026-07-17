@@ -1,5 +1,5 @@
 ---
-order: 0
+order: 1
 title: Building an AI Newsroom Assistant Team
 category: AI · Content System
 tags:

@@ -1,5 +1,5 @@
 ---
-order: 16
+order: 0
 title: 사업부문 스크롤텔링 시리즈
 category: 브랜드 콘텐츠
 tags:
@@ -29,6 +29,6 @@ outcome:
   - 홈페이지 인트로의 방향족 280만톤 구표기 발견 - 수정 요청 대상으로 정리
   - 채용 설명회·기자 브리핑·해외 파트너 대상 공용 자산으로 활용 가능
 href: 'https://gsc-business-story.vercel.app'
-featured: false
+featured: true
 relatedBlogSlugs: []
 ---

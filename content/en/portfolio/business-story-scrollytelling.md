@@ -1,5 +1,5 @@
 ---
-order: 16
+order: 0
 title: Business Divisions Scrollytelling Series
 category: Brand Content
 tags:
@@ -32,6 +32,6 @@ outcome:
   - Found an outdated 2.8M-ton aromatics figure on the site intro, and filed it for correction
   - Ready to serve as shared material for recruiting sessions, press briefings and overseas partners
 href: 'https://gsc-business-story.vercel.app'
-featured: false
+featured: true
 relatedBlogSlugs: []
 ---

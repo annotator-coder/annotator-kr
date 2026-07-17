@@ -1,5 +1,5 @@
 ---
-order: 7
+order: 8
 title: Energy Company Digital Brochure
 category: Brand Content
 tags:

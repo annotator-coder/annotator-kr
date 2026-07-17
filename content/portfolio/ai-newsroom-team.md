@@ -1,5 +1,5 @@
 ---
-order: 0
+order: 1
 title: AI 뉴스룸 어시스턴트 팀 구축
 category: AI · 콘텐츠 시스템
 tags:

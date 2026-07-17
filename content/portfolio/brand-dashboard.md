@@ -1,5 +1,5 @@
 ---
-order: 6
+order: 7
 title: 브랜드 마케팅 대시보드
 category: 대시보드 · 브랜드
 tags:

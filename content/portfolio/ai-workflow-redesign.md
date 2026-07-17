@@ -1,5 +1,5 @@
 ---
-order: 14
+order: 15
 title: PR팀 AI 워크플로우 재설계 청사진
 category: 조직 설계 · AI 전환
 tags:

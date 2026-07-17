@@ -1,5 +1,5 @@
 ---
-order: 12
+order: 13
 title: 보도자료 성과 분석 대시보드
 category: PR 성과 · 데이터
 tags:

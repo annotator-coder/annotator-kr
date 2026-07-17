@@ -1,5 +1,5 @@
 ---
-order: 2
+order: 3
 title: Crude Oil Import Diversification Interactive Map
 category: Data Visualization
 tags:

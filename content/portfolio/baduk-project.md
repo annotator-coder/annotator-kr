@@ -1,5 +1,5 @@
 ---
-order: 9
+order: 10
 title: 바둑팀 분석 프로젝트
 category: 스포츠 PR · 데이터
 tags:

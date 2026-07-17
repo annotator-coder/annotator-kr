@@ -1,5 +1,5 @@
 ---
-order: 8
+order: 9
 title: PR Team AI Reference
 category: AI · Team Operations
 tags:

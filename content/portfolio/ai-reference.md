@@ -1,5 +1,5 @@
 ---
-order: 8
+order: 9
 title: PR팀 AI 레퍼런스
 category: AI · 팀 운영
 tags:

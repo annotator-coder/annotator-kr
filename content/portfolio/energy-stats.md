@@ -1,5 +1,5 @@
 ---
-order: 3
+order: 4
 title: 에너지 통계 대시보드
 category: 데이터 저널리즘
 tags:

@@ -1,5 +1,5 @@
 ---
-order: 3
+order: 4
 title: Energy Statistics Dashboard
 category: Data Journalism
 tags:

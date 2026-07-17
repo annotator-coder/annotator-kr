@@ -1,5 +1,5 @@
 ---
-order: 10
+order: 11
 title: AI Blog Assistant
 category: AI · Content Automation
 tags:

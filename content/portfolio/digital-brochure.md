@@ -1,5 +1,5 @@
 ---
-order: 7
+order: 8
 title: 에너지기업 디지털 브로슈어
 category: 브랜드 콘텐츠
 tags:

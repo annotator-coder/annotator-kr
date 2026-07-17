@@ -1,5 +1,5 @@
 ---
-order: 10
+order: 11
 title: AI 블로그 어시스턴트
 category: AI · 콘텐츠 자동화
 tags:
