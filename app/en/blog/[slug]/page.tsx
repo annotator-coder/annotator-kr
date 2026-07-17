@@ -6,6 +6,7 @@ import remarkGfm from 'remark-gfm'
 import { getPostDescription, getPostModifiedDate } from '@/lib/blog'
 import { getPostEnBySlug, postsEn } from '@/lib/blog-en'
 import { getProjectEnBySlug } from '@/lib/portfolio-en'
+import { getTopicByEnCategory } from '@/lib/blog-categories'
 import JsonLd from '@/components/JsonLd'
 import { getEnAlternates } from '@/lib/hreflang'
 
@@ -141,9 +142,24 @@ export default async function EnBlogPost({ params }: Props) {
     ...(post.sourceUrl ? { isBasedOn: post.sourceUrl } : {}),
   }
 
+  const categoryTopic = getTopicByEnCategory(post.category)
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://annotator.kr/en' },
+      { '@type': 'ListItem', position: 2, name: 'Blog', item: 'https://annotator.kr/en/blog' },
+      ...(categoryTopic
+        ? [{ '@type': 'ListItem', position: 3, name: post.category, item: `https://annotator.kr/en/blog/category/${categoryTopic.slug}` }]
+        : []),
+      { '@type': 'ListItem', position: categoryTopic ? 4 : 3, name: post.title },
+    ],
+  }
+
   return (
     <>
       <JsonLd data={articleSchema} />
+      <JsonLd data={breadcrumbSchema} />
       {/* HEADER */}
       <div className="page-header" style={{ borderBottom: '1px solid var(--color-separator)' }}>
         <div className="page-header-inner">

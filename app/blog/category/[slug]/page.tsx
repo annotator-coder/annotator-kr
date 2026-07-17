@@ -60,9 +60,20 @@ export default async function BlogCategoryPage({ params }: Props) {
     about: topic.koTitle,
   }
 
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: '홈', item: 'https://annotator.kr' },
+      { '@type': 'ListItem', position: 2, name: '블로그', item: 'https://annotator.kr/blog' },
+      { '@type': 'ListItem', position: 3, name: topic.koTitle },
+    ],
+  }
+
   return (
     <>
       <JsonLd data={collectionSchema} />
+      <JsonLd data={breadcrumbSchema} />
       <div className="page-header">
         <div className="page-header-inner">
           <p className="page-header-label">Blog Topic</p>

@@ -5,6 +5,7 @@ import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import { getPostBySlug, getPostDescription, getPostModifiedDate, posts } from '@/lib/blog'
 import { getProjectBySlug } from '@/lib/portfolio'
+import { getTopicByKoCategory } from '@/lib/blog-categories'
 import JsonLd from '@/components/JsonLd'
 import { getKoAlternates } from '@/lib/hreflang'
 
@@ -141,9 +142,24 @@ export default async function BlogPost({ params }: Props) {
     ...(post.sourceUrl ? { isBasedOn: post.sourceUrl } : {}),
   }
 
+  const categoryTopic = getTopicByKoCategory(post.category)
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: '홈', item: 'https://annotator.kr' },
+      { '@type': 'ListItem', position: 2, name: '블로그', item: 'https://annotator.kr/blog' },
+      ...(categoryTopic
+        ? [{ '@type': 'ListItem', position: 3, name: post.category, item: `https://annotator.kr/blog/category/${categoryTopic.slug}` }]
+        : []),
+      { '@type': 'ListItem', position: categoryTopic ? 4 : 3, name: post.title },
+    ],
+  }
+
   return (
     <>
       <JsonLd data={articleSchema} />
+      <JsonLd data={breadcrumbSchema} />
       {/* HEADER */}
       <div className="page-header" style={{ borderBottom: '1px solid var(--color-separator)' }}>
         <div className="page-header-inner">

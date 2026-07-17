@@ -147,6 +147,14 @@ export function getBlogCategoryTopic(slug: string): BlogCategoryTopic | undefine
   return BLOG_CATEGORY_TOPICS.find((topic) => topic.slug === slug)
 }
 
+export function getTopicByKoCategory(category: string): BlogCategoryTopic | undefined {
+  return BLOG_CATEGORY_TOPICS.find((topic) => topic.koCategory === category)
+}
+
+export function getTopicByEnCategory(category: string): BlogCategoryTopic | undefined {
+  return BLOG_CATEGORY_TOPICS.find((topic) => topic.enCategory === category)
+}
+
 export function getKoPostsByCategory(posts: BlogPost[], slug: string): BlogPost[] {
   const topic = getBlogCategoryTopic(slug)
   if (!topic) return []
