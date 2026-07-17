@@ -66,7 +66,7 @@ const mdComponents = {
   ),
   img: (props: React.ImgHTMLAttributes<HTMLImageElement>) => (
     // eslint-disable-next-line @next/next/no-img-element
-    <img {...props} alt={props.alt ?? ''} style={{ maxWidth: '100%', borderRadius: '8px', margin: '1em 0', display: 'block' }} />
+    <img {...props} alt={props.alt ?? ''} referrerPolicy="no-referrer" loading="lazy" style={{ maxWidth: '100%', borderRadius: '8px', margin: '1em 0', display: 'block' }} />
   ),
   a: (props: React.AnchorHTMLAttributes<HTMLAnchorElement>) => (
     <a {...props} target="_blank" rel="noopener noreferrer" style={{ color: 'var(--color-primary)', textDecoration: 'underline' }} />
