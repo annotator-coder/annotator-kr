@@ -3,6 +3,8 @@
 - 라우틴 ID: `trig_01A2WEpTTcyR7PRNt4Ksi9J8`
 - 라우틴 링크: https://claude.ai/code/routines/trig_01A2WEpTTcyR7PRNt4Ksi9J8
 - 스케줄: 매월 1·4·7·10·13·16·19·22·25·28일 09:00 KST (cron: `0 0 1,4,7,10,13,16,19,22,25,28 * *` UTC)
+  - **월 경계 근사 주의**: day-of-month 방식이라 "정확히 3일 간격"이 아니다. 2월은 28일→3월 1일로 **1일 간격**이 되고, 31일짜리 달은 28일→31일이 아니라 28일→(다음달)1일로 이어져 최대 4일 간격이 발생할 수 있다. 둘 다 정상 동작이며 버그 아님.
+  - 이 근사로 인해 1단계(24시간 내 중복 실행 방지) 안전장치가 월 경계(2월 28일→3월 1일)에서 정상 실행을 "중복"으로 오판해 스킵할 가능성이 있음 — 실제로 스킵 노트가 남으면 이 원인일 가능성이 높음.
 - 출력 위치: Obsidian vault > 20-Projects > 블로그-소재제안 (Drive 폴더 ID `1OQ1MRX273wEe-dbqnz0aluBd539OetGH`)
 - 알림: no1.annotator@gmail.com Gmail 임시보관함 (draft만 생성 — 실제 발송 아님, 직접 확인 필요)
 - 프롬프트 원본: `docs/blog-idea-scout-routine-prompt.md`
