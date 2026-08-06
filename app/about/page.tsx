@@ -8,23 +8,29 @@ export const metadata: Metadata = {
   description: '11년 기자 출신 PR 리드. 중앙일보 기자, 오늘의집 PR, GS칼텍스 PR팀장. AI 도구를 직접 만들며 커뮤니케이션과 엔지니어링의 경계에서 일합니다.',
   alternates: { ...getKoAlternates('/about') },
   openGraph: {
-    title: 'About | Annotator',
+    title: 'About | Annotator(정원엽)',
     description: '11년 기자 출신 PR 리드. AI 도구를 직접 만들며 커뮤니케이션과 엔지니어링의 경계에서 일합니다.',
     url: 'https://annotator.kr/about',
     type: 'profile',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'About | Annotator(정원엽)',
+    description: '11년 기자 출신 PR 리드. AI 도구를 직접 만들며 커뮤니케이션과 엔지니어링의 경계에서 일합니다.',
   },
 }
 
 const personSchema = {
   '@context': 'https://schema.org',
   '@type': 'Person',
-  name: 'Annotator',
+  name: '정원엽',
+  alternateName: ['Wonyeob Jung', 'Annotator'],
   url: 'https://annotator.kr',
   description: '11년 기자 출신 PR 리드. 중앙일보 기자, 오늘의집 PR, GS칼텍스 PR팀장. AI 도구를 직접 만들며 커뮤니케이션과 엔지니어링의 경계에서 일한다.',
   jobTitle: 'PR Lead',
   email: 'no1.annotator@gmail.com',
   sameAs: [
-    'https://www.linkedin.com/in/wonyeob-jung-4583754b',
+    'https://www.linkedin.com/in/wonyeobjung',
     'https://github.com/annotator-coder',
   ],
   knowsAbout: [
@@ -74,6 +80,9 @@ export default function About() {
         <div className="page-header-inner">
           <p className="page-header-label">About</p>
           <h1 className="page-header-title">Annotator</h1>
+          <p style={{ fontSize: '1.0625rem', fontWeight: 600, color: 'var(--color-label-muted)', marginTop: '-8px', marginBottom: '16px' }}>
+            정원엽 · Wonyeob Jung
+          </p>
           <p className="page-header-desc">
             11년간 기자로 기술 정책과 글로벌 이슈를 취재했고, 유니콘 스타트업에서 위기커뮤니케이션과 PR을 이끌었습니다.
             지금은 AI 도구를 직접 만들며 커뮤니케이션과 엔지니어링의 경계에서 일합니다.
@@ -127,7 +136,7 @@ export default function About() {
                   <a href="mailto:no1.annotator@gmail.com" className="btn-ghost">
                     no1.annotator@gmail.com ↗
                   </a>
-                  <a href="https://www.linkedin.com/in/wonyeob-jung-4583754b" target="_blank" rel="noopener" className="btn-ghost">
+                  <a href="https://www.linkedin.com/in/wonyeobjung" target="_blank" rel="noopener" className="btn-ghost">
                     LinkedIn ↗
                   </a>
                   <a href="https://github.com/annotator-coder" target="_blank" rel="noopener" className="btn-ghost">

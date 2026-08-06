@@ -6,7 +6,7 @@ import JsonLd from '@/components/JsonLd'
 import { getKoAlternates } from '@/lib/hreflang'
 
 export const metadata: Metadata = {
-  title: { absolute: 'Annotator — 기자 출신 PR 리드의 AI·커뮤니케이션 기록' },
+  title: { absolute: 'Annotator(정원엽) — 기자 출신 PR 리드의 AI·커뮤니케이션 기록' },
   description: '11년 기자 출신 PR 리드. AI 도구를 직접 만들며 커뮤니케이션과 엔지니어링의 경계에서 일합니다.',
   alternates: getKoAlternates('/'),
 }
@@ -19,7 +19,8 @@ const websiteSchema = {
   description: '11년 기자 출신 PR 리드의 포트폴리오·블로그. AI 시스템, 데이터 시각화, PR 콘텐츠 케이스 스터디.',
   author: {
     '@type': 'Person',
-    name: 'Annotator',
+    name: '정원엽',
+    alternateName: ['Wonyeob Jung', 'Annotator'],
     url: 'https://annotator.kr/about',
   },
   potentialAction: {
@@ -82,7 +83,7 @@ export default function Home() {
             <a href="mailto:no1.annotator@gmail.com" style={{ fontSize: '0.875rem', color: 'var(--color-label)', fontWeight: 600, borderBottom: '1px solid var(--color-separator)', paddingBottom: '2px' }}>
               no1.annotator@gmail.com
             </a>
-            <a href="https://www.linkedin.com/in/wonyeob-jung-4583754b" target="_blank" rel="noopener" style={{ fontSize: '0.875rem', color: 'var(--color-label-subtle)' }}>
+            <a href="https://www.linkedin.com/in/wonyeobjung" target="_blank" rel="noopener" style={{ fontSize: '0.875rem', color: 'var(--color-label-subtle)' }}>
               LinkedIn ↗
             </a>
             <a href="https://github.com/annotator-coder" target="_blank" rel="noopener" style={{ fontSize: '0.875rem', color: 'var(--color-label-subtle)' }}>

@@ -8,24 +8,30 @@ export const metadata: Metadata = {
   description: 'PR Lead with 11 years as a journalist. Former JoongAng Ilbo reporter, Ohouse PR, now at GS Caltex. Building AI tools at the intersection of storytelling and engineering.',
   alternates: getEnAlternates('/en/about'),
   openGraph: {
-    title: 'About | Annotator',
+    title: 'About | Annotator (Wonyeob Jung)',
     description: 'PR Lead with 11 years as a journalist. Building AI tools at the intersection of communication and engineering.',
     url: 'https://annotator.kr/en/about',
     type: 'profile',
     locale: 'en_US',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'About | Annotator (Wonyeob Jung)',
+    description: 'PR Lead with 11 years as a journalist. Building AI tools at the intersection of communication and engineering.',
   },
 }
 
 const personSchema = {
   '@context': 'https://schema.org',
   '@type': 'Person',
-  name: 'Annotator',
+  name: 'Wonyeob Jung',
+  alternateName: ['정원엽', 'Annotator'],
   url: 'https://annotator.kr/en',
   description: 'PR Lead with 11 years as a journalist. Former JoongAng Ilbo reporter, Ohouse PR, now PR team lead at a major energy company. Building AI tools at the intersection of communication and engineering.',
   jobTitle: 'PR Lead',
   email: 'no1.annotator@gmail.com',
   sameAs: [
-    'https://www.linkedin.com/in/wonyeob-jung-4583754b',
+    'https://www.linkedin.com/in/wonyeobjung',
     'https://github.com/annotator-coder',
   ],
   knowsAbout: [
@@ -75,6 +81,9 @@ export default function EnAbout() {
         <div className="page-header-inner">
           <p className="page-header-label">About</p>
           <h1 className="page-header-title">Annotator</h1>
+          <p style={{ fontSize: '1.0625rem', fontWeight: 600, color: 'var(--color-label-muted)', marginTop: '-8px', marginBottom: '16px' }}>
+            Wonyeob Jung · 정원엽
+          </p>
           <p className="page-header-desc">
             Spent 11 years as a journalist covering technology policy and global issues, then led crisis communication and PR at a unicorn startup.
             Now building AI tools at the intersection of communication and engineering.
@@ -128,7 +137,7 @@ export default function EnAbout() {
                   <a href="mailto:no1.annotator@gmail.com" className="btn-ghost">
                     no1.annotator@gmail.com ↗
                   </a>
-                  <a href="https://www.linkedin.com/in/wonyeob-jung-4583754b" target="_blank" rel="noopener" className="btn-ghost">
+                  <a href="https://www.linkedin.com/in/wonyeobjung" target="_blank" rel="noopener" className="btn-ghost">
                     LinkedIn ↗
                   </a>
                   <a href="https://github.com/annotator-coder" target="_blank" rel="noopener" className="btn-ghost">

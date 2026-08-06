@@ -13,6 +13,11 @@ export const metadata: Metadata = {
     url: 'https://annotator.kr/en/blog',
     locale: 'en_US',
   },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Blog | Annotator',
+    description: 'Writing on PR, journalism, film, books, and life.',
+  },
 }
 
 export default function EnBlog() {

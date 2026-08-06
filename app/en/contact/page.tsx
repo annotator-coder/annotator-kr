@@ -11,6 +11,11 @@ export const metadata: Metadata = {
     url: 'https://annotator.kr/en/contact',
     locale: 'en_US',
   },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Contact | Annotator',
+    description: 'Open to collaboration proposals, speaking requests, interviews, or just a friendly hello.',
+  },
 }
 
 export default function EnContact() {
@@ -45,7 +50,7 @@ export default function EnContact() {
               <p className="section-label">Social</p>
               <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
                 <a
-                  href="https://www.linkedin.com/in/wonyeob-jung-4583754b"
+                  href="https://www.linkedin.com/in/wonyeobjung"
                   target="_blank"
                   rel="noopener noreferrer"
                   style={{

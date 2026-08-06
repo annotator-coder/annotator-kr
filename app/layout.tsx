@@ -10,14 +10,14 @@ import './globals.css'
 export const metadata: Metadata = {
   metadataBase: new URL('https://annotator.kr'),
   title: {
-    default: 'Annotator — 기자 출신 PR 리드의 AI·커뮤니케이션 기록',
+    default: 'Annotator(정원엽) — 기자 출신 PR 리드의 AI·커뮤니케이션 기록',
     template: '%s | Annotator',
   },
   description: '11년 기자 출신 PR 리드. AI 도구를 직접 만들며 커뮤니케이션과 엔지니어링의 경계에서 일합니다.',
-  authors: [{ name: 'Annotator', url: 'https://annotator.kr/about' }],
+  authors: [{ name: '정원엽 (Annotator)', url: 'https://annotator.kr/about' }],
   creator: 'Annotator',
   openGraph: {
-    title: 'Annotator — 기자 출신 PR 리드의 AI·커뮤니케이션 기록',
+    title: 'Annotator(정원엽) — 기자 출신 PR 리드의 AI·커뮤니케이션 기록',
     description: '11년 기자 출신 PR 리드. AI 도구를 직접 만들며 커뮤니케이션과 엔지니어링의 경계에서 일합니다.',
     url: 'https://annotator.kr',
     siteName: 'Annotator',
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Annotator — 기자 출신 PR 리드의 AI·커뮤니케이션 기록',
+    title: 'Annotator(정원엽) — 기자 출신 PR 리드의 AI·커뮤니케이션 기록',
     description: '11년 기자 출신 PR 리드. AI 도구를 직접 만들며 커뮤니케이션과 엔지니어링의 경계에서 일합니다.',
   },
   alternates: {

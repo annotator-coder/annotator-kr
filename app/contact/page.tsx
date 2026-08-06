@@ -40,7 +40,7 @@ export default function Contact() {
               <p className="section-label">소셜</p>
               <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
                 <a
-                  href="https://www.linkedin.com/in/wonyeob-jung-4583754b"
+                  href="https://www.linkedin.com/in/wonyeobjung"
                   target="_blank"
                   rel="noopener noreferrer"
                   style={{

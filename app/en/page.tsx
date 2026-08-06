@@ -6,11 +6,11 @@ import JsonLd from '@/components/JsonLd'
 import { getEnAlternates } from '@/lib/hreflang'
 
 export const metadata: Metadata = {
-  title: { absolute: 'Annotator — AI & Communications by a Journalist-turned PR Lead' },
+  title: { absolute: 'Annotator (Wonyeob Jung) — AI & Communications by a Journalist-turned PR Lead' },
   description: 'PR Lead with 11 years as a journalist. Building AI tools at the intersection of communication and engineering.',
   alternates: getEnAlternates('/en'),
   openGraph: {
-    title: 'Annotator — AI & Communications by a Journalist-turned PR Lead',
+    title: 'Annotator (Wonyeob Jung) — AI & Communications by a Journalist-turned PR Lead',
     description: 'PR Lead with 11 years as a journalist. Building AI tools at the intersection of communication and engineering.',
     url: 'https://annotator.kr/en',
     siteName: 'Annotator',
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Annotator — AI & Communications by a Journalist-turned PR Lead',
+    title: 'Annotator (Wonyeob Jung) — AI & Communications by a Journalist-turned PR Lead',
     description: 'PR Lead with 11 years as a journalist. Building AI tools at the intersection of communication and engineering.',
   },
 }
@@ -32,7 +32,8 @@ const websiteSchema = {
   description: 'Portfolio and blog of a PR Lead with 11 years as a journalist. AI systems, data visualization, PR content case studies.',
   author: {
     '@type': 'Person',
-    name: 'Annotator',
+    name: 'Wonyeob Jung',
+    alternateName: ['정원엽', 'Annotator'],
     url: 'https://annotator.kr/en/about',
   },
 }
@@ -81,7 +82,7 @@ export default function EnHome() {
             <a href="mailto:no1.annotator@gmail.com" style={{ fontSize: '0.875rem', color: 'var(--color-label)', fontWeight: 600, borderBottom: '1px solid var(--color-separator)', paddingBottom: '2px' }}>
               no1.annotator@gmail.com
             </a>
-            <a href="https://www.linkedin.com/in/wonyeob-jung-4583754b" target="_blank" rel="noopener" style={{ fontSize: '0.875rem', color: 'var(--color-label-subtle)' }}>
+            <a href="https://www.linkedin.com/in/wonyeobjung" target="_blank" rel="noopener" style={{ fontSize: '0.875rem', color: 'var(--color-label-subtle)' }}>
               LinkedIn ↗
             </a>
             <a href="https://github.com/annotator-coder" target="_blank" rel="noopener" style={{ fontSize: '0.875rem', color: 'var(--color-label-subtle)' }}>

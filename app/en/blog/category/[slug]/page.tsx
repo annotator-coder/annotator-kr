@@ -35,6 +35,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       locale: 'en_US',
       type: 'website',
     },
+    twitter: {
+      card: 'summary_large_image',
+      title: `${topic.enTitle} Posts | Annotator`,
+      description: topic.enDescription,
+    },
   }
 }
 

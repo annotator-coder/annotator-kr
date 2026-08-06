@@ -13,6 +13,11 @@ export const metadata: Metadata = {
     url: 'https://annotator.kr/en/portfolio',
     locale: 'en_US',
   },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Portfolio | Annotator',
+    description: 'AI systems, data visualization, PR content — case studies of work I built.',
+  },
 }
 
 export default function EnPortfolio() {

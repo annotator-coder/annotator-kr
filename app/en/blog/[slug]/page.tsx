@@ -128,7 +128,7 @@ export default async function EnBlogPost({ params }: Props) {
       name: 'Annotator',
       url: 'https://annotator.kr/en/about',
       sameAs: [
-        'https://www.linkedin.com/in/wonyeob-jung-4583754b',
+        'https://www.linkedin.com/in/wonyeobjung',
         'https://github.com/annotator-coder',
       ],
     },
