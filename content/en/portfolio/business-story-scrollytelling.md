@@ -29,6 +29,7 @@ approach:
   - Ran the whole process in Claude Code — research, build, browser verification, Vercel deployment
 outcome:
   - 16 pages shipped in Korean and English — one link that walks through every business
+  - Later added process-flow and company pages and expanded into Japanese and Chinese editions — now 40 pages across four languages
   - Found an outdated 2.8M-ton aromatics figure on the site intro, and filed it for correction
   - Ready to serve as shared material for recruiting sessions, press briefings and overseas partners
 href: 'https://gsc-business-story.vercel.app'
